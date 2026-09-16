@@ -14,7 +14,7 @@ fully static — open it anywhere, no backend needed.
 
 ## Live site
 
-**https://rashir4.github.io/avenylunch/** — hosted free on GitHub Pages, with
+**https://rashir4.github.io/lunchmenu-avenyn/** — hosted free on GitHub Pages, with
 HTTPS, and refreshed automatically each weekday morning by
 `.github/workflows/deploy.yml`. No domain purchase involved.
 
@@ -147,7 +147,7 @@ The site is static, so hosting is free on GitHub Pages. One workflow
    workflows keep running there).
 2. Push this repo to it:
    ```bash
-   git remote add origin github-personal:<you>/avenylunch.git
+   git remote add origin github-personal:Rashir4/lunchmenu-avenyn.git
    git push -u origin main
    ```
 
@@ -183,7 +183,7 @@ The site is static, so hosting is free on GitHub Pages. One workflow
 The Pages URL above costs nothing and needs no upkeep, so this is only worth
 doing if the address itself bothers you.
 
-- **Drop the `/avenylunch` path.** Rename the repo to `Rashir4.github.io` and
+- **Drop the `/lunchmenu-avenyn` path.** Rename the repo to `Rashir4.github.io` and
   the site answers at `https://rashir4.github.io`. GitHub gives each account
   one such "user site", so this spends it on this project.
 - **A free subdomain.** Services like [is-a.dev](https://is-a.dev) hand out
