@@ -2,8 +2,7 @@
 
 A lunch-menu aggregator for the area around **Avenyn and Götaplatsen, Gothenburg**
 — anchored on Lennart Torstenssonsgatan and reaching Lorensberg, Vasastan,
-Heden, Johanneberg, Chalmers and Korsvägen. In the spirit of
-[lindholmenlunch.nu](https://lindholmenlunch.nu/).
+Heden, Johanneberg, Chalmers and Korsvägen.
 
 Restaurants by district (46 in total): Heden 16 · Vasastaden 12 · Chalmers
 campus & Ullevi 6 · Johanneberg 4 · Krokslätt 4 · Lorensberg 3 · Haga 1.
