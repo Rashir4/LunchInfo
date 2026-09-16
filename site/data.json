@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 38,
- "generated_at": "2026-09-16T13:52:21+00:00",
+ "generated_at": "2026-09-16T13:58:52+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -5892,123 +5892,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Vitlöksmarinerad kyckling, stekt svamp, lök, bacon. Rödvinssås & rostad potatis",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Citronbakad kummel m. fänkålssallad, kokt potatis, rotsaker & krämig örtsås L",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "VEG: Vegetariska biffar, kokt potatis, rotsaker, stekt svamp & tomatsås",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Stekt strömming, potatismos, brynt smör, citron & rårörda lingon L G",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Färsbiffar smaksatta m. karamelliserad lök & bacon Rostad potatis, lingon & gräddsås L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd G L",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd G L",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Dagens fångst med vitvinssås, bakad blomkål & dillpotatis L",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis G",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Ugnsbakad fläskytterfilé med bearnaisesås, örtfrästa grönsaker & stekt potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Gratinerad lax med bearnaisesås, örtfrästa grönsaker & stekt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Grillad Halloumi med bearnaisesås, örtfrästa grönsaker & stekt potatis",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f9640a88bf0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
