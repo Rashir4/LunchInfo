@@ -14,8 +14,9 @@ fully static — open it anywhere, no backend needed.
 
 ## Live site
 
-Published with GitHub Pages at **avenylunch.nu**, refreshed automatically each
-weekday morning by `.github/workflows/deploy.yml`.
+**https://rashir4.github.io/avenylunch/** — hosted free on GitHub Pages, with
+HTTPS, and refreshed automatically each weekday morning by
+`.github/workflows/deploy.yml`. No domain purchase involved.
 
 ## Quick start
 
@@ -177,34 +178,28 @@ The site is static, so hosting is free on GitHub Pages. One workflow
 5. The first deploy runs on push. Check the **Actions** tab; the deploy job
    prints the live URL.
 
-### Custom domain (avenylunch.nu)
+### A shorter URL (all optional, all free)
 
-Do this **after** the domain is registered and DNS is pointing at GitHub —
-adding `site/CNAME` early makes Pages redirect the working `github.io` URL to a
-domain that does not resolve yet, which takes the site offline.
+The Pages URL above costs nothing and needs no upkeep, so this is only worth
+doing if the address itself bothers you.
 
-`.nu` and `.se` are both run by Internetstiftelsen; budget roughly
-100–200 SEK/year through a registrar such as Loopia or Websupport. Once you own
-it, point DNS at GitHub Pages:
-
-| Type | Name | Value |
-| --- | --- | --- |
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
-| CNAME | `www` | `<you>.github.io.` |
-
-Then:
-
-```bash
-echo avenylunch.nu > site/CNAME && git add site/CNAME && git commit -m "Custom domain" && git push
-```
-
-and in **Settings → Pages → Custom domain** enter `avenylunch.nu`, ticking
-**Enforce HTTPS** once the certificate is issued (usually minutes, up to 24h).
-Until then the site lives at `https://<you>.github.io/avenylunch/`, which works
-fine on its own.
+- **Drop the `/avenylunch` path.** Rename the repo to `Rashir4.github.io` and
+  the site answers at `https://rashir4.github.io`. GitHub gives each account
+  one such "user site", so this spends it on this project.
+- **A free subdomain.** Services like [is-a.dev](https://is-a.dev) hand out
+  e.g. `avenylunch.is-a.dev` via a pull request to their repo. Free, but
+  someone else reviews it and you depend on them keeping the service running.
+- **Buy `avenylunch.nu`** (~100–200 SEK/year through Loopia or Websupport;
+  `.nu` and `.se` are both run by Internetstiftelsen). Only then add the
+  DNS records below — `A` for `@` to `185.199.108.153`, `.109.153`, `.110.153`
+  and `.111.153`, plus a `CNAME` for `www` to `rashir4.github.io.` — wait for
+  them to resolve, and only after that:
+  ```bash
+  echo avenylunch.nu > site/CNAME && git add site/CNAME && git commit -m "Custom domain" && git push
+  ```
+  Adding `site/CNAME` before DNS resolves redirects the working Pages URL to a
+  dead domain and takes the site offline, so leave that file absent until the
+  domain is genuinely live.
 
 ### The scheduled refresh
 
