@@ -12,6 +12,11 @@ A Python scraper fetches each restaurant's weekly lunch menu from its own
 website, validates the data, and writes `site/data.json`. The site itself is
 fully static — open it anywhere, no backend needed.
 
+## Live site
+
+Published with GitHub Pages at **avenylunch.nu**, refreshed automatically each
+weekday morning by `.github/workflows/deploy.yml`.
+
 ## Quick start
 
 ```bash
@@ -127,3 +132,74 @@ duplicate ("Svenskt" alongside "Husmanskost") fragments the dropdown, and
 
 Menus are scraped for personal use; data always links back to the source
 restaurant, and walking times are estimates from Lennart Torstenssonsgatan.
+
+
+## Deploying
+
+The site is static, so hosting is free on GitHub Pages. One workflow
+(`.github/workflows/deploy.yml`) both refreshes the menus and publishes.
+
+### First-time setup
+
+1. Create an empty GitHub repo (public — Actions minutes are free for public
+   repos, and scheduled workflows keep running).
+2. Push this repo to it:
+   ```bash
+   git remote add origin git@github.com:<you>/avenylunch.git
+   git push -u origin main
+   ```
+3. In the repo: **Settings → Pages → Build and deployment → Source:
+   GitHub Actions**. (Not "Deploy from a branch" — the workflow uploads the
+   site as an artifact.)
+4. In **Settings → Actions → General → Workflow permissions**, pick
+   *Read and write permissions* so the scheduled run can commit the refreshed
+   `site/data.json`.
+5. The first deploy runs on push. Check the **Actions** tab; the deploy job
+   prints the live URL.
+
+### Custom domain (avenylunch.nu)
+
+Do this **after** the domain is registered and DNS is pointing at GitHub —
+adding `site/CNAME` early makes Pages redirect the working `github.io` URL to a
+domain that does not resolve yet, which takes the site offline.
+
+`.nu` and `.se` are both run by Internetstiftelsen; budget roughly
+100–200 SEK/year through a registrar such as Loopia or Websupport. Once you own
+it, point DNS at GitHub Pages:
+
+| Type | Name | Value |
+| --- | --- | --- |
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `<you>.github.io.` |
+
+Then:
+
+```bash
+echo avenylunch.nu > site/CNAME && git add site/CNAME && git commit -m "Custom domain" && git push
+```
+
+and in **Settings → Pages → Custom domain** enter `avenylunch.nu`, ticking
+**Enforce HTTPS** once the certificate is issued (usually minutes, up to 24h).
+Until then the site lives at `https://<you>.github.io/avenylunch/`, which works
+fine on its own.
+
+### The scheduled refresh
+
+Runs 05:00 UTC on weekdays — 07:00 Stockholm in summer, 06:00 in winter. It
+scrapes, runs the tests, commits `site/data.json` when it changed, and deploys.
+
+Weekdays rather than Mondays only, because some restaurants publish the new
+week late; a daily run picks them up the day they appear. For a weekly run,
+change the cron in the workflow to `0 5 * * 1`.
+
+A failed scrape does **not** take the site down: the previously committed
+`data.json` is deployed instead and the run is marked failed so you get a
+notification. `scraper/main.py` also refuses to write a `data.json` where fewer
+than half the restaurants scraped cleanly.
+
+Note that GitHub disables scheduled workflows in public repos after 60 days
+with no repository activity. The weekly menu commits count as activity, so this
+only matters if every scrape stops producing changes.
