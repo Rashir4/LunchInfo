@@ -141,12 +141,32 @@ The site is static, so hosting is free on GitHub Pages. One workflow
 
 ### First-time setup
 
-1. Create an empty GitHub repo (public — Actions minutes are free for public
-   repos, and scheduled workflows keep running).
+1. Create an empty GitHub repo — public, with no README, licence or
+   `.gitignore` (Actions minutes are free for public repos, and scheduled
+   workflows keep running there).
 2. Push this repo to it:
    ```bash
-   git remote add origin git@github.com:<you>/avenylunch.git
+   git remote add origin github-personal:<you>/avenylunch.git
    git push -u origin main
+   ```
+
+   `github-personal` is an SSH alias in `~/.ssh/config`, not a typo. GitHub
+   refuses to accept one SSH key on two accounts, and the default key here is
+   already registered to the work account `alphaleap-rasheed`. The alias pairs
+   a dedicated key (`~/.ssh/id_ed25519_avenylunch`) with the personal account,
+   leaving plain `github.com` working as before for work repos. Add
+   `~/.ssh/id_ed25519_avenylunch.pub` to the personal account under
+   **Settings → SSH and GPG keys** first, then check it with:
+   ```bash
+   ssh -T github-personal     # should greet your personal username
+   ```
+
+   Commits are currently authored as `rasheed.sheik@alphaleap.se`. GitHub links
+   commits to a profile by email, so to have them show up as yours on the
+   personal account, set a repo-local identity before pushing:
+   ```bash
+   git config user.email "<id>+<username>@users.noreply.github.com"   # from GitHub → Settings → Emails
+   git config user.name  "<your name>"
    ```
 3. In the repo: **Settings → Pages → Build and deployment → Source:
    GitHub Actions**. (Not "Deploy from a branch" — the workflow uploads the
