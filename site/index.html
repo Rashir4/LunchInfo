@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Avenylunch — veckans luncher kring Avenyn och Götaplatsen</title>
+  <meta name="description" content="Veckans lunchmenyer från restauranger inom promenadavstånd från Avenyn och Götaplatsen: Lorensberg, Vasastan, Heden, Johanneberg, Chalmers och Korsvägen.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🍲%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>🍲 Avenylunch</h1>
+      <p class="tagline">Veckans luncher inom 20 minuters promenad från Lennart&nbsp;Torstenssonsgatan</p>
+      <p class="meta" id="week-info" hidden></p>
+    </div>
+  </header>
+
+  <nav class="controls wrap" aria-label="Filtrera">
+    <div class="day-tabs" id="day-tabs" role="tablist" aria-label="Veckodag"></div>
+    <div class="filters">
+      <input type="search" id="filter" placeholder="Sök restaurang eller rätt…" aria-label="Sök restaurang eller rätt">
+      <select id="restaurant-filter" aria-label="Restaurang"></select>
+      <select id="cuisine-filter" aria-label="Kök"></select>
+      <select id="type-filter" aria-label="Typ av mat"></select>
+      <button type="button" id="clear-filters" hidden>Rensa</button>
+    </div>
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+  </nav>
+
+  <main class="wrap">
+    <p id="status" class="status" hidden></p>
+    <div id="cards" class="cards"></div>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>Menyer hämtas automatiskt från respektive restaurangs webbplats och kan innehålla fel —
+       dubbelkolla alltid mot restaurangen. Gångtider är uppskattade från Lennart Torstenssonsgatan.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

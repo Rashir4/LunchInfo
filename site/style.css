@@ -1,0 +1,246 @@
+:root {
+  --bg: #f6f4ef;
+  --card: #ffffff;
+  --text: #23211c;
+  --muted: #6b675e;
+  --accent: #b5541c;
+  --accent-soft: #f3e3d7;
+  --border: #e4e0d6;
+  --tag-veg-bg: #e3efdb;
+  --tag-veg-fg: #38602a;
+  --tag-fisk-bg: #dcebf2;
+  --tag-fisk-fg: #23576e;
+  --error: #a33c2a;
+  --accent-fg: #fff;        /* text on an --accent background */
+  --warn: #8a5a12;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #191813;
+    --card: #23211b;
+    --text: #ece8dd;
+    --muted: #a29d8f;
+    --accent: #e08a4e;
+    --accent-soft: #3a2c20;
+    --border: #38352c;
+    --tag-veg-bg: #2c3a24;
+    --tag-veg-fg: #a5cc8e;
+    --tag-fisk-bg: #21333d;
+    --tag-fisk-fg: #8fc1d8;
+    --error: #e07b64;
+    /* The dark accent is light, so dark text on it keeps AA contrast. */
+    --accent-fg: #1b1509;
+    --warn: #e0b060;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 1rem; }
+
+.site-header { padding: 2.2rem 0 1.2rem; text-align: center; }
+.site-header h1 { margin: 0; font-size: clamp(1.7rem, 4vw, 2.4rem); letter-spacing: -0.02em; }
+.tagline { margin: 0.4rem 0 0; color: var(--muted); }
+.meta { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.85rem; }
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 1.2rem;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  padding-top: 0.6rem;
+  z-index: 5;
+}
+
+.day-tabs { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+
+.day-tabs button {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.day-tabs button[aria-selected="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-fg);
+}
+
+.day-tabs button:hover:not([aria-selected="true"]) { background: var(--accent-soft); }
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+#filter,
+.filters select {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.45rem 1rem;
+  font: inherit;
+  max-width: 100%;
+}
+
+/* Wide enough that the placeholder is not clipped mid-word. */
+#filter { flex: 1 1 15rem; min-width: 13rem; max-width: 22rem; }
+
+.filters select { cursor: pointer; max-width: 15rem; }
+.filters select:focus-visible,
+#filter:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+/* A select with a value chosen reads as active, so the applied filters are
+   visible at a glance rather than hidden inside collapsed dropdowns. */
+.filters select:not(:has(option[value=""]:checked)) {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+#clear-filters {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  font: inherit;
+  cursor: pointer;
+}
+#clear-filters:hover { color: var(--accent); border-color: var(--accent); }
+
+.result-count {
+  flex-basis: 100%;
+  margin: 0;
+  text-align: right;
+  font-size: 0.78rem;
+  color: var(--muted);
+  min-height: 1em;
+}
+
+@media (max-width: 700px) {
+  /* The controls stack into five rows here; pinning them would cost a third of
+     a phone screen for the whole scroll. Nothing sticks on narrow screens. */
+  .controls { position: static; padding-top: 0.2rem; }
+  .filters { justify-content: stretch; }
+  .filters select, #filter { flex: 1 1 100%; max-width: none; }
+  .result-count { text-align: left; }
+}
+
+.status { text-align: center; color: var(--muted); padding: 2rem 0; }
+.status.error { color: var(--error); }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+  gap: 1rem;
+  padding-bottom: 2rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.card-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; }
+.card-head h2 { margin: 0; font-size: 1.12rem; }
+.card-head h2 a { color: inherit; text-decoration: none; }
+.card-head h2 a:hover { color: var(--accent); }
+
+.walk {
+  white-space: nowrap;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.facts { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; font-size: 0.82rem; color: var(--muted); margin: 0; }
+
+.facts a.address {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+.facts a.address:hover,
+.facts a.address:focus-visible { color: var(--accent); border-bottom-style: solid; }
+
+.dishes { list-style: none; margin: 0.15rem 0 0; padding: 0; display: flex; flex-direction: column; gap: 0.45rem; }
+.dishes li { padding-left: 0; font-size: 0.95rem; }
+
+.tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-radius: 5px;
+  padding: 0.1rem 0.4rem;
+  margin-right: 0.45rem;
+  vertical-align: 0.08em;
+}
+.tag.veg { background: var(--tag-veg-bg); color: var(--tag-veg-fg); }
+.tag.fisk { background: var(--tag-fisk-bg); color: var(--tag-fisk-fg); }
+
+.no-menu { color: var(--muted); font-style: italic; font-size: 0.92rem; }
+
+.fixed-menu {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.stale {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--warn);
+  font-weight: 600;
+}
+.card.failed .no-menu { color: var(--error); font-style: normal; }
+
+.menu-link {
+  margin-top: auto;
+  padding-top: 0.4rem;
+  font-size: 0.85rem;
+}
+.menu-link a { color: var(--accent); text-decoration: none; font-weight: 600; }
+.menu-link a:hover { text-decoration: underline; }
+
+.site-footer {
+  color: var(--muted);
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 1.5rem 1rem 2.5rem;
+  border-top: 1px solid var(--border);
+}
+
+mark { background: var(--accent-soft); color: inherit; border-radius: 3px; padding: 0 1px; }

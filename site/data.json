@@ -1,0 +1,7048 @@
+{
+ "year": 2026,
+ "week": 38,
+ "generated_at": "2026-09-16T09:58:21+00:00",
+ "anchor": "Lennart Torstenssonsgatan, Göteborg",
+ "restaurants": [
+  {
+   "id": "restaurang-mandarin",
+   "name": "Restaurang Mandarin",
+   "address": "Södra Vägen 51, 412 54 Göteborg",
+   "url": "https://www.restaurangmandarin.com/",
+   "menu_url": "https://www.restaurangmandarin.com/lunch1",
+   "walk_minutes": 3,
+   "price": "119–145 kr",
+   "lunch_hours": "tis–fre 11.00–15.00",
+   "cuisine": "Kinesiskt",
+   "static_menu": true,
+   "days": {
+    "tue": [
+     {
+      "text": "A. Biff i strimlor med grönsaker 119:-",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "B. Stekt kyckling med satésås (stark) 119:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "C. Friterade kycklingfilér med curry eller sötsursås 119:-",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "D. Friterade räkor med curry eller sötsursås 119:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "E. Kycklingspett med jordnötssås (3 st) 125:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "F. Tvårätters tallrik 135:- (Friterade räkor med sås + Biff i strimlor med grönsaker)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "G. Trerätters tallrik 145:- (Friterade räkor med sås + Biff i strimlor med grönsaker + Vegetariska minivårrullar)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "A. Biff i strimlor med purjolök & bambuskott 119:-",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "B. Stekt kyckling med currysås 119:-",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "C. Friterade kycklingfilér med curry eller sötsursås 119:-",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "D. Friterade räkor med curry eller sötsursås 119:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "E. Kycklingspett med jordnötssås (3 st) 125:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "F. Tvårätters tallrik 135:- (Friterade räkor med sås + Biff i strimlor med purjolök & bambuskott)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "G. Trerätters tallrik 145:- (Friterade räkor med sås + Biff i strimlor med purjolök & bambuskott + Friterad fläskkött)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "A. Biff i strimlor med bambuskott 119:-",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "B. Stekt kyckling á la szechuan 119:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "C. Friterade kycklingfilér med curry eller sötsursås 119:-",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "D. Friterade räkor med curry eller sötsursås 119:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "E. Kycklingspett med jordnötssås (3 st) 125:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "F. Tvårätters tallrik 135:- (Friterade räkor med sås + Biff i strimlor med bambuskott)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "G. Trerätters tallrik 145:- (Friterade räkor med sås + Biff i strimlor med bambuskott + Sesamkyckling)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott",
+       "kyckling"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "A. Stekt kyckling med grönsaker 119:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "B. Stekt biff á la szechuan 119:-",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "C. Friterade kycklingfilér med curry eller sötsursås 119:-",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "D. Friterade räkor med curry eller sötsursås 119:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "E. Kycklingspett med jordnötssås (3 st) 125:-",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "F. Tvårätters tallrik 135:- (Friterade räkor med sås + Stekt kyckling med grönsaker)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kyckling"
+      ]
+     },
+     {
+      "text": "G. Trerätters tallrik 145:- (Friterade räkor med sås + Stekt kyckling med grönsaker + General Tso’s kyckling)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kyckling"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "brasserie-lavette",
+   "name": "Brasserie Lavette",
+   "address": "Södra Vägen 30, 412 54 Göteborg",
+   "url": "https://www.brasserielavette.se/",
+   "menu_url": "https://www.brasserielavette.se/lunch",
+   "walk_minutes": 4,
+   "price": "145 kr",
+   "lunch_hours": "Vardagar från 11.00 (buffé till 14.00)",
+   "cuisine": "Franskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Fläskschnitzel med rödvinssås, Café de Paris-smör, krossad potatis med ansjovis och kapris, ärtor och citron",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ångad fisk med spetskål, gräslök, potatispuré, citron och musselsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig pestopasta med parmesan, mozzarella, soltorkade tomater, ruccola & hasselnötter",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Viltfärsbiffar med svampsås, potatispuré, svartvinbärsgele, glacerade morötter och persilja"
+     },
+     {
+      "text": "Ångad fisk med spetskål, gräslök, potatispuré, citron och musselsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig pestopasta med parmesan, mozzarella, soltorkade tomater, ruccola & hasselnötter",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Stekt kyckling med soja-shiitake, krämig kimchi-kål, krossad potatis med sesamfrön och smörad kycklingsky",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Ångad fisk med spetskål, gräslök, potatispuré, citron och musselsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig pestopasta med parmesan, mozzarella, soltorkade tomater, ruccola & hasselnötter",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Helstekt fläskytterfilé med gräslöksmajonnäs, skysås, krossad potatis med örter, steksky, syrad rödlök och persilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ångad fisk med spetskål, gräslök, potatispuré, citron och musselsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig pestopasta med parmesan, mozzarella, soltorkade tomater, ruccola & hasselnötter",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Kalvhögrev med pepparsås, glacerade morötter, potatispuré och persilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ångad fisk med spetskål, gräslök, potatispuré, citron och musselsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig pestopasta med parmesan, mozzarella, soltorkade tomater, ruccola & hasselnötter",
+      "types": [
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "lorensbergs-fisk-bar",
+   "name": "Lorensbergs Fisk & Bar",
+   "address": "Berzeliigatan 5, 412 53 Göteborg",
+   "url": "https://lorensbergsfisk.se/",
+   "menu_url": "https://lorensbergsfisk.se/meny/lunch/",
+   "walk_minutes": 4,
+   "price": "165 kr",
+   "lunch_hours": "tis–fre 11.30–14.00",
+   "cuisine": "Fisk & skaldjur",
+   "static_menu": true,
+   "days": {
+    "tue": [
+     {
+      "text": "Dagens Fångst 165 kr – Färskostbakad fångst serveras med kokt potatis, gröna ärtor & hummerbrynt smör.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad potatis, honungsglaserad brysselkål & citronsås.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta serveras med med smörslungad potatis & handskalade räkor.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Dagens fångst 165 kr – Citronbakad fångst serveras potatisstomp, kokta gulbetor & kall dillsås.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "nackrosen",
+   "name": "Restaurang Näckrosen",
+   "address": "Renströmsgatan 6",
+   "url": "https://www.hors.se/goteborg/17/6/restaurang-nackrosen/",
+   "menu_url": "https://www.hors.se/goteborg/17/6/restaurang-nackrosen/",
+   "walk_minutes": 4,
+   "price": "",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Indisk linsgryta med kokosmjölk serveras med basmatiris & mango chutney",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vitvinspocherad dagens fiskfångst serveras med dillslungad potatis samt hummersås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kåldolmar serveras med gräddsås lingon, picklad gurka & potatismos",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Ragu på kravmärkta svenska korall linser rödvin, champinjoner, syltlök och potatismos",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Panerad fiskfilé serveras med örtremoulad potatismos & syrad fänkål",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Marinerad kyckling serveras med stektris sesam Mayo & Julianne",
+      "types": [
+       "kyckling"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Lemongrass tofu med kokosgrädde koriander och basmatiris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Pocherad fiskfilé med ägg & persiljesås gröna ärtor, rimmad gurka & kokt",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Köttbullar serveras med potatismos gräddsås & lingon",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Gnocchi med salvia svamp, kål serveras med rostad tomatsås",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Apelsin- och limemarinerad fisk & beurre blanc med ingefära och chili rostade rotfrukter & koriander",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Parmesanpanerad kyckling med ratatouille vitlökskräm & örtrostad potatis",
+      "types": [
+       "kyckling"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Pasta serveras med ruccolapesto rostade grönsaker, rostade frön och grana padano",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Dagens fångst serveras med nudlar gröncurry, kokosmjölk & julienne",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Nattbakad fläskkarré serveras med gräddsås rostad potatis & vinbärsgelé",
+      "types": [
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "at-park",
+   "name": "at PARK",
+   "address": "Kungsportsavenyn 36, 411 36 Göteborg",
+   "url": "https://atpark.se/",
+   "menu_url": "https://atpark.se/meny/lunch/",
+   "walk_minutes": 5,
+   "price": "169 kr",
+   "lunch_hours": "Mån–fre 11.30–14.00",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Ugnsbakad torsk, örtstompad potatis,haricotverts, kapris & dill samt smörsås.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pannbiff serveras med karamelliserad lök, skysås, cornichons samt rostad potatis.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Okonomiyaki med ingefära-soya majonnäs & teriyakisås.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Lax med örttäcke, pressad potatis, sockerärtor, serveras med citronsmaksatt sås på musslor.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Stekt fläsk med raggmunk & rårörda lingon eller kokt potatis och löksås.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Okonomiyaki med ingefära-soya majonnäs & teriyakisås.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Citron- och färskostfyllda rullader med citron & ört smör, potatispuré samt Sandefjordsås."
+     },
+     {
+      "text": "Boeuf bourguignon med potatispuré, rökt sidfläsk & champinjoner.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Okonomiyaki med ingefära-soya majonnäs & teriyakisås.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Vitvins pocherad torsk med potatispuré, smörstekt svamp samt skummad vitvinssås.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Lasagne serveras med en sallad på tomat och basilika.",
+      "types": [
+       "pasta",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Melanzane alla Parmigiana.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Krämig fiskgryta med kokt potatis, grillad pesto foccacia & aioli.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Kycklingstek med persiljeris, bakad lök, rotselleri & svampsås.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Melanzane alla Parmigiana.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "mercado-mexico",
+   "name": "Mercado Mexico",
+   "address": "Södra Vägen 18, 412 54 Göteborg",
+   "url": "https://www.mercadomexico.se/",
+   "menu_url": "https://www.mercadomexico.se/",
+   "walk_minutes": 5,
+   "price": "145–155 kr",
+   "lunch_hours": "Mån–fre 11.30–14.00",
+   "cuisine": "Mexikanskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Milanesa de Cerdo – Mexikansk fläskschnitzel med anchosås, rostad potatis och brynt koriandersmör.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Mexikansk bouillabaise – Fisk- och skaldjurssoppa med potatis och chipotlecrème",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Tofu & Aubergine – Pipián rojo-gryta med tofu och aubergine, serveras med ris.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "TORTA DE BIRRIA – Grillad macka med högrev, chipotlemajo, ost, skinka, avokado och jalapeño.",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Milanesa de Cerdo – Mexikansk fläskschnitzel med anchosås, rostad potatis och brynt koriandersmör.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Mexikansk bouillabaise – Fisk- och skaldjurssoppa med potatis och chipotlecrème",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Tofu & Aubergine – Pipián rojo-gryta med tofu och aubergine, serveras med ris.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "TORTA DE BIRRIA – Grillad macka med högrev, chipotlemajo, ost, skinka, avokado och jalapeño.",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Milanesa de Cerdo – Mexikansk fläskschnitzel med anchosås, rostad potatis och brynt koriandersmör.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Mexikansk bouillabaise – Fisk- och skaldjurssoppa med potatis och chipotlecrème",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Tofu & Aubergine – Pipián rojo-gryta med tofu och aubergine, serveras med ris.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "TORTA DE BIRRIA – Grillad macka med högrev, chipotlemajo, ost, skinka, avokado och jalapeño.",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Milanesa de Cerdo – Mexikansk fläskschnitzel med anchosås, rostad potatis och brynt koriandersmör.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Mexikansk bouillabaise – Fisk- och skaldjurssoppa med potatis och chipotlecrème",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Tofu & Aubergine – Pipián rojo-gryta med tofu och aubergine, serveras med ris.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "TORTA DE BIRRIA – Grillad macka med högrev, chipotlemajo, ost, skinka, avokado och jalapeño.",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Milanesa de Cerdo – Mexikansk fläskschnitzel med anchosås, rostad potatis och brynt koriandersmör.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Mexikansk bouillabaise – Fisk- och skaldjurssoppa med potatis och chipotlecrème",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Tofu & Aubergine – Pipián rojo-gryta med tofu och aubergine, serveras med ris.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "TORTA DE BIRRIA – Grillad macka med högrev, chipotlemajo, ost, skinka, avokado och jalapeño.",
+      "types": [
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": 37
+  },
+  {
+   "id": "barrique",
+   "name": "Barrique",
+   "address": "Berzeliigatan 18, 411 36 Göteborg",
+   "url": "https://www.barrique.nu",
+   "menu_url": "https://www.barrique.nu/lunch",
+   "walk_minutes": 6,
+   "price": "149–179 kr",
+   "lunch_hours": "Tis–fre 11.30–14.00 (ingen lunch måndagar)",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "tue": [
+     {
+      "text": "CITRON- OCH TIMJANMARINERAD MAJSKYCKLING 149 KR – rostad vitlökssås, tomat och vaxbönor, bakad potatis",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "PANKOSTEKT SPÄTTAFILÉ 165 KR – remouladsås, citronkokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "GNOCCHI 149 KR – spenat, soltorkade tomater, basilika, riven parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Det lilla extra: APELSINKAKA"
+     }
+    ],
+    "wed": [
+     {
+      "text": "CITRON- OCH TIMJANMARINERAD MAJSKYCKLING 149 KR – rostad vitlökssås, tomat och vaxbönor, bakad potatis",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "PANKOSTEKT SPÄTTAFILÉ 165 KR – remouladsås, citronkokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "GNOCCHI 149 KR – spenat, soltorkade tomater, basilika, riven parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Det lilla extra: CITRONFROMAGE"
+     }
+    ],
+    "thu": [
+     {
+      "text": "NATTBAKAD KALVHÖGREV 149 KR – picklad rödlök, potatis- och rotfruktspuré",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "PANKOSTEKT SPÄTTAFILÉ 165 KR – remouladsås, citronkokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "GNOCCHI 149 KR – spenat, soltorkade tomater, basilika, riven parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Det lilla extra: VÅFFLOR – grädde och hallonsylt"
+     }
+    ],
+    "fri": [
+     {
+      "text": "NATTBAKAD KALVHÖGREV 149 KR – picklad rödlök, potatis- och rotfruktspuré",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "PANKOSTEKT SPÄTTAFILÉ 165 KR – remouladsås, citronkokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "GNOCCHI 149 KR – spenat, soltorkade tomater, basilika, riven parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Det lilla extra: KOKOS- OCH CHOKLADBOLL"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "corner",
+   "name": "Corner",
+   "address": "Mässans Gata 16, 412 51 Göteborg",
+   "url": "https://cornergbg.se/",
+   "menu_url": "https://cornergbg.se/start/restaurang/lunch/",
+   "walk_minutes": 6,
+   "price": "135 kr",
+   "lunch_hours": "mån–tors 11.30–14.30",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "GÅRD & SKOG – Örtstekt fläskkarré, gräddsås, äppelchutney & rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HAV & SJÖ – Smörstekt torsk med brynt smör, pepparrot, gröna ärtor & rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "ÄNG & JORD – Rostad blomkål med parmesankräm, hasselnötter & örtolja"
+     },
+     {
+      "text": "KING SIZE 295:- – Räkor, rågbröd, ägg, majonnäs, mixsallad, picklad gurka & lök, dill (Lägg till löjrom från Bottenviken +89:-)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "KRISPIG KYCKLINGBURGARE 135:- – Aioli, sallad, picklad rödlök & pommes frites",
+      "types": [
+       "kyckling",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "VECKANS PASTA 135:- – Krämig kycklingpasta, svamp, parmesan & svartpeppar",
+      "types": [
+       "kyckling",
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "GÅRD & SKOG – Örtstekt fläskkarré, gräddsås, äppelchutney & rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HAV & SJÖ – Smörstekt torsk med brynt smör, pepparrot, gröna ärtor & rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "ÄNG & JORD – Rostad blomkål med parmesankräm, hasselnötter & örtolja"
+     },
+     {
+      "text": "KING SIZE 295:- – Räkor, rågbröd, ägg, majonnäs, mixsallad, picklad gurka & lök, dill (Lägg till löjrom från Bottenviken +89:-)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "KRISPIG KYCKLINGBURGARE 135:- – Aioli, sallad, picklad rödlök & pommes frites",
+      "types": [
+       "kyckling",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "VECKANS PASTA 135:- – Krämig kycklingpasta, svamp, parmesan & svartpeppar",
+      "types": [
+       "kyckling",
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "GÅRD & SKOG – Örtstekt fläskkarré, gräddsås, äppelchutney & rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HAV & SJÖ – Smörstekt torsk med brynt smör, pepparrot, gröna ärtor & rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "ÄNG & JORD – Rostad blomkål med parmesankräm, hasselnötter & örtolja"
+     },
+     {
+      "text": "KING SIZE 295:- – Räkor, rågbröd, ägg, majonnäs, mixsallad, picklad gurka & lök, dill (Lägg till löjrom från Bottenviken +89:-)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "KRISPIG KYCKLINGBURGARE 135:- – Aioli, sallad, picklad rödlök & pommes frites",
+      "types": [
+       "kyckling",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "VECKANS PASTA 135:- – Krämig kycklingpasta, svamp, parmesan & svartpeppar",
+      "types": [
+       "kyckling",
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "GÅRD & SKOG – Örtstekt fläskkarré, gräddsås, äppelchutney & rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HAV & SJÖ – Smörstekt torsk med brynt smör, pepparrot, gröna ärtor & rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "ÄNG & JORD – Rostad blomkål med parmesankräm, hasselnötter & örtolja"
+     },
+     {
+      "text": "KING SIZE 295:- – Räkor, rågbröd, ägg, majonnäs, mixsallad, picklad gurka & lök, dill (Lägg till löjrom från Bottenviken +89:-)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "KRISPIG KYCKLINGBURGARE 135:- – Aioli, sallad, picklad rödlök & pommes frites",
+      "types": [
+       "kyckling",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "VECKANS PASTA 135:- – Krämig kycklingpasta, svamp, parmesan & svartpeppar",
+      "types": [
+       "kyckling",
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "berzelius-bar-matsal",
+   "name": "Berzelius Bar & Matsal",
+   "address": "Södra Vägen 20, 412 54 Göteborg",
+   "url": "https://www.berzeliusbar.se/",
+   "menu_url": "https://www.berzeliusbar.se/lunch/",
+   "walk_minutes": 7,
+   "price": "160 kr",
+   "lunch_hours": "Mån–fre 11.30–15.00",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Stekt röding med sandefjordsås, potatispuré & rostad broccoli",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Schnitzel med lingonsmör, rostad potatis & kålsallad",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Svamp lasagne med grana padano & tomatsallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Smörstekt lubb med skaldjurssås, krossad potatis & rostad blomkål",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Krämig viltskavsgryta med potatispuré, champinjoner & rårörda lingon",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Svamp lasagne med grana padano & tomatsallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Friterad spätta med dansk remouladsås, kokt potatis & ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kålpudding med sirapsstekt kål, kokt potatis, gräddsås & lingon"
+     },
+     {
+      "text": "Svamp lasagne med grana padano & tomatsallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Laxpudding med citronsmör, ärtor & pepparrot",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Frikadeller i tomat- och basilikasås med tagliatelle & grana padano",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Svamp lasagne med grana padano & tomatsallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Pocherad kolja med betor, kapris, pepparrot & brynt smör samt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Hjortwallenbergare med potatispuré, rödvinssås med brynt smör & lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Svamp lasagne med grana padano & tomatsallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "heaven23",
+   "name": "Heaven 23",
+   "address": "Mässans Gata 24, 412 51 Göteborg",
+   "url": "https://heaven23.se/",
+   "menu_url": "https://heaven23.se/hem/restaurangen/lunch/",
+   "walk_minutes": 7,
+   "price": "175 kr",
+   "lunch_hours": "mån–fre 11.30–14.00",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Grillad spetskål – Romescosås – Mandel – Parmesan"
+     },
+     {
+      "text": "Dagens fångst – Flädersmörsås – Bönor – Gulbetor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Glaserad fläsksida – Hoisinsås – Broccoli - Silverlök",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Grillad spetskål – Romescosås – Mandel – Parmesan"
+     },
+     {
+      "text": "Dagens fångst – Flädersmörsås – Bönor – Gulbetor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Glaserad fläsksida – Hoisinsås – Broccoli - Silverlök",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Grillad spetskål – Romescosås – Mandel – Parmesan"
+     },
+     {
+      "text": "Dagens fångst – Flädersmörsås – Bönor – Gulbetor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Glaserad fläsksida – Hoisinsås – Broccoli - Silverlök",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Grillad spetskål – Romescosås – Mandel – Parmesan"
+     },
+     {
+      "text": "Dagens fångst – Flädersmörsås – Bönor – Gulbetor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Glaserad fläsksida – Hoisinsås – Broccoli - Silverlök",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Grillad spetskål – Romescosås – Mandel – Parmesan"
+     },
+     {
+      "text": "Dagens fångst – Flädersmörsås – Bönor – Gulbetor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Glaserad fläsksida – Hoisinsås – Broccoli - Silverlök",
+      "types": [
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "kizuna",
+   "name": "Kizuna",
+   "address": "Gibraltargatan 8, 411 32 Göteborg",
+   "url": "https://kizunaeatery.se/",
+   "menu_url": "https://kizunaeatery.se/meny/",
+   "walk_minutes": 7,
+   "price": "",
+   "lunch_hours": "11.00–14.30",
+   "cuisine": "Asiatiskt",
+   "static_menu": true,
+   "days": {
+    "mon": [
+     {
+      "text": "Sushi kockens val 11 bitar",
+      "types": [
+       "sushi"
+      ]
+     },
+     {
+      "text": "Pokébowl",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dagens varmrätt (Bibimbap)"
+     }
+    ],
+    "tue": [
+     {
+      "text": "Sushi kockens val 11 bitar",
+      "types": [
+       "sushi"
+      ]
+     },
+     {
+      "text": "Pokébowl",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dagens varmrätt (Curry Kyckling donburi)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Sushi kockens val 11 bitar",
+      "types": [
+       "sushi"
+      ]
+     },
+     {
+      "text": "Pokébowl",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dagens varmrätt (Bibimbap)"
+     }
+    ],
+    "thu": [
+     {
+      "text": "Sushi kockens val 11 bitar",
+      "types": [
+       "sushi"
+      ]
+     },
+     {
+      "text": "Pokébowl",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dagens varmrätt (Teriyaki kyckling donburi)",
+      "types": [
+       "kyckling"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Sushi kockens val 11 bitar",
+      "types": [
+       "sushi"
+      ]
+     },
+     {
+      "text": "Pokébowl",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dagens varmrätt (Yakiniku donburi)"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "samui-thai-kitchen",
+   "name": "Samui Thai Kitchen",
+   "address": "Engelbrektsgatan 51, 412 52 Göteborg",
+   "url": "https://www.samuithai.se",
+   "menu_url": "https://samuithaiexpress.gastrogate.com/lunchbuffe/",
+   "walk_minutes": 7,
+   "price": "139 kr (buffé)",
+   "lunch_hours": "Mån–fre 11.00–14.00",
+   "cuisine": "Thailändskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
+      "types": [
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Wokade blandade grönsaker, vegan.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veggi vårrullar. (nr. 20 på meny)"
+     }
+    ],
+    "tue": [
+     {
+      "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pad Medmamuang med fläsk. (nr. 11 b på meny)",
+      "types": [
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Tom Yam med räkor. (nr. 16 på meny)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Wokade blandade grönsaker, vegan.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veggi vårrullar. (nr. 20 på meny)"
+     }
+    ],
+    "wed": [
+     {
+      "text": "Massamancurry med kyckling. (nr. 7 på meny)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pad Baigrapao med biff. (nr. 10 på meny)",
+      "types": [
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pad See Ew med grönsaker vegetarisk. (nr. 3 a på meny)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Wokade blandade grönsaker, vegan.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veggi vårrullar. (nr. 20 på meny)"
+     },
+     {
+      "text": "Pat See Ew med grönsaker vegetarisk. (nr. 3a på meny)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pad Kratiem Prikthai med biff (nr. 12 på meny)",
+      "types": [
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Panerade & friterade kycklingbitar. (nr. 23 på meny)",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Wokade blandade grönsaker, vegan.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pad Thai med grönsaker, vegetarisk. (nr. 1 på meny)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veggi vårrullar (nr. 20 på meny)"
+     }
+    ],
+    "fri": [
+     {
+      "text": "Rödcurrygryta med kyckling. (nr. 4 på meny)",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pad King med fläsk. (nr.14 på meny)",
+      "types": [
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Friterade Räkor. (nr. 24 på meny)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Wokade blandade grönsaker, vegan.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veggi vårrullar (nr. 20 på meny)"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "olstugan-tullen-avenyn",
+   "name": "Ölstugan Tullen Avenyn",
+   "address": "Kungsportsavenyen 32",
+   "url": "https://olstugan.se/sv/restaurants/avenyn",
+   "menu_url": "https://olstugan.se/sv/restaurants/avenyn",
+   "walk_minutes": 7,
+   "price": "135 kr",
+   "lunch_hours": "11.00–14.45",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Grillad fänkålskryddad pluma – med ädelostsås, rostade grönsaker samt baconblandad friterad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Smörbakad fiskfilé – med krämig skaldjurssås, hackade räkor, smörrostade rotfrukter, ärtor samt potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Tullens kalvköttbullar – med gräddsås, rårörda lingon, pressgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad ost (vegetarisk) – med rostade rotfrukter och tartarsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vegansk kålpudding – med gräddsås, rårörda lingon, pressgurka och kokt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Schnitzel – med rödvinssås, kapris- och vitlökssmör, ärtor, sotad lök och friterad potatis",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Stekt rimmat sidfläsk – Stekt fläsk med löksås, rårörda lingon och kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt strömming – med brynt smör, rårörda lingon samt potatismos och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Tullens kalvköttbullar – med gräddsås, rårörda lingon, pressgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad ost (vegetarisk) – med rostade rotfrukter och tartarsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vegansk kålpudding – med gräddsås, rårörda lingon, pressgurka och kokt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Schnitzel – med rödvinssås, kapris- och vitlökssmör, ärtor, sotad lök och friterad potatis",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kålpudding – med brunsås, rårörda lingon, saltgurka och persiljekokt potatis"
+     },
+     {
+      "text": "Bakad regnbågsfilé – med vitvinssås, tångkaviar, smörkokta grönsaker samt dillsmörad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Tullens kalvköttbullar – med gräddsås, rårörda lingon, pressgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad ost (vegetarisk) – med rostade rotfrukter och tartarsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vegansk kålpudding – med gräddsås, rårörda lingon, pressgurka och kokt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Schnitzel – med rödvinssås, kapris- och vitlökssmör, ärtor, sotad lök och friterad potatis",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Högrevsgryta – med rödvinssås, syltlök, morötter, sidfläsk, champinjoner samt potatismos",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Smörbakad dagens fiskfilé – med brynta champinjoner, tryffelskummad jordärtskockssås och kokt färskpotatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Tullens kalvköttbullar – med gräddsås, rårörda lingon, pressgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad ost (vegetarisk) – med rostade rotfrukter och tartarsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vegansk kålpudding – med gräddsås, rårörda lingon, pressgurka och kokt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Schnitzel – med rödvinssås, kapris- och vitlökssmör, ärtor, sotad lök och friterad potatis",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Skomakarlåda – biff med rödvinssky, rökt sidfläsk, purjolök, champinjoner, saltgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Sotad fiskfilé – med brynt salviasmör, hackade hasselnötter och tranbär, smörad broccoli och potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Tullens kalvköttbullar – med gräddsås, rårörda lingon, pressgurka och potatismos",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad ost (vegetarisk) – med rostade rotfrukter och tartarsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vegansk kålpudding – med gräddsås, rårörda lingon, pressgurka och kokt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Schnitzel – med rödvinssås, kapris- och vitlökssmör, ärtor, sotad lök och friterad potatis",
+      "types": [
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "bombay-street",
+   "name": "Bombay Street",
+   "address": "Södra Vägen 77, 412 54 Göteborg",
+   "url": "https://www.bombaystreet.se",
+   "menu_url": "https://www.kvartersmenyn.se/rest/15808",
+   "walk_minutes": 8,
+   "price": "129 kr",
+   "lunch_hours": "11.00–15.00",
+   "cuisine": "Indiskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "CHICKEN CURRY GASSI – Medelstark kycklinggryta gjord av kokos, svartpeppar, tamarind och curryblad.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "LAMB SHAI KORMA – Lammgryta tillagad med tomat, nötter, bockhornsklöver och grädde.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "SABZI THAL (Kan fås vegansk) – Tre dagens vegetariska rätter och raita.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "METHI MALAI – Kycklinggryta med bockhornsklöver, fänkålsfrön,korianderfrön och grädde.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "GRILL MACHH – Grillad torskfilé med svartpeppar, basilika,senapsås, koriander och kokos.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "SABZI THAL (Kan fås vegansk) – Tre dagens vegetariska rätter och raita.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "CHICKEN KORMA – Kycklinggryta gjord av nötter, kardemumma och grädde.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "KOLHAPURI GOSHT – Lammgryta med kokos, paprika, koriander & chili.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "SABZI THAL (Kan fås vegansk) – Tre dagens vegetariska rätter och raita.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "MURG MADRAS – Medelstark kycklinggryta med senapsfrön, curryblad och kokosmjölk.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "CHAPLI KEBAB – Lammfärsbiffar serveras med kryddig sås, yoghurt, chutney och pommes.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "SABZI THAL (Kan fås vegansk) – Tre dagens vegetariska rätter och raita.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "LASSUNI – Kycklingbröst marinerat med vitlök, chili och spiskummin. Serveras med tandoorisås.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "DALCHA GOST – Lammgryta tillagad med linser, lök tomat och masala.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "SABZI THAL (Kan fås vegansk) – Tre dagens vegetariska rätter och raita.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "restaurang-vkm",
+   "name": "Restaurang VKM",
+   "address": "Södra Vägen 54 (Världskulturmuseet), 412 54 Göteborg",
+   "url": "https://www.vinkulturochmat.se",
+   "menu_url": "https://www.kvartersmenyn.se/rest/17034",
+   "walk_minutes": 8,
+   "price": "149 kr",
+   "lunch_hours": "Tis–fre 11.00–14.30 (stängt måndagar)",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "tue": [
+     {
+      "text": "Pannbiff, gräddsås, potatismos, rårörda lingon, saltgurka, rostad lök",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ugnsrostad lax med couscoussallad (fetaost, tomat, persiljepickad rödlök, aioli, citron",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Krämig Tika masala med friterad Pannoumi, basmatiris, crème fraiche, röstad lök och koriander",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Pannbiff, gräddsås, potatismos, rårörda lingon, saltgurka, rostad lök",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ugnsrostad lax med couscoussallad (fetaost, tomat, persiljepickad rödlök, aioli, citron",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Krämig Tika masala med friterad Pannoumi, basmatiris, crème fraiche, röstad lök och koriander",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Tonkatsu (fläskkött panerad) basmatiris, srirachamajonnäs, kimchisallad, vårlök och rostad sesamfrön",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare, med potatismos, skirat smör, gröna ärtor, dill och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Chili sin carne, basmatiris, picklad rödlök, crème fraiche och koriander",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Tonkatsu (fläskkött panerad) basmatiris, srirachamajonnäs, kimchisallad, vårlök och rostad sesamfrön",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare, med potatismos, skirat smör, gröna ärtor, dill och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Chili sin carne, basmatiris, picklad rödlök, crème fraiche och koriander",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "sofina",
+   "name": "Sofina",
+   "address": "Lorensbergsgatan 18, 411 36 Göteborg",
+   "url": "https://sofina.net",
+   "menu_url": "https://sofina.net/lunch-1/",
+   "walk_minutes": 8,
+   "price": "129 kr (avhämtning)",
+   "lunch_hours": "Mån–fre 10.00–19.00",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "TORSK & LAXKÖTTBULLAR – Dill & ansjovissås, potatispuré, rårörda lingon samt ärtor med spenat & sugarsnaps",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FISKGRATÄNG PÅ DAGENS FÅNGST – Krämig vitvinssås, handpillade räkor, strimlade grönsaker samt pommes duchesse",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "JÄGARPANNBIFF – Jägarsås (champinjoner, lök, bacon & rödvin), slottspotatis samt gräddstuvade ärtor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "OZZO BUCO PÅ URBENAT KYCKLINGLÅR – Tomatsås, rotfrukter, gremolata samt parmesansmaksatt potatispuré",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "SOFINAS VÄLKÄNDA KÖTTBULLAR – Gräddsås, potatispuré, rårörda lingon samt löksauterade ärtor med morötter.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "MARTINS VEGETARISKA LASAGNE – Spenat, tomat & parmesanost, basilikasås samt marinerade medelhavsgrönsaker",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "VECKANS VEGAN – UGNSBAKAD SPETSKÅL Chilikokt paprikasås, brynt svamp, linser, minilök, spenat samt örtrostad potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "TORSK & LAXKÖTTBULLAR – Dill & ansjovissås, potatispuré, rårörda lingon samt ärtor med spenat & sugarsnaps",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FISKGRATÄNG PÅ DAGENS FÅNGST – Krämig vitvinssås, handpillade räkor, strimlade grönsaker samt pommes duchesse",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "TISDAGSKLASSIKER SKÅNSK ÄGGAKAKA – Stekt fläsk, rårörda lingon, karamelliserad lök samt morötter",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "JÄGARPANNBIFF – Jägarsås (champinjoner, lök, bacon & rödvin), slottspotatis samt gräddstuvade ärtor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "OZZO BUCO PÅ URBENAT KYCKLINGLÅR – Tomatsås, rotfrukter, gremolata samt parmesansmaksatt potatispuré",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "SOFINAS VÄLKÄNDA KÖTTBULLAR – Gräddsås, potatispuré, rårörda lingon samt löksauterade ärtor med morötter.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "MARTINS VEGETARISKA LASAGNE – Spenat, tomat & parmesanost, basilikasås samt marinerade medelhavsgrönsaker",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "TORSK & LAXKÖTTBULLAR – Dill & ansjovissås, potatispuré, rårörda lingon samt ärtor med spenat & sugarsnaps",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FISKGRATÄNG PÅ DAGENS FÅNGST – Krämig vitvinssås, handpillade räkor, strimlade grönsaker samt pommes duchesse",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "JÄGARPANNBIFF – Jägarsås (champinjoner, lök, bacon & rödvin), slottspotatis samt gräddstuvade ärtor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "OZZO BUCO PÅ URBENAT KYCKLINGLÅR – Tomatsås, rotfrukter, gremolata samt parmesansmaksatt potatispuré",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "SOFINAS VÄLKÄNDA KÖTTBULLAR – Gräddsås, potatispuré, rårörda lingon samt löksauterade ärtor med morötter.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "MARTINS VEGETARISKA LASAGNE – Spenat, tomat & parmesanost, basilikasås samt marinerade medelhavsgrönsaker",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "TORSK & LAXKÖTTBULLAR – Dill & ansjovissås, potatispuré, rårörda lingon samt ärtor med spenat & sugarsnaps",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FISKGRATÄNG PÅ DAGENS FÅNGST – Krämig vitvinssås, handpillade räkor, strimlade grönsaker samt pommes duchesse",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "JÄGARPANNBIFF – Jägarsås (champinjoner, lök, bacon & rödvin), slottspotatis samt gräddstuvade ärtor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "OZZO BUCO PÅ URBENAT KYCKLINGLÅR – Tomatsås, rotfrukter, gremolata samt parmesansmaksatt potatispuré",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "SOFINAS VÄLKÄNDA KÖTTBULLAR – Gräddsås, potatispuré, rårörda lingon samt löksauterade ärtor med morötter.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "MARTINS VEGETARISKA LASAGNE – Spenat, tomat & parmesanost, basilikasås samt marinerade medelhavsgrönsaker",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "TORSK & LAXKÖTTBULLAR – Dill & ansjovissås, potatispuré, rårörda lingon samt ärtor med spenat & sugarsnaps",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "STEKT TORSKFILÉ GRENOBLE – Brynt smör, rödbetor, kapris, spenat, purjolök samt dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "JÄGARPANNBIFF – Jägarsås (champinjoner, lök, bacon & rödvin), slottspotatis samt gräddstuvade ärtor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HELGSCHNITZEL – Brynt smör, färskostcreme på sardeller, persilja, kapris & citron, rostad potatis, brynt svamp samt ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "SOFINAS VÄLKÄNDA KÖTTBULLAR – Gräddsås, potatispuré, rårörda lingon samt löksauterade ärtor med morötter.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "MARTINS VEGETARISKA LASAGNE – Spenat, tomat & parmesanost, basilikasås samt marinerade medelhavsgrönsaker",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "traktor-mikael-sande",
+   "name": "Traktör Mikael Sande",
+   "address": "Viktor Rydbergsgatan 46, 412 57 Göteborg",
+   "url": "https://traktormikaelsande.se/",
+   "menu_url": "https://traktormikaelsande.se/dagens-lunch/",
+   "walk_minutes": 8,
+   "price": "159 kr (take-away 139 kr)",
+   "lunch_hours": "Tis–fre 11.00–15.00",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "tue": [
+     {
+      "text": "Citronbakad laxfilé med sauterade grönsaks-julienne och hollandaise",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare med Skagenröra och potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Krämig viltskav med skogssvamp, rotfrukter och svart vinbärsgelé"
+     },
+     {
+      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare med Skagenröra och potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Krämig fisksoppa med grönsaksmosaik, dagens fångst och en gremoulata samt dessertpaj med vaniljsås",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare med Skagenröra och potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Örtstekt kotlettrad av rapsgris med rödvinssås, smörstekt potatis samt en dijonkräm"
+     },
+     {
+      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare med Skagenröra och potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "restaurang-c",
+   "name": "Restaurang C",
+   "address": "Carlandersparken 21",
+   "url": "https://crestaurang.se/",
+   "menu_url": "https://crestaurang.se/meny/",
+   "walk_minutes": 9,
+   "price": "155 kr",
+   "lunch_hours": "11.00–14.00",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "PULLED PORK — Bakpotatis — Smetana — Mangosalsa",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "DAGENS FISKEFÅNGST — Bakad Spetskål — Dillslungad potatis — Vitvinssås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans sallad: Marinerad Tofusallad — Chilimajonnäs — Sojabönor — Mango — Kimchimarinerade nudlar — Vårlök & groddar — Salladsmix",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Saltbakad blomkål — Blomkålspuré — Rostad Brysselkål — Parmesan velouté — Jordärtskockchips",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "ÖRTSTEKT KYCKLINGBRÖST — Dragonemulsion — Tomat & löksallad — Rostad Klyftpotatis",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "FRITERAD FISKEFÅNGST — Parmesanemulsion — Ångad potatis — Fänkål & gurksallad — Citron",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Veckans sallad: Marinerad Tofusallad — Chilimajonnäs — Sojabönor — Mango — Kimchimarinerade nudlar — Vårlök & groddar — Salladsmix",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Saltbakad blomkål — Blomkålspuré — Rostad Brysselkål — Parmesan velouté — Jordärtskockchips",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "VILTSKAV — Brynt höstsvamp — Kålsallad — Picklad Gurka & rödlök — Homemade pitabröd",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "BRÖDSTEKT FISKEFÅNGST — Dansk remoulad — Potatispuré — Sauterade ärtor & betor — Citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans sallad: Marinerad Tofusallad — Chilimajonnäs — Sojabönor — Mango — Kimchimarinerade nudlar — Vårlök & groddar — Salladsmix",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Saltbakad blomkål — Blomkålspuré — Rostad Brysselkål — Parmesan velouté — Jordärtskockchips",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "RÖDVINSBRÄSSERAD GRISKIND — Sotad Broccoli — Potatispuré — Skysås — Friterad Grönkål"
+     },
+     {
+      "text": "HAVETS WALLENBERGARE — Krondillssås — Potatispuré — Rårörda lingon — Sauterade ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans sallad: Marinerad Tofusallad — Chilimajonnäs — Sojabönor — Mango — Kimchimarinerade nudlar — Vårlök & groddar — Salladsmix",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Saltbakad blomkål — Blomkålspuré — Rostad Brysselkål — Parmesan velouté — Jordärtskockchips",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KINESISK MAPO TOFU — Fläskfärs — Tofu — Ångat ris — Vårlök & groddar",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "DAGENS FISKEFÅNGST — Smörsås m. rom — Rostade Höstrotfrukter — Friterad Jordärtskockschips — Gräslök",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans sallad: Marinerad Tofusallad — Chilimajonnäs — Sojabönor — Mango — Kimchimarinerade nudlar — Vårlök & groddar — Salladsmix",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Saltbakad blomkål — Blomkålspuré — Rostad Brysselkål — Parmesan velouté — Jordärtskockchips",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "tvakanten",
+   "name": "Tvåkanten",
+   "address": "Kungsportsavenyn 27, 411 36 Göteborg",
+   "url": "https://www.tvakanten.se/",
+   "menu_url": "https://www.tvakanten.se/menyer/",
+   "walk_minutes": 9,
+   "price": "159 kr",
+   "lunch_hours": "Tis–fre 11.30–15.00",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "tue": [
+     {
+      "text": "Stekt fläsk | raggmunk | rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ugnsbakad lax | Sandefjordsås | fänkål | dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Karamelliserad chèvre | grönsakspuré | bakad rödbeta",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Långbakad fläskkarré | gräddsås | äpplemos | kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ugnsbakad lax | Sandefjordsås | fänkål | dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Karamelliserad chèvre | grönsakspuré | bakad rödbeta",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Kycklinglårfilé | dragonsås | potatisgratäng",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Ugnsbakad lax | Sandefjordsås | fänkål | dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Karamelliserad chèvre | grönsakspuré | bakad rödbeta",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Fläskschnitzel Cordon bleu | haricots verts | rödvinssås | rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ugnsbakad lax | Sandefjordsås | fänkål | dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Karamelliserad chèvre | grönsakspuré | bakad rödbeta",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "hotell-heden",
+   "name": "Hotell Heden",
+   "address": "Sten Sturegatan 1, 411 39 Göteborg",
+   "url": "https://hotellheden.se",
+   "menu_url": "https://hotellheden.se/ata/lunch/",
+   "walk_minutes": 10,
+   "price": "135 kr",
+   "lunch_hours": "11.30–13.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Citronpocherad fiskfilé serveras med vitvinssås samt potatisstomp",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kyckling med röd currysås samt ris",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Svamp- och rotsaksgratäng",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Blomkål- & broccolisoppa",
+      "types": [
+       "soppa"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Citronpocherad fiskfilé serveras med vitvinssås samt potatisstomp",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Korvstroganoff serveras med ris, crèmefraiche samt saltgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Svamp- och rotsaksgratäng",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Blomkål- & broccolisoppa",
+      "types": [
+       "soppa"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Fisk- och skaldjursgratäng serveras med potatismos",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Stekt fläsk med raggmunk och lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Svamp- och rotsaksgratäng",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Blomkål- & broccolisoppa",
+      "types": [
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Färskostbakad lax serveras med räksås samt dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Helstekt kotlettrad serveras med choronsås samt rostad potatis"
+     },
+     {
+      "text": "Veckans vegetariska: Svamp- och rotsaksgratäng",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Blomkål- & broccolisoppa",
+      "types": [
+       "soppa"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Färskostbakad lax serveras med räksås samt dillslungad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Isterband serveras med stuvad potatis samt rödbetor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Svamp- och rotsaksgratäng",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Blomkål- & broccolisoppa",
+      "types": [
+       "soppa"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "le-comptoir",
+   "name": "Le Comptoir Fromagerie & Bistrot",
+   "address": "Kungsportsavenyen 21",
+   "url": "https://www.le-comptoir.se/",
+   "menu_url": "https://www.le-comptoir.se/avenylunch",
+   "walk_minutes": 10,
+   "price": "149–205 kr",
+   "lunch_hours": "tis–fre från 11.00",
+   "cuisine": "Franskt",
+   "static_menu": false,
+   "days": {
+    "tue": [
+     {
+      "text": "Tarte flambée – tunn pizza från Alsace",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Quiche vegetarienne – paj med ost och grönsaker",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Soupe à l’oignon – fransk löksoppa",
+      "types": [
+       "soppa"
+      ]
+     },
+     {
+      "text": "Plat du jour – Kyckling med citronsås, rotfruktsgratäng och smörstekta grönsaker",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Croque monsieur – med skinka eller confiterat anklår",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Crottin de chèvre chaud – sallad med varm getost",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Ost & chark – Komponera din egen bricka med ost & chark"
+     }
+    ],
+    "wed": [
+     {
+      "text": "Tarte flambée – tunn pizza från Alsace",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Quiche vegetarienne – paj med ost och grönsaker",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Soupe à l’oignon – fransk löksoppa",
+      "types": [
+       "soppa"
+      ]
+     },
+     {
+      "text": "Plat du jour – Kyckling med citronsås, rotfruktsgratäng och smörstekta grönsaker",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Croque monsieur – med skinka eller confiterat anklår",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Crottin de chèvre chaud – sallad med varm getost",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Ost & chark – Komponera din egen bricka med ost & chark"
+     }
+    ],
+    "thu": [
+     {
+      "text": "Tarte flambée – tunn pizza från Alsace",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Quiche vegetarienne – paj med ost och grönsaker",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Soupe à l’oignon – fransk löksoppa",
+      "types": [
+       "soppa"
+      ]
+     },
+     {
+      "text": "Plat du jour – Kyckling med citronsås, rotfruktsgratäng och smörstekta grönsaker",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Croque monsieur – med skinka eller confiterat anklår",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Crottin de chèvre chaud – sallad med varm getost",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Ost & chark – Komponera din egen bricka med ost & chark"
+     }
+    ],
+    "fri": [
+     {
+      "text": "Tarte flambée – tunn pizza från Alsace",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Quiche vegetarienne – paj med ost och grönsaker",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Soupe à l’oignon – fransk löksoppa",
+      "types": [
+       "soppa"
+      ]
+     },
+     {
+      "text": "Plat du jour – Kyckling med citronsås, rotfruktsgratäng och smörstekta grönsaker",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Croque monsieur – med skinka eller confiterat anklår",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Crottin de chèvre chaud – sallad med varm getost",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Ost & chark – Komponera din egen bricka med ost & chark"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": 37
+  },
+  {
+   "id": "focus-restaurang",
+   "name": "Focus Restaurang",
+   "address": "Åvägen 40, 412 51 Göteborg",
+   "url": "https://www.ica.se/butiker/kvantum/goteborg/ica-focus-1004247/tjanster/restaurang/",
+   "menu_url": "https://www.ica.se/butiker/kvantum/goteborg/ica-focus-1004247/tjanster/lunch/",
+   "walk_minutes": 11,
+   "price": "129 kr (salladsbar 99 kr)",
+   "lunch_hours": "Mån–fre 11.00–14.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Örtbakad fläskkarré serveras med tomat- och rödvinssås, rostad potatis och stekta körsbärstomater",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Focus fisksoppa med potatis, kräftstjärtar, dill och vitlöksbröd",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Kantarellpasta med vitlök, vitt vin, grädde och örter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Småländska isterband med persiljestuvad potatis, grovkornig senap och rödbetor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare serveras med potatis, kapris- och dillsås, citron och gröna ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Kantarellpasta med vitlök, vitt vin, grädde och örter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Viltskavsgryta serveras med potatismos, svart vinbärsgelé, svamp, lök och sidfläsk",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Dagens fångst serveras med delikatesspotatis, kokt ägg, räkor, brynt smör, pepparrot och syrad gurka",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Kantarellpasta med vitlök, vitt vin, grädde och örter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Focus biffpasta med ostronskivling, chili, vitlök och persilja",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Dagens fångst serveras med kokt potatis, stekt savoykål och crème double smaksatt med körvel",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Kantarellpasta med vitlök, vitt vin, grädde och örter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Hjortwallenbergare serveras med morötter, blåbärssky smaksatt med enbär samt potatismos med västerbottenost",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Dagens fångst serveras med rödbetspuré, örtolja och potatisstomp med getost",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska: Kantarellpasta med vitlök, vitt vin, grädde och örter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "kometen",
+   "name": "Restaurang Kometen",
+   "address": "Vasagatan 58",
+   "url": "https://www.restaurangkometen.se",
+   "menu_url": "https://www.menydags.se/restaurang/kometen/lunch",
+   "walk_minutes": 11,
+   "price": "159 kr",
+   "lunch_hours": "11.30–14.30",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Havets wallenbergare – med brynt smör, gröna ärtor och potatispuré",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt pluma – Med dragonsmörsås, skysås, grönsaker och rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Rostad blomkål – Med soyabeurre noisette, hasselnötter, chilimajo och cruditésallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Kokt torsk – Med äggsås, gröna ärtor och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Stekt fläsk – Med raggmunk och rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Rostad blomkål – Med soyabeurre noisette, hasselnötter, chilimajo och cruditésallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kometens fisksoppa – Med grönsaker",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Plommonspäckad fläkkarré – Med gräddsås och kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Rostad blomkål – Med soyabeurre noisette, hasselnötter, chilimajo och cruditésallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Ugnsbakad lax – Smaksatt med färsk ost, citron, sockerärtor och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pannbiff – Med stekt lök, skysås, saltgurka och kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Rostad blomkål – Med soyabeurre noisette, hasselnötter, chilimajo och cruditésallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Pocherad rödtunga – Med kräftfars och skaldjursås, grön sparris och kokt potatispuré",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Grillad ryggbiff – Med persiljesmör, skysås, haricots verts och potatisgratäng",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Rostad blomkål – Med soyabeurre noisette, hasselnötter, chilimajo och cruditésallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "ristorante-bellora",
+   "name": "Ristorante Bellora",
+   "address": "Kungsportsavenyn 6, 411 36 Göteborg",
+   "url": "https://www.hotelbellora.se/restaurang/",
+   "menu_url": "https://www.hotelbellora.se/restaurang/lunch/lunchmeny/",
+   "walk_minutes": 11,
+   "price": "155 kr",
+   "lunch_hours": "11.30–14.00",
+   "cuisine": "Italienskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Bakad kyckling med citron, rosmarin och vitlök, rostad potatis och basilikakräm",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska (155 kr): Vegetarisk lasagne med ricotta, spenat, ruccola och parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans pizza (195 kr): Pizza con salsiccia med tomatsås, mozzarella, salsiccia, mangold och färsk chili",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Bellora’s Polpette – hemmagjorda kalvfrikadeller med tomatsås, potatispuré, parmesan och basilika",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska (155 kr): Vegetarisk lasagne med ricotta, spenat, ruccola och parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans pizza (195 kr): Pizza con salsiccia med tomatsås, mozzarella, salsiccia, mangold och färsk chili",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Vildsvinssalsiccia med timjansslungad potatis, rödkålssallad och balsamicosky",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska (155 kr): Vegetarisk lasagne med ricotta, spenat, ruccola och parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans pizza (195 kr): Pizza con salsiccia med tomatsås, mozzarella, salsiccia, mangold och färsk chili",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Dagens fångst med rostad pumpa, brynt smör med salvia och rostade hasselnötter",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska (155 kr): Vegetarisk lasagne med ricotta, spenat, ruccola och parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans pizza (195 kr): Pizza con salsiccia med tomatsås, mozzarella, salsiccia, mangold och färsk chili",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Lasagne alla bolognese med ruccola, parmesan och basilika",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans vegetariska (155 kr): Vegetarisk lasagne med ricotta, spenat, ruccola och parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans pizza (195 kr): Pizza con salsiccia med tomatsås, mozzarella, salsiccia, mangold och färsk chili",
+      "types": [
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "am-thuc-viet",
+   "name": "Am Thuc Viet",
+   "address": "Södra Vägen 11, 411 35 Göteborg",
+   "url": "https://www.amthucviet.se/",
+   "menu_url": "https://www.amthucviet.se/meny",
+   "walk_minutes": 12,
+   "price": "135 kr",
+   "lunch_hours": "Tis–fre 11.00–14.30",
+   "cuisine": "Vietnamesiskt",
+   "static_menu": true,
+   "days": {
+    "tue": [
+     {
+      "text": "1. Bún Chả Giò Thịt Gà – Friterade kycklingsvårrullar med kyckling & grönsaker i rispapper. Serveras med sallad, färska örter, picklade grönsaker, rostade jordnötter, rostade lök, risnudlar & fisksås.",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "2.Thịt Bò Xào Xả – Wokad skivad ryggbiff med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, jasminris eller risnudlar & fisksås.",
+      "types": [
+       "kott",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "3. Đậu Xào Xả (Vegan) – Wokad tofu med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, jasminris eller risnudlar & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "4. Gà Xào Nam Bộ – Wokad marinerad kycklinglårfilé. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "5. Tôm Xào Húng Quế – Wokade tigerräkor med basilika. Serveras med sallad, pickalde grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "1. Bún Chả Giò Chay (Vegan) – Friterade veganska vårrullar med grönsaker & tofu. Serveras med sallad, färska örter, picklade grönsaker, rostade jordnötter, rostade lök, risnudlar & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "2. Tôm Xào Xả – Wokade tigerräkor med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "3. Bún Thịt Bò Xào Gừng – Wokad skivad ryggbiff med ingefära. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar och fisksås.",
+      "types": [
+       "kott",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "4. Gà Xào Nam Bộ – Wokad marinerad kycklinglårfilé. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "5. Đậu Xào Xả (Vegan) – Wokad tofu med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "1. Bún Chả Giò Thịt Gà – Friterade kycklingsvårrullar med kyckling & grönsaker i rispapper. Serveras med sallad, färska örter, picklade grönsaker, rostade jordnötter, rostade lök, risnudlar & fisksås.",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "2. Đậu Xào Xả (Vegan) – Wokad tofu med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "3. Gà Xào Nam Bộ – Wokad marinerad kycklinglårfilé. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "4. Thịt Bò Xào Xả – Wokad skivad ryggbiff med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, jasminris eller risnudlar & fisksås.",
+      "types": [
+       "kott",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "5. Tôm Xào Húng Quế – Wokade tigerräkor med basilika. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "1. Bún Chả Giò Chay (Vegan) – Friterade vegetariskvårrullar med grönsaker & tofu i rispapper. Serveras med sallad, färska örter, picklade grönsaker, rostade jordnötter, rostade lök, risnudlar & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "2. Tôm Xào Xả – Wokade tigerräkor med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "3. Đậu Xào Xả (Vegan) – Wokad tofu med citrongräs. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & vegan sås.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "4. Gà Xào Nam Bộ – Wokad marinerad kycklinglårfilé. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "types": [
+       "kyckling",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "5. Thịt Bò Xào Gừng – Wokad skivad ryggbiff med ingefära. Serveras med sallad, picklade grönsaker, färska örter, rostade jordnötter, rostade lök, risnudlar eller jasminris & fisksås.",
+      "types": [
+       "kott",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "joe-farellis",
+   "name": "Joe Farelli's",
+   "address": "Kungsportsavenyen 12, 411 36 Göteborg",
+   "url": "https://joefarelli.com/sv/",
+   "menu_url": "https://joefarelli.com/sv/lunch/",
+   "walk_minutes": 12,
+   "price": "172 kr",
+   "lunch_hours": "Mån–fre 11.30–14.30",
+   "cuisine": "Amerikanskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Nöt köttbullar, enbärsgräddsås, potatispuré, rårörda lingon, pressgurka, persilja.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans Paleo: Cajunbakad Lax, stekt bellaverde, honungsvinnegrette, saltrostade pumpakärnor, citron, dill.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans Vegetariska: Krämig Kantarellrisotto, brynt smör, krasse, västerbottenost.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans Grill: Entrecote 200g från Dalsjöfors, teyffelpommes, grönpepparcreme, rödvinsås."
+     },
+     {
+      "text": "Månadens Burgare: 180g på egenmalt kött av högrev/bringa/talg, briochebröd, röd cheddar, karamelliserad lök, dressing, sallad, rödlök, jalapeños, mayo, French Fries.",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Parmalindad kycklingfilé, pestorostad potatis, ruccolasallad, parmesan, bakade småtomater.",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Veckans Paleo: Cajunbakad Lax, stekt bellaverde, honungsvinnegrette, saltrostade pumpakärnor, citron, dill.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans Vegetariska: Krämig Kantarellrisotto, brynt smör, krasse, västerbottenost.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans Grill: Entrecote 200g från Dalsjöfors, teyffelpommes, grönpepparcreme, rödvinsås."
+     },
+     {
+      "text": "Månadens Burgare: 180g på egenmalt kött av högrev/bringa/talg, briochebröd, röd cheddar, karamelliserad lök, dressing, sallad, rödlök, jalapeños, mayo, French Fries.",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Hjortfärsbiff, klyftpotatis, pepparsås, smörstekta skogschampinjoner, haricotvert.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans Paleo: Cajunbakad Lax, stekt bellaverde, honungsvinnegrette, saltrostade pumpakärnor, citron, dill.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans Vegetariska: Krämig Kantarellrisotto, brynt smör, krasse, västerbottenost.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans Grill: Entrecote 200g från Dalsjöfors, teyffelpommes, grönpepparcreme, rödvinsås."
+     },
+     {
+      "text": "Månadens Burgare: 180g på egenmalt kött av högrev/bringa/talg, briochebröd, röd cheddar, karamelliserad lök, dressing, sallad, rödlök, jalapeños, mayo, French Fries.",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Boeuf bourguignon, potatispuré med rostad vitlök, friterad palsternacka, timjan."
+     },
+     {
+      "text": "Veckans Paleo: Cajunbakad Lax, stekt bellaverde, honungsvinnegrette, saltrostade pumpakärnor, citron, dill.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans Vegetariska: Krämig Kantarellrisotto, brynt smör, krasse, västerbottenost.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans Grill: Entrecote 200g från Dalsjöfors, teyffelpommes, grönpepparcreme, rödvinsås."
+     },
+     {
+      "text": "Månadens Burgare: 180g på egenmalt kött av högrev/bringa/talg, briochebröd, röd cheddar, karamelliserad lök, dressing, sallad, rödlök, jalapeños, mayo, French Fries.",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Långbakat kalvhögrev, potatis/blomkålsstomp, rödvinsås, ångad morot, vattenkrasse.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Veckans Paleo: Cajunbakad Lax, stekt bellaverde, honungsvinnegrette, saltrostade pumpakärnor, citron, dill.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Veckans Vegetariska: Krämig Kantarellrisotto, brynt smör, krasse, västerbottenost.",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Veckans Grill: Entrecote 200g från Dalsjöfors, teyffelpommes, grönpepparcreme, rödvinsås."
+     },
+     {
+      "text": "Månadens Burgare: 180g på egenmalt kött av högrev/bringa/talg, briochebröd, röd cheddar, karamelliserad lök, dressing, sallad, rödlök, jalapeños, mayo, French Fries.",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Fredagspizza: Tomatsås på san marzano tomater, ost, salsiccia, tallegio, vitlök, champinjoner, persilja.",
+      "types": [
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "sushi-mamaya",
+   "name": "Sushi Mamaya",
+   "address": "Aschebergsgatan 7, 411 27 Göteborg",
+   "url": "https://www.sushimamaya.se/",
+   "menu_url": "https://www.sushimamaya.se/meny",
+   "walk_minutes": 12,
+   "price": "149 kr (gästrätt)",
+   "lunch_hours": "",
+   "cuisine": "Japanskt",
+   "static_menu": true,
+   "days": {
+    "mon": [
+     {
+      "text": "Dumplings (handgjorda dumplings fyllda med bländfärseller ägg (Veg) eller mixa)"
+     }
+    ],
+    "tue": [
+     {
+      "text": "Udon Biff Soppa (varm biffbuljong med udon, kimchi, biff och ägg)",
+      "types": [
+       "kott",
+       "soppa",
+       "nudlar"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Udon med köttfärs (spenat, böngroddar, köttfärs, gurka ochmorot – serveras utan buljong)",
+      "types": [
+       "kott",
+       "soppa",
+       "nudlar"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Mamaya Ramen (långkokt, aromatisk buljong med kryddigköttfärs, ägg, babyspenat, böngroddar)",
+      "types": [
+       "kott",
+       "soppa"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Unadon (grillad ål i japansk stil med ris)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "la-gondola",
+   "name": "La Gondola",
+   "address": "Kungsportsavenyn 4",
+   "url": "https://gondola.se/",
+   "menu_url": "https://gondola.se/",
+   "walk_minutes": 13,
+   "price": "139 kr",
+   "lunch_hours": "11.30–14.30",
+   "cuisine": "Italienskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Kött: Mozzarellafylld kycklingfilé m. tomatrisotto & rostad blomkål",
+      "types": [
+       "kott",
+       "kyckling",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Fisk: Pocherad koljafilé m. kokt potatis, räksås & sparris.",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Kött: Köttfärslimpa m. kokt potatis, gräddsås, lingon & pressgurka.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fisk: Fish & chips m. citronkräm",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kött: Nattbakad fläskkarré m. pommes, timjansky & haricot verts",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fisk: Smörstekt kummelfilé m. kokt potatis, räkor, skirat smör & citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Kött: Jägarschnitzel m. rostad potatis, örtagårdssmör & rödvinssky",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fisk: Citronbakad fiskfilé m. kokt potatis, vitvinssås & gröna ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Kött: Höstgryta på högrev m. basmatiris, picklade rödkål & smetana",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Fisk: Ugnsbakad lax m. kokt potatis, hummersås, sparris & citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "surr-lunch",
+   "name": "Surr Lunch",
+   "address": "Åvägen 24, 412 51 Göteborg",
+   "url": "https://www.surrarena.se/",
+   "menu_url": "https://www.kvartersmenyn.se/rest/16891",
+   "walk_minutes": 13,
+   "price": "129 kr",
+   "lunch_hours": "11.30–13.30",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Steak Haché Nötfärsbiff, pepparsås, rostad potatis, cornichons, dijon, persilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Bakad Kummel Palsternackspuré, stekta champinjoner, smörad svampbuljong, krasse",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Getostrisotto Rödbetor, rostade valnötter, machésallad, picklade gulbetor",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Fläskschnitzel Rödvin och rödlökssmör, rostad potatis, bordelaisesås, rödlök, krasse",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Dagens Fångst Stuvad spenat/potatis, persilja, frissésallad",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Getostrisotto Rödbetor, rostade valnötter, machésallad, picklade gulbetor",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Wallenbergare Krossade ärtor, lingon, potatismos, brynt smör",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Dagens fångst Kräftbisque, grillad kål, potatis, gräslök",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Getostrisotto Rödbetor, rostade valnötter, machésallad, picklade gulbetor",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Kolgrillad Gris Pak-choi, rostad kycklingsky, lökpuré, friterad lök",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Musselsoppa Fisk, räkor, potatis, fånkål, persiljealioli",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Grillad blomkål Brynt smörskum, äpple, endive, blomkålspuré",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "\"Bookmaker\" Nattbakad karré, dijon, bakad äggula, pommes frites, pickles, pepparrot, bröd",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Bohussoppa Fänkålsmayo, rostade rotsaker, dillolja, potatis, fisk",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Grillad blomkål Brynt smörskum, äpple, endive, blomkålspuré",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "wijkanders",
+   "name": "Wijkanders",
+   "address": "Vera Sandbergs allé 5B",
+   "url": "https://wijkanders.se",
+   "menu_url": "https://plateimpact-screen.azurewebsites.net/menu/week/wijkanders/C296E4FE-641C-4599-5874-08DE731FD655",
+   "walk_minutes": 13,
+   "price": "99–129 kr",
+   "lunch_hours": "11.00–14.00",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Rödbetsbiffar, rostad potatis, getostkräm, honungsvinägrett & napolitanasallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pocherad fisk, kokt potatis, dillkräm & riven pepparrot",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pytt Bellman, gräddstuvad pytt i panna, äggula, saltgurka, rödbetor & kruspersilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Wijkanders Ceasarsallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Olivbakad fisk, chilidressing, rostad potatis, ruccola & smulad fetaost",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pulled pork, avokado, rostad potatis, aioli, pico de gallo, koriander & vitlöksrostad toast",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Vegobullar, tagliatelle pasta, tomatsås, riven parmesan & krasse",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Wijkanders Ceasarsallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Enchiladas, sojafärs, tortillabröd, ost, tortillachips, salsa, crème fraiche, koriander & lime",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Stekt panerad fisk, currydressing, syrade grönsaker, dill & kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pannbiff, kantarellsås, potatispuré, rårörda vinbär, pressgurka & kruspersilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Wijkanders Ceasarsallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Sesambakad fisk, teriyakisås, jasminris, rostade cashewnötter & koriander",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Risotto, rostad pumpa, grönkålschips, rostade pumpafrön & parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Stekt kycklingklubbfilé, mojo rojo, vitlöksrostad potatis, parmesanbakad zucchini & napolitana",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Wijkanders Ceasarsallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Spenatfylld ravioli, brynt smör, stekta kantareller, ostronskivling & krasse",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Italiensk ragu på högrev, rigatoni pasta, svamp, morötter, selleri & parmesan",
+      "types": [
+       "kott",
+       "gryta",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare, potatismos, brynt smör, gröna ärtor & dill",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Wijkanders Ceasarsallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "enoteca-del-signore",
+   "name": "Enoteca del Signore",
+   "address": "Vasaplatsen 4, 411 34 Göteborg",
+   "url": "https://www.signore.nu/",
+   "menu_url": "https://www.signore.nu/#lunch",
+   "walk_minutes": 14,
+   "price": "149–199 kr",
+   "lunch_hours": "11.00–15.00",
+   "cuisine": "Italienskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Pasta alla Sorrentina – pasta med tomatsås, mozzarella, basilika och parmesan 155:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Risotto del giorno – krämig svamprisotto med krispigt bacon och ruccola 159:-",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Gran Coppa di Maiale al Pepe Verde – mör och saftig fläskkarré med rostad potatis, broccoli och tomatsallad, krämig grönpepparsås 169:-",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Specialita dello Chef: Spaghetti e Vongole – spaghetti med färska hjärtmusslor, vitlök, olivolja, persilja och en touch av vitt vin 199-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Insalata della Casa – blandsallad, kronärtskockor, solrosfrön, oliver, Grana Padano Välj mellan: panerad kycklinglårfilé, räkor eller Mozzarella di Bufala DOC 155:-",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pizza Margherita – med mozzarella, tomatsås och basilika och Grana Padano 149:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pizza Diavola – mozzarella, tomatsås, chilisalami, ruccola, Grana Padano 159:-",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Pasta al Salmone – krämig pasta med lax, purjolök, färska tomater & vitlök 169:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Risotto Ortolana – krämig risotto med säsongens grönsaker 155:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Gran Coppa di Maiale al Pepe Verde – mör och saftig fläskkarré med rostad potatis, broccoli och tomatsallad, krämig grönpepparsås 169:-",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Specialita dello Chef: Spaghetti e Vongole – spaghetti med färska hjärtmusslor, vitlök, olivolja, persilja och en touch av vitt vin 199-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Insalata della Casa – blandsallad, kronärtskockor, solrosfrön, oliver, Grana Padano Välj mellan: panerad kycklinglårfilé, räkor eller Mozzarella di Bufala DOC 155:-",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pizza Margherita – med mozzarella, tomatsås och basilika och Grana Padano 149:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pizza Diavola – mozzarella, tomatsås, chilisalami, ruccola, Grana Padano 159:-",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Pasta Carbonara – bacon, äggula, grädde, svartpeppar, Grana Padano 155:-",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Dagens Fisk: Ugnsbakad Dagens fisk serveras med en krämig proseccosås, färska tomater och handskalade räkor 169:-",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Gran Coppa di Maiale al Pepe Verde – mör och saftig fläskkarré med rostad potatis, broccoli och tomatsallad, krämig grönpepparsås 169:-",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Specialita dello Chef: Spaghetti e Vongole – spaghetti med färska hjärtmusslor, vitlök, olivolja, persilja och en touch av vitt vin 199-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Insalata della Casa – blandsallad, kronärtskockor, solrosfrön, oliver, Grana Padano Välj mellan: panerad kycklinglårfilé, räkor eller Mozzarella di Bufala DOC 155:-",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pizza Margherita – med mozzarella, tomatsås och basilika och Grana Padano 149:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pizza Diavola – mozzarella, tomatsås, chilisalami, ruccola, Grana Padano 159:-",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Risotto Gorgo & Pera – krämig risotto med gorgonzola och päron 155:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pasta Diavolo – pasta med piripiri, paprika, gräddig köttfärssås 159:-",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Gran Coppa di Maiale al Pepe Verde – mör och saftig fläskkarré med rostad potatis, broccoli och tomatsallad, krämig grönpepparsås 169:-",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Specialita dello Chef: Spaghetti e Vongole – spaghetti med färska hjärtmusslor, vitlök, olivolja, persilja och en touch av vitt vin 199-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Insalata della Casa – blandsallad, kronärtskockor, solrosfrön, oliver, Grana Padano Välj mellan: panerad kycklinglårfilé, räkor eller Mozzarella di Bufala DOC 155:-",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pizza Margherita – med mozzarella, tomatsås och basilika och Grana Padano 149:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pizza Diavola – mozzarella, tomatsås, chilisalami, ruccola, Grana Padano 159:-",
+      "types": [
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Fish & Chips – friterad fisk med pommes frites, sallad och vitlökssås 169:-",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pasta pollo – krämig pestopasta med saftig kyckling, toppad med nyriven parmesan 159:-",
+      "types": [
+       "kyckling",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Gran Coppa di Maiale al Pepe Verde – mör och saftig fläskkarré med rostad potatis, broccoli och tomatsallad, krämig grönpepparsås 169:-",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Specialita dello Chef: Spaghetti e Vongole – spaghetti med färska hjärtmusslor, vitlök, olivolja, persilja och en touch av vitt vin 199-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Insalata della Casa – blandsallad, kronärtskockor, solrosfrön, oliver, Grana Padano Välj mellan: panerad kycklinglårfilé, räkor eller Mozzarella di Bufala DOC 155:-",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pizza Margherita – med mozzarella, tomatsås och basilika och Grana Padano 149:-",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Pizza Diavola – mozzarella, tomatsås, chilisalami, ruccola, Grana Padano 159:-",
+      "types": [
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "karrestaurangen",
+   "name": "Kårrestaurangen",
+   "address": "Chalmers kårhus, Chalmersplatsen 1",
+   "url": "https://www.chalmerskonferens.se/ata/johanneberg/karrestaurangen/",
+   "menu_url": "https://plateimpact-screen.azurewebsites.net/menu/week/karrestaurangen/21f31565-5c2b-4b47-d2a1-08d558129279",
+   "walk_minutes": 14,
+   "price": "75–103 kr",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "thu": [
+     {
+      "text": "Street food: Laxburgare, dillpickald gurka, tartarsås & rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Nordic: Nattbakad karré, gräddsås, äppelmos & kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Greens: Linsgryta med rökt paprika, kokosmjölk & kål",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "mon": [
+     {
+      "text": "Street food: Kyckling tikka masala – Kyckling i krämig sås med ris och libabröd",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Nordic: Pankopanerad fisk, örtkräm, ärtor, dill & potatisstomp",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Greens: Krispig tofu, gochujanag sås, sesam, salladslök & ris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Street food: Sesambakad fisk , nudlar, wokade grönsaker",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Nordic: Pasta bolognese (fläsk) & riven grana padano",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Greens: Tikka masala veggie plate – Grönsaker, tofu, i kryddig sås, ris och papadum",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Street food: Friterad fisk med ris & mango-chili-sallad",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Nordic: Köttbullar(fläsk), gräddsås, potatispuré, rårörda lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Greens: Bakad sötpotatis toppad med chili sin carne",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Street food: Shawarma bowl – Kryddat fläskkött med bulgur, grönsaker och vitlökssås",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Nordic: Vitvinspocherad fisk, dillslungad potatis & sandefjordsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Greens: Rödbetsbiffar med pepparrotskräm, potatis och picklad rödlök",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "linsen",
+   "name": "Restaurang & Café Linsen",
+   "address": "Hörsalsvägen 11 (EDIT-huset)",
+   "url": "https://cafe-linsen.se",
+   "menu_url": "https://cafe-linsen.se/",
+   "walk_minutes": 14,
+   "price": "",
+   "lunch_hours": "",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Kyckling Balti Masala – Indisk Kyckling Gryta/ Zuccini/ Mini Majs/ Paprika/ Raita/ Basmati Ris",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Halstrad Laxfile – Kall Dillsås/ Broccoli/ Purjolök/ Lök/ Citron/ Rostad Potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Vegetarisk Balti Masala – Bönor/ Paprika/ Zuccini/ Mani Majs/ Raita/ Koriander/ Basmati Ris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Dubbel Panerad Fläsk Schnitzel – Kaprisky/Gröna Ärtor/ Citron/ Persilja/ Stekt Potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Örtöverbakad Dagens Fångst – Smörad Vitvinsås/ Picklad Moroter o Fänkål/ Rostad Schaotten Lök/ Potatispure",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Dagens Pasta – Pesto/ Kantareller/ Svamp/ Sojafärs/ Ruccola/ Salladslök/Parmesan",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Korean Fried Kyckling",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Hoisinsås/ Picklad Kålsallad/ Mix Sallad/ Sesmfrö/ Ris",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vinpocherad Dagens Fångst – Ägg o Persiljasås/ Gröna Ärtor/ Dill/ Slungade Potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Korean Fried Vegetarisk Bullar",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Hoisinsås/ Picklad Kålsallad/ Mix Sallad/ Sesamfrö/ Ris",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Hoisinsås/ Mix Sallad/ Sesame Seeds",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Högrevsburgare – Stekt Bacon/ Ost/ Lök/Syltat Lök/ Sallad/ Dressing/Brioche/ Pommes",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Bohuslänsk Fisk Soppa – Grädde/ Grönsaker/ Räkor/Stenbitsrom/ Aioli/ Vitlöks Bröd",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Bohuslän Fish Soup",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Hemmagjorda Tofu Burgare – Stekt Kantareller/ Ost/ Lök/Syltat Lök/ Sallad/ Dressing/Brioche/ Pommes",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Homemade Tofu Burgers",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Högrevs Chili – Högrev/Avovadokräm/ Tomat Salsa/ Nacho Chips/ Koriander/ Ris",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Chuck roast chili"
+     },
+     {
+      "text": "Pepparrot Panerad Fångst – Remouladsås/ Örtsallad/ Citron/ Dill/ Kokt Potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vego Chili – Sojafärs/ Bönor/Avovadokräm/ Tomat Salsa/ Nacho Chips/ Koriander/ Ris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veggie Chili"
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "bror-och-bord",
+   "name": "Bror och Bord",
+   "address": "Bohusgatan 15, 411 39 Göteborg",
+   "url": "https://brorochbord.se/",
+   "menu_url": "https://brorochbord.se/",
+   "walk_minutes": 15,
+   "price": "135 kr",
+   "lunch_hours": "11.00–14.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Köttfärslimpa med knaperstekt bacon, stekt potatis, brunsås och lingonsylt",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad dagens fångst med västkustsås, potatis och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Vegetarisk tikka masala serveras med ris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Modo nostro, köttfärs, champinjoner, grädde, tomat, gorgonzola & piri-piri",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Färdiga sallader",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Raggmunkar med stekt fläsk & rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Pocherad Dagens fångst i vitvinssås serveras med duchesse potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Rotmos med rimmad fläsklägg, köttkorv och senap",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt fläsk med löksås & kokt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Spaghetti bolognese",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Tacobuffé, nötfärs samt vegetarisk soja färs",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Färdiga sallader",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Ost & skinkschnitzel med klyftpotatis gräddig rödvinssås och grönsaker",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt dagens fångst med Dansk remouladsås, potatis och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Hamburgerbuffé, nötfärs burgare, bröd, pommes frites, sallad och dressing",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Spaghetti diavolo, nötfärs, paprika, tomat, grädde & piri-piri",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Vegetarisk, halloumiburgare, pommes frites, sallad och dressing",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Färdiga sallader",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Idag bjuder vi på chokladpudding med vispad grädde"
+     }
+    ],
+    "thu": [
+     {
+      "text": "Kåldolmar med potatismos, brunsås & lingonsylt",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt dagens fångst med kall rom & dillsås, kokt potatis och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "soppbuffé, ärtsoppa, fisk & skaldjurssoppa och hemlagade pannkakor med sylt & grädde",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "lasagne al forno",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "vegetarisk, broccolisoppa, pannkakor med sylt & grädde",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Färdiga sallader",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Helstekt fläskfilé serveras med klyftpotatis, rödvinssky och bearnaise",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fish n chips med tartarsås, ärtor och citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Fusilli vitello oxkött i krämig skogssvampsås smaksatt med rödvin",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "vegetarisk krämig kantarellpasta med sparris toppas med grana padano",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Idag bjuder vi på pannacotta med skogsbär"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "gowri",
+   "name": "Gowri",
+   "address": "Utlandagatan 14, 412 61 Göteborg",
+   "url": "https://gowrirestaurang.se/",
+   "menu_url": "https://gowrirestaurang.se/lunch",
+   "walk_minutes": 15,
+   "price": "120 kr",
+   "lunch_hours": "Mån–fre 11.00–14.00",
+   "cuisine": "Indiskt",
+   "static_menu": true,
+   "days": {
+    "mon": [
+     {
+      "text": "Chicken Vindaloo (STARK) – Marinerad grillad kycklingfilé med chili,Lök,tomat",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Chicken Tikka (MILD) – Marinerad grillad kycklingfilé i en krämig sås gjord på färska tomater, lök, vitlök, ingefära.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Lammgryta, (Stark/Mild) – Tillagad med egen kryddblandning, smak från Sri Lanka.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KYCKLING CURRY (STARK) – Kyckling med curry, ingefära, vitlök, kummin, koriander, gurkmeja, kokosmjölk och grädde.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "KYCKLING PEPPER (MILD) – Kycklingfilé med svartpeppar, grädde, kokosmjölk, champinjoner, paprika och vetemjöl.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "OXGRYTA – Oxgryta tillagad med chili, curry, tomat och egen kryddmix.",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KYCKLING MASALA – Kycklingfilé med chilli, vitlök, färsk ingefära, tomat, kokosmjöl och många andra kryddor.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "KYCKLING KHORMA – Kycklingfilé med gräddsås, curry, grön chili, maizena, yoghurt och paprika.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Köttfärssås – Köttfärsås på indiska kryddor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Chicken Vindaloo (STARK) – Marinerad grillad kycklingfilé med chili,Lök,tomat",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "BUTTER KYCKLING – Kycklingfile tillagad med färska tomater, smör och malda cashewnötter, kokos, egna kryddor.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "OXGRYTA – Oxgryta tillagad med chili, curry, tomat och egen kryddmix.",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "MADRAS CHILI KYCKLING – Marinerad grillad kycklingfilé i egengjord cashewnötssås (vitlök, grön chilli, färsk koriander, malda cashewnötter och yogurt).",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "KYCKLING KHORMA – Kycklingfilé med gräddsås, curry, grön chili, maizena, yoghurt och paprika.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Köttfärssås på indiskvis (Mild) – Mincedmeat sauce cooked in indian manner",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "lahori-masala",
+   "name": "Lahori Masala",
+   "address": "Gibraltargatan 54, 412 58 Göteborg",
+   "url": "https://www.lahorimasala.se/",
+   "menu_url": "https://www.lahorimasala.se/lunch-meny",
+   "walk_minutes": 15,
+   "price": "129 kr (inkl. kaffe, sallad, dricka, naan & ris)",
+   "lunch_hours": "",
+   "cuisine": "Indiskt",
+   "static_menu": true,
+   "days": {
+    "mon": [
+     {
+      "text": "Chicken Tikka Masala – Grillad kycklingfile tillagad med kryddor i en mild krämig kokosmjolk sås.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Beef Vindaloo – Biff bitar tillsammans med kryddig vindaloo sås.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk).",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Chicken Kadhai (Laktosfri) – Kycklingfilé tillagad med kryddor paprika,lök, grön chili och koriander.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Achaar Gosht – Lammgryta med pickels mynta och kokosmjölk.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben marinerad i yogurt,kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Butter Chicken – Klassisk butter chicken. Grillade bitar av kycklingfilé tillagat i en gräddig tomatsås med smör, ghee, grädde och milda kryddor.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Beef Chilli Masala – Biff bitar tillagade i en mustig och kryddig sås gjord på vitlök, chili och paprika.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Chicken Kohlapuri – Kycklingfilé tillagad med Kolhapuri masala samt kokosmjölk, citronsaft och röd chili.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Lamm Khatta Meetha – Lammbitar tillagad med lime,apelsin i en kryddig sås.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben, marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Chicken Palak – Kycklingfilé med spenat, bockhornsklöver, färsk ingefära, vitlök och grön chili.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Beef Madras – Beefgryta tillagad med Madras speciell masala och kokosmjölk.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "ullevi-restaurang-konferens",
+   "name": "Ullevi Restaurang & Konferens",
+   "address": "Paradentrén, Ullevi (vån 2), 411 40 Göteborg",
+   "url": "https://www.ullevikonferens.se/",
+   "menu_url": "https://www.ullevikonferens.se/restaurang/lunch/",
+   "walk_minutes": 16,
+   "price": "129 kr (buffé)",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Tempurapanerad torsk med chilivitvinsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Stekt falukorv med stuvade makaroner",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Soja-& linsgryta med morötter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tonfisksallad med kokt ägg & haricots verts",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Kummel Polonaise med mild anjovissås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pytt i panna med stekt ägg & inlagda rödbetor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Soja-& linsgryta med morötter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tonfisksallad med kokt ägg & haricots verts",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Panerad flundra Grenoble – rödbetor, kapris, skirat smör",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Coq au vin med ris"
+     },
+     {
+      "text": "Soja-& linsgryta med morötter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tonfisksallad med kokt ägg & haricots verts",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Fiskgratäng med räkor, dill & potatispuré",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Ärtsoppa med fläsk & korv",
+      "types": [
+       "kott",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Soja-& linsgryta med morötter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tonfisksallad med kokt ägg & haricots verts",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Ugnsstekt Teriyakilax med sesam- & chilidip"
+     },
+     {
+      "text": "Kalvfärsbiff med cognacgräddsås & purjolökspotatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Soja-& linsgryta med morötter",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tonfisksallad med kokt ägg & haricots verts",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "gaffelkonst",
+   "name": "Gaffelkonst",
+   "address": "Parkgatan 49, 411 38 Göteborg",
+   "url": "http://www.gaffelkonst.se",
+   "menu_url": "https://gaffelkonst.kvartersmenyn.se/",
+   "walk_minutes": 17,
+   "price": "149 kr",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Grillad halloumi med krämig färskpotatis, hasselnötsvinägrett, pecorino och en sallad på grillade nektariner, bönor och gröna blad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Friterad fångst med skagenröra, potatispuré, citron och sallad på fänkål och gröna ärtor",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Örtstekt kyckling med krämig färskpotatis, pecorino, rostad kycklingsky och en sallad på grillade nektariner, bönor och gröna blad",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Fritters med BBQ-sås, fänkålsslaw, rostad sötpotatis, toppas med rostad majssallad och örter",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Örtbakad fångst med crème fraiche, räkor, pepparrot, sotad gurka, krossad potatis och brynt citronsmör",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kryddstekt pluma med BBQ-sås, fänkålsslaw, rostad sötpotatis, toppas med rostad majssallad och örter",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Sotad tofu-bowl med örtig quinoasallad med sojabönor och krispiga grönsaker, avokadokräm och saltrostad majs",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Sotad lax-bowl med örtig quinoasallad med sojabönor och krispiga grönsaker, avokadokräm och saltrostad majs",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wallenbergare på kalvfärs med brynt smör, potatispuré, rårörda lingon, stekt champinjon och gröna ärtor",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Gnocchi med bakad tomat, aubergine, oliver och pangrattato med örter och saltrostad mandel",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Sotad fångst med gnocchi, bakad tomat, aubergine, oliver och pangrattato med örter samt saltrostad mandel",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Yakiniku på strimlad kyckling i sötsyrlig sojasås med krämig kålsallad, jasminris, koriander, salladslök, sesamfrön och yuzumayo",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Krämig svamppasta med syltade kantareller, krispig fänkål och parmesan",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Chilimarinerade räkor med krämig skaldjurspasta, parmesan, krispig fänkål och dill",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Slaktarbiff med cafe de parissmör, friterad parmesanpotatis, rödvinssky och vitlöksmarinerade gröna bönor",
+      "types": [
+       "kott"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "smak",
+   "name": "S.M.A.K.",
+   "address": "Samhällsbyggnadshuset, Sven Hultins gata 6",
+   "url": "https://www.chalmerskonferens.se/ata/johanneberg/s-m-a-k/",
+   "menu_url": "https://plateimpact-screen.azurewebsites.net/menu/week/smak/3ac68e11-bcee-425e-d2a8-08d558129279",
+   "walk_minutes": 17,
+   "price": "75–105 kr",
+   "lunch_hours": "07.45–16.00 (fre –15.00)",
+   "cuisine": "Vegetariskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Pasta, rostade tomater, fetaost, bönsallad & kapris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Grönsaksbiffar, kryddig rostad potatis och morotsdipp",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Grönlasagne med zucchini, broccoli och spenat. Toppad med ostsås",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "aptitgarden",
+   "name": "Aptitgården",
+   "address": "Vädursgatan 5, 412 50 Göteborg",
+   "url": "https://aptitgarden.com/sv/",
+   "menu_url": "https://aptitgarden.com/sv/#vecko-meny",
+   "walk_minutes": 18,
+   "price": "130 kr",
+   "lunch_hours": "10.30–14.00",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Helstekt tunnskivad kotlettrad serveras med gorgonzolasås och paprikarostad kulpotatis"
+     },
+     {
+      "text": "Sprödbakad koljafilé serveras med ansjovissmör och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pasta med strimlad ryggbiff, paprika, lök i krämig kantarellsås",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Ost & jalapenofylld quesadillas serveras med salsa, nachos och crème fraiche"
+     },
+     {
+      "text": "Grillad Cevapcici serveras med pommes frites, crème fraiche och hackad gul lök"
+     }
+    ],
+    "tue": [
+     {
+      "text": "Stekt fläsk med löksås & kokt potatis eller raggmunk och lingonsylt",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ostgratinerad falukorv serveras med potatismos och götteröra",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Sparrisgratinerad sejfilé serveras med vitvinssås och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pasta med chorizo, paprika och rödlök i krämig barbecuesås",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Ost & jalapenofylld quesadillas serveras med salsa, nachos och crème fraiche"
+     },
+     {
+      "text": "Grillad Cevapcici serveras med pommes frites, crème fraiche och hackad gul lök"
+     }
+    ],
+    "wed": [
+     {
+      "text": "Grillade fläskfilémedaljonger serveras med grönpepparsås och rostad kulpotatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt panerad marulkkind serveras med pepparrotssmör, blancherad broccoli och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pasta med strimlad fläskfilé och grönsaker i krämig karljohan svampsås",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Ost & jalapenofylld quesadillas serveras med salsa, nachos och crème fraiche"
+     },
+     {
+      "text": "Grillad Cevapcici serveras med pommes frites, crème fraiche och hackad gul lök"
+     }
+    ],
+    "thu": [
+     {
+      "text": "Nattbakad slottsstek serveras med mustig gräddsås, svart vinbärsgelé och kokt potatis"
+     },
+     {
+      "text": "Stekt dubbelpanerad sejfilé serveras med dansk remouladsås och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pasta med hanskalade räkor i krämig fänkål & purjolökssås",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Ost & jalapenofylld quesadillas serveras med salsa, nachos och crème fraiche"
+     },
+     {
+      "text": "Grillad Cevapcici serveras med pommes frites, crème fraiche och hackad gul lök"
+     }
+    ],
+    "fri": [
+     {
+      "text": "Grillad karréskiva serveras med chilikryddad bearnaisesås och pommes frites",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Husets fisk & skaldjursgratäng serveras med buljongkokt ris",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Pasta med rökt bacon, vitlök, grädde och paprika i krämig svampsås",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Ost & jalapenfylld quesadillas serveras med salsa, nachos och crème fraiche"
+     },
+     {
+      "text": "Grillad Cevapcici serveras med pommes frites, crème fraiche och hackad gul lök"
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "glenn-sportsbar-ullevi",
+   "name": "Glenn Sportsbar Ullevi",
+   "address": "Skånegatan 1, 411 40 Göteborg",
+   "url": "https://www.glennsportsbar.se/",
+   "menu_url": "https://www.glennsportsbar.se/ullevi/",
+   "walk_minutes": 18,
+   "price": "145 kr",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Köttbullar med potatispuré, gräddsky, pressgurka och rårörda lingon",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Panerad kummel med dillslungad potatis, ärtor och tartarsås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Koreansk barbecue-gryta med jasminris, kimchi och rostade sesamfrön",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Fläskschnitzel med timjanpotatis, steksky och kaprismajonnäs",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Ångad spätta med pommes duchesse och skaldjurssås",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Koreansk barbecue-gryta med jasminris, kimchi och rostade sesamfrön",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Fetaostfylld nötfärsbiff med örtstekt potatis, steksky och tzatziki",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Krämig fiskgryta med citronrostad potatis och syrad fänkål",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Koreansk barbecue-gryta med jasminris, kimchi och rostade sesamfrön",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Örtstekt kyckling med persiljepotatis, cidergräddsky och gelé",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Dillbakad kummel med rostade rotfrukter, vitvinssås och sotad gräslöksolja",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Koreansk barbecue-gryta med jasminris, kimchi och rostade sesamfrön",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Helstekt kotlettrad med friterad potatis, rödvinssky, bakad tomat och bearnaise"
+     },
+     {
+      "text": "Laxfärsbiff med örtstomp, haricot verts och citruscréme",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Koreansk barbecue-gryta med jasminris, kimchi och rostade sesamfrön",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "matsmak",
+   "name": "MATSMAK",
+   "address": "Drakegatan 1, 412 50 Göteborg",
+   "url": "https://matsmak.se/",
+   "menu_url": "https://matsmak.se/dagens-lunch/",
+   "walk_minutes": 19,
+   "price": "139 kr (takeaway 129 kr)",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Husmanskost",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Vitlöksmarinerad kyckling, stekt svamp, lök, bacon. Rödvinssås & rostad potatis",
+      "types": [
+       "kott",
+       "kyckling"
+      ]
+     },
+     {
+      "text": "FISK: Citronbakad kummel m. fänkålssallad, kokt potatis, rotsaker & krämig örtsås L",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "VEG: Vegetariska biffar, kokt potatis, rotsaker, stekt svamp & tomatsås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Stekt strömming, potatismos, brynt smör, citron & rårörda lingon L G",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis L",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Färsbiffar smaksatta m. karamelliserad lök & bacon Rostad potatis, lingon & gräddsås L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd G L",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd G L",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås G L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Dagens fångst med vitvinssås, bakad blomkål & dillpotatis L",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis G",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Ugnsbakad fläskytterfilé med bearnaisesås, örtfrästa grönsaker & stekt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Gratinerad lax med bearnaisesås, örtfrästa grönsaker & stekt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Grillad Halloumi med bearnaisesås, örtfrästa grönsaker & stekt potatis",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "ceno",
+   "name": "Ceno",
+   "address": "Lyckholms Torg 1, 412 63 Göteborg",
+   "url": "https://www.ceno.se",
+   "menu_url": "https://www.ceno.se/lunch",
+   "walk_minutes": 20,
+   "price": "149 kr (buffé)",
+   "lunch_hours": "11.00–14.30",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Kalops med rostade morötter samt rotselleri – potatisstomp (sulfit, selleri)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Bakad laxfilé på blomkålspuré – mussel ”beurre blanc” | saffransdoftande fänkålscrudité | rädisor | dillkokt potatis (fisk, sulfit, mjölkprotein)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Ädelostbakad spetskål – rostad potatis | krispig lök | pumpakärnor (mjölkprotein)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Cenos köttbullar med gräddsås – potatispuré | pressgurka | lingon (mjölkprotein, sulfit, ägg)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Dagens fisk med gräslökssås – rostad broccoli | picklad kålrabbi | örtkokt potatis | körvel (fisk, sulfit, mjölkprotein)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Ädelostbakad spetskål med rostad potatis – krispig lök | pumpakärnor (mjölkprotein)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Grillad kyckling med dragonveloute – sockerärtor | prästostgratinerad hasselbackspotatis (sesam, ägg, mjölkprotein, gluten)",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Havets Wallenbergare – skirat smör | sockerärtor | örtrostad potatis (mjölkprotein, sulfit, ägg, gluten)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "Vegetarisk lasagne med chilicreme – (gluten, soja, mjölkprotein)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Fläskkebab med pommes frites – tzatziki | pitabröd och grekisk ”salsa” (sulfit, mjölkprotein, gluten)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Dagens fisk med citronsmör – bakade zucchini & tomater | ljummen rödbetssallad | frö | friterad mynta (fisk, sulfit, senap, ägg)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vegetarisk lasagne med chilicreme – (gluten, soja, mjölkprotein)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Helstekt flankstek – potatisgratäng | grönpepparsås | haricots verts (mjölkprotein, sulfit)"
+     },
+     {
+      "text": "Dagens fisk med äggsås & persilja – gröna ärtor | rivna morötter | kokt potatis (fisk, ägg, sulfit)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Oumph-gryta med rotselleri och champinjoner – ångat ris (soja, sulfit, selleri)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "handelsratten",
+   "name": "Restaurang Handelsrätten",
+   "address": "Vasagatan 1",
+   "url": "https://www.hors.se/goteborg/17/2/restaurang-handelsratten/",
+   "menu_url": "https://www.hors.se/goteborg/17/2/restaurang-handelsratten/",
+   "walk_minutes": 20,
+   "price": "",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Falafelbiff serveras med stekta nudlar sojamayo & julienne",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Kåldolmar serveras med gräddsås lingon, picklad gurka & potatismos",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Lemongrass tofu med kokosgrädde koriander och basmatiris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Slottsstek på fläskkarré serveras med äppelkompott & grönkål skysås & mos",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kyckling Kiev serveras med kapris crème klyftpotatis & syrad crudité",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Ragu på kravmärkta svenska korall linser rödvin, champinjoner, syltlök och potatismos",
+      "types": [
+       "gryta"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Aloo gobi blomkål, potatis, kikärtor i en krämig indisk currysås serveras med basmatiris & mynta yoghurt",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Friterad gochujang kyckling med kimchi serveras med basmatiris & sesam-majonnäs",
+      "types": [
+       "kyckling"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Asiatisk fiskfärsbiff serveras med stekta äggnudlar wasabimajonnäs & koriander",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Pasta serveras med ruccolapesto rostade grönsaker, rostade frön och grana padano",
+      "types": [
+       "pasta"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "gabys",
+   "name": "Gaby's",
+   "address": "Drakegatan 10, 412 50 Göteborg",
+   "url": "https://jacyzhotel.com/restauranger-goteborg/gabys/",
+   "menu_url": "https://jacyzhotel.com/restauranger-goteborg/gabys/",
+   "walk_minutes": 21,
+   "price": "145 kr (poke bowl 165 kr)",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Modern svenskt",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Bakad kummel, potatispuré, musselsås, fänkål, rädisa, dill",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Chorizopasta, tomatsås, parmesan, ruccola, picklad rödlök",
+      "types": [
+       "kott",
+       "pasta"
+      ]
+     },
+     {
+      "text": "Tofubowl, ris, syrad rödkål, sojabönor, böngroddar, chilimajonnäs, sesam, koriander",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Caesarsallad, kyckling, krispigt bacon, rödlök, parmesan, krutonger",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Blåmögelostsallad, päron, grönkål, tranbär, valnötter, balsamicodressing",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Poke Bowl (165 kr): Glasnudlar, krissallad, lax, sojabönor, mango, gurka, avokado, chilimajonnäs, rostad lök",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Bakad rödtunga, potatispuré, brynt sojasmör, blomkål, gurka, räkor, dill",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Friterad kyckling Tonkatsu, jasminris, krämig kålsallad, salladslök, koriander",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Pasta pesto, mozzarella, cocktailtomater, ruccola",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Caesarsallad, kyckling, krispigt bacon, rödlök, parmesan, krutonger",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Blåmögelostsallad, päron, grönkål, tranbär, valnötter, balsamicodressing",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Poke Bowl (165 kr): Glasnudlar, krissallad, lax, sojabönor, mango, gurka, avokado, chilimajonnäs, rostad lök",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Bakad lax, kokt potatis, gräslöksmajonnäs, sockerärtor, spenat, citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Gaby's raggmunk, stekt fläsk, rårörda lingon, persilja",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Vegetarisk Bourguignon, belugalinser, potatispuré, syltlök, friterad ostronskivling, persilja",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Caesarsallad, kyckling, krispigt bacon, rödlök, parmesan, krutonger",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Blåmögelostsallad, päron, grönkål, tranbär, valnötter, balsamicodressing",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Poke Bowl (165 kr): Glasnudlar, krissallad, lax, sojabönor, mango, gurka, avokado, chilimajonnäs, rostad lök",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Gaby's fisktacos, tortilla, majs- och kålsallad, srirachamajonnäs, koriander",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Högrevsburgare, potato buns, tryffelmajonnäs, picklad rödlök, sallad, pommes",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Pannumiburgare, potato bun, svartvitlöksmajonnäs, tomat, sallad, saltgurka, pommes",
+      "types": [
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Caesarsallad, kyckling, krispigt bacon, rödlök, parmesan, krutonger",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Green Kitchen: Blåmögelostsallad, päron, grönkål, tranbär, valnötter, balsamicodressing",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Poke Bowl (165 kr): Glasnudlar, krissallad, lax, sojabönor, mango, gurka, avokado, chilimajonnäs, rostad lök",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "nudlar"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  },
+  {
+   "id": "village-citygate",
+   "name": "Village Citygate",
+   "address": "Fabrikstorget 1, 412 50 Göteborg",
+   "url": "https://www.compass-group.se/restauranger-och-menyer/ovriga-restauranger/village/",
+   "menu_url": "https://www.compass-group.se/restauranger-och-menyer/ovriga-restauranger/village/",
+   "walk_minutes": 22,
+   "price": "32 kr/hg (viktpris, buffé)",
+   "lunch_hours": "11.00–13.30",
+   "cuisine": "Varierat",
+   "static_menu": false,
+   "days": {
+    "mon": [
+     {
+      "text": "Indisk Tikka Masala med blomkål, kikärtor, ingefära, tomat och basmatiris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Sticky Korean Chicken med gochujang, gurksallad, spetskål, sesam, ingefära och ris",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Grillad pluma med medelhavssallad, basilikakräm och rostad potatis",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Okonomiyaki ”Japansk kålpannkaka” med sesamströssel, chilimajo och salladslök",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Kycklinglårfilé med Ancho-BBQ-sås, krämig äppelkålsallad och klyftpotatis",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Laxfilé ”lättbakad” med fetaost, dill, citron, gratinerad potatis och lagrad ost",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kikärtsfritters med sesamdipp, syrlig gurk- och myntasallad, granatäpple och kryddigt ris",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Chiliräkor ”Fried Rice” med ägg, broccoli, morot, sambal badjak, koriander och limekräm"
+     },
+     {
+      "text": "Fläskkarré ”Grillad” med krämig vitlökssås, zucchinisallad och rostad potatis",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Halloumi Tater tots med coleslaw, cheddardipp, isad jalapeño och romansallad",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Dan Dan-nudlar med fläskfärs, sichuanpeppar, ingefära, salladslök och pak choi sallad",
+      "types": [
+       "kott",
+       "sallad",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "Wall enbergare med kalvfärs, grädde, épiche riche, rårörda lingon, ärtor och potatispuré",
+      "types": [
+       "kott"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Vårrullar ”mini” med thaichilidipp, koriander, citron, jordnötter och jasminris"
+     },
+     {
+      "text": "Kyckling ”Thai curry” med röd curry, kokos, limeblad, paprika, broccolisallad och jasminris",
+      "types": [
+       "kyckling",
+       "gryta",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Höstig schnitzel med svampsås, tomatsallad, rosmarin och klyftpotatis",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     }
+    ]
+   },
+   "error": null,
+   "stale_week": null
+  }
+ ]
+}
