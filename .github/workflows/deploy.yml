@@ -25,6 +25,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      artifact: ${{ steps.upload.outcome }}
     steps:
       - uses: actions/checkout@v4
 
@@ -61,8 +63,14 @@ jobs:
           git commit -m "Menus for week $(date -u +%V)"
           git push
 
+      # enablement turns Pages on via the API if it is off, so the repo needs no
+      # manual Settings step. Harmless when Pages is already enabled.
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+        with:
+          enablement: true
+
+      - id: upload
+        uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
@@ -75,9 +83,11 @@ jobs:
 
   deploy:
     # Runs even when the build job failed, so a bad scrape never takes the site
-    # offline — it just leaves the last good menus published.
-    if: always()
+    # offline — it just leaves the last good menus published. Requires the
+    # artifact to actually exist, so a failure BEFORE the upload (Pages not
+    # configured, say) does not add a second, confusing deploy failure.
     needs: build
+    if: always() && needs.build.outputs.artifact == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
