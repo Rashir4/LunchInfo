@@ -1,4 +1,4 @@
-# Avenylunch 🍲
+# LunchTime 🍲
 
 A lunch-menu aggregator for the area around **Avenyn and Götaplatsen, Gothenburg**
 — anchored on Lennart Torstenssonsgatan and reaching Lorensberg, Vasastan,
@@ -186,9 +186,9 @@ doing if the address itself bothers you.
   the site answers at `https://rashir4.github.io`. GitHub gives each account
   one such "user site", so this spends it on this project.
 - **A free subdomain.** Services like [is-a.dev](https://is-a.dev) hand out
-  e.g. `avenylunch.is-a.dev` via a pull request to their repo. Free, but
+  e.g. `lunchtime.is-a.dev` via a pull request to their repo. Free, but
   someone else reviews it and you depend on them keeping the service running.
-- **Buy `avenylunch.nu`** (~100–200 SEK/year through Loopia or Websupport;
+- **Buy `lunchtime.nu`** (or any free name) (~100–200 SEK/year through Loopia or Websupport;
   `.nu` and `.se` are both run by Internetstiftelsen). Only then add the
   DNS records below — `A` for `@` to `185.199.108.153`, `.109.153`, `.110.153`
   and `.111.153`, plus a `CNAME` for `www` to `rashir4.github.io.` — wait for

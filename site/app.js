@@ -1,4 +1,4 @@
-/* Avenylunch frontend. No dependencies.
+/* LunchTime frontend. No dependencies.
    All scraped text is inserted via textContent — never innerHTML — since
    menu data comes from third-party sites. */
 (() => {
