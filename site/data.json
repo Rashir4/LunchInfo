@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 38,
- "generated_at": "2026-09-17T09:44:52+00:00",
+ "generated_at": "2026-09-18T09:18:41+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4464,7 +4464,7 @@
       ]
      },
      {
-      "text": "Greens: Rödbetsbiffar med pepparrotskräm, potatis och picklad rödlök",
+      "text": "Greens: Veganbiffar med pepparrotskräm, potatis och picklad rödlök",
       "tag": "veg",
       "types": [
        "veg"
@@ -5217,8 +5217,150 @@
    "lunch_hours": "",
    "cuisine": "Indiskt",
    "static_menu": true,
-   "days": {},
-   "error": "FetchError: HTTP 403 for https://www.lahorimasala.se/lunch-meny",
+   "days": {
+    "mon": [
+     {
+      "text": "Chicken Tikka Masala – Grillad kycklingfile tillagad med kryddor i en mild krämig kokosmjolk sås.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Beef Vindaloo – Biff bitar tillsammans med kryddig vindaloo sås.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk).",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "Chicken Kadhai (Laktosfri) – Kycklingfilé tillagad med kryddor paprika,lök, grön chili och koriander.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Achaar Gosht – Lammgryta med pickels mynta och kokosmjölk.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben marinerad i yogurt,kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Butter Chicken – Klassisk butter chicken. Grillade bitar av kycklingfilé tillagat i en gräddig tomatsås med smör, ghee, grädde och milda kryddor.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Beef Chilli Masala – Biff bitar tillagade i en mustig och kryddig sås gjord på vitlök, chili och paprika.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Chicken Kohlapuri – Kycklingfilé tillagad med Kolhapuri masala samt kokosmjölk, citronsaft och röd chili.",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Lamm Khatta Meetha – Lammbitar tillagad med lime,apelsin i en kryddig sås.",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben, marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Chicken Palak – Kycklingfilé med spenat, bockhornsklöver, färsk ingefära, vitlök och grön chili.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Beef Madras – Beefgryta tillagad med Madras speciell masala och kokosmjölk.",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
@@ -5716,7 +5858,7 @@
       "text": "Helstekt kotlettrad med friterad potatis, rödvinssky, bakad tomat och bearnaise"
      },
      {
-      "text": "Laxfärsbiff med örtstomp, haricot verts och citruscréme",
+      "text": "Pankopanerad laxfärsbiff med örtstomp, haricot verts och citruscréme",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -6010,14 +6152,6 @@
       ]
      },
      {
-      "text": "Oumph-gryta med rotselleri och champinjoner – ångat ris (soja, sulfit, selleri)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "gryta"
-      ]
-     },
-     {
       "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
       "types": [
        "kott",
@@ -6282,7 +6416,7 @@
       ]
      },
      {
-      "text": "Högrevsburgare, potato buns, tryffelmajonnäs, picklad rödlök, sallad, pommes",
+      "text": "Högrevsburgare, potato buns, ost, tryffelmajonnäs, picklad rödlök, sallad, pommes",
       "types": [
        "kott",
        "sallad",
