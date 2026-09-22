@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 39,
- "generated_at": "2026-09-21T10:18:59+00:00",
+ "generated_at": "2026-09-22T09:34:07+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -368,7 +368,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Färskostbakad fångst serveras med kokt potatis, gröna ärtor & hummerbrynt smör.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med rostad potatis, blomkål- och tryffelkräm, brynt smör & picklad morot.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -384,7 +384,7 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad potatis, honungsglaserad brysselkål & citronsås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med smörslungad potatis, skaldjurssås, blåmusslor & rostade betor.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -400,11 +400,10 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta serveras med med smörslungad potatis & handskalade räkor.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med pommes Anna, äpple- och fänkålscrudité & kall örtsås.",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "gryta"
+       "fisk"
       ]
      },
      {
@@ -417,7 +416,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Citronbakad fångst serveras potatisstomp, kokta gulbetor & kall dillsås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med dillslungad potatis, smörig musselveloté, picklade kantareller & forellrom.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -1939,18 +1938,17 @@
    "days": {
     "tue": [
      {
-      "text": "Citronbakad laxfilé med sauterade grönsaks-julienne och hollandaise",
+      "text": "Gratinerad koljafilé med vitvin, citron, räkor och färsk spenat",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "text": "Råraka på potatis och rotfrukter samt fetaost och tzatziki",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
@@ -1970,14 +1968,16 @@
     ],
     "wed": [
      {
-      "text": "Krämig viltskav med skogssvamp, rotfrukter och svart vinbärsgelé"
+      "text": "Skånsk kalops med Traktörs inlagda rödbetor och kokt potatis",
+      "types": [
+       "kott"
+      ]
      },
      {
-      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "text": "Råraka på potatis och rotfrukter samt fetaost och tzatziki",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
@@ -1997,7 +1997,7 @@
     ],
     "thu": [
      {
-      "text": "Krämig fisksoppa med grönsaksmosaik, dagens fångst och en gremoulata samt dessertpaj med vaniljsås",
+      "text": "Krämig fisksoppa med dagens fångst och örtbakade rotfrukter samt dessertpaj med vaniljsås",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -2005,11 +2005,10 @@
       ]
      },
      {
-      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "text": "Råraka på potatis och rotfrukter samt fetaost och tzatziki",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
@@ -2029,14 +2028,16 @@
     ],
     "fri": [
      {
-      "text": "Örtstekt kotlettrad av rapsgris med rödvinssås, smörstekt potatis samt en dijonkräm"
+      "text": "Högrevsfärsbiff med klyftpotatis och kallvispad bearnaissås",
+      "types": [
+       "kott"
+      ]
      },
      {
-      "text": "Skogssvamps-risotto med zucchini och gruyèreost",
+      "text": "Råraka på potatis och rotfrukter samt fetaost och tzatziki",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
@@ -2056,7 +2057,7 @@
     ]
    },
    "error": null,
-   "stale_week": 38
+   "stale_week": null
   },
   {
    "id": "restaurang-c",
@@ -4384,7 +4385,7 @@
       ]
      },
      {
-      "text": "Fisk taco – Mangosalsa/ Rödkålssallad/ Creme fraiche/ Tortilla bröd/ Pommes",
+      "text": "Fisk taco – Mangosalsa/ Rödkålssallad/ Creme fraiche/ Jalapeno/ Tortilla bröd/ Pommes",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -4392,14 +4393,14 @@
       ]
      },
      {
-      "text": "Fish taco – Mango salsa / Red cabbage slaw / Crème fraîche / Tortilla / Fries",
+      "text": "Fish taco – Mango salsa / Red cabbage slaw / Crème fraîche / Jalapeno/Tortilla / Fries",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Veg taco – Panera halloumi Mangosalsa/ Rödkålssallad/ Creme fraiche/ Tortilla bröd/ Pommes",
+      "text": "Veg taco – Panerad halloumi/ Mangosalsa/ Rödkålssallad/ Creme fraiche/ Jalapeno/Tortilla bröd/ Dirty Pommes",
       "tag": "veg",
       "types": [
        "veg",
