@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 39,
- "generated_at": "2026-09-22T09:34:07+00:00",
+ "generated_at": "2026-09-23T09:41:22+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4085,32 +4085,10 @@
       ]
      },
      {
-      "text": "Street food: Pulled pork burger, syrad kål- lök, chilimajonnäs & rostad potatis",
-      "types": [
-       "kott",
-       "burgare"
-      ]
-     },
-     {
-      "text": "Nordic: Krämig fisk och skaldjurspasta, serveras med fänkål och dill",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "pasta"
-      ]
-     },
-     {
       "text": "Nordic: Vitvins pocherad fisk, dillkräm, potatis, citron",
       "tag": "fisk",
       "types": [
        "fisk"
-      ]
-     },
-     {
-      "text": "Greens: Falafel. pickled rödlök, hummus, kebabsås, ris & fefferoni",
-      "tag": "veg",
-      "types": [
-       "veg"
       ]
      },
      {
@@ -4123,7 +4101,7 @@
     ],
     "wed": [
      {
-      "text": "Street food: Chili lime lkolja – bakad kolja med ris, korianderslaw och chilimajonnäs",
+      "text": "Street food: Chili lime sej – bakad sej med ris, korianderslaw och chilimajonnäs",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4379,7 +4357,7 @@
     ],
     "fri": [
      {
-      "text": "Helstekt fläsk karre – Haricots vert/ Bearnaisesås/ Rosmarinsky/ Pommes chateau",
+      "text": "Helstekt fläsk karre – Haricots vert/ Kantarellsås/ Gele/Persilja/Pommes chateau",
       "types": [
        "kott"
       ]
@@ -4667,226 +4645,8 @@
    "lunch_hours": "Mån–fre 11.00–14.00",
    "cuisine": "Indiskt",
    "static_menu": true,
-   "days": {
-    "mon": [
-     {
-      "text": "Chicken Vindaloo (STARK) – Marinerad grillad kycklingfilé med chili,Lök,tomat",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Tikka (MILD) – Marinerad grillad kycklingfilé i en krämig sås gjord på färska tomater, lök, vitlök, ingefära.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Lammgryta, (Stark/Mild) – Tillagad med egen kryddblandning, smak från Sri Lanka.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KYCKLING CURRY (STARK) – Kyckling med curry, ingefära, vitlök, kummin, koriander, gurkmeja, kokosmjölk och grädde.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "KYCKLING PEPPER (MILD) – Kycklingfilé med svartpeppar, grädde, kokosmjölk, champinjoner, paprika och vetemjöl.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "OXGRYTA – Oxgryta tillagad med chili, curry, tomat och egen kryddmix.",
-      "types": [
-       "gryta"
-      ]
-     },
-     {
-      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KYCKLING MASALA – Kycklingfilé med chilli, vitlök, färsk ingefära, tomat, kokosmjöl och många andra kryddor.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "KYCKLING KHORMA – Kycklingfilé med gräddsås, curry, grön chili, maizena, yoghurt och paprika.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Köttfärssås – Köttfärsås på indiska kryddor",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Chicken Vindaloo (STARK) – Marinerad grillad kycklingfilé med chili,Lök,tomat",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "BUTTER KYCKLING – Kycklingfile tillagad med färska tomater, smör och malda cashewnötter, kokos, egna kryddor.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "OXGRYTA – Oxgryta tillagad med chili, curry, tomat och egen kryddmix.",
-      "types": [
-       "gryta"
-      ]
-     },
-     {
-      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "MADRAS CHILI KYCKLING – Marinerad grillad kycklingfilé i egengjord cashewnötssås (vitlök, grön chilli, färsk koriander, malda cashewnötter och yogurt).",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "KYCKLING KHORMA – Kycklingfilé med gräddsås, curry, grön chili, maizena, yoghurt och paprika.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "KYCKLINGLEVER – Kycklinglever tillagad med lök, vitlök, ingefära och curry, chili, tomat.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "VEGETARISKA RÄTTER – Utbud av olika vegetariska rätter. Fråga kocken för dagens veg.",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Köttfärssås på indiskvis (Mild) – Mincedmeat sauce cooked in indian manner",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fiskgryta – Traditionel indisk fiskgryta tillagad på sejfilé.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://gowrirestaurang.se/lunch after 3 attempts: HTTPSConnectionPool(host='gowrirestaurang.se', port=443): Max retries exceeded with url: /lunch (Caused by NewConnectionError(\"HTTPSConnection(host='gowrirestaurang.se', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
    "stale_week": null
   },
   {
@@ -4900,153 +4660,8 @@
    "lunch_hours": "",
    "cuisine": "Indiskt",
    "static_menu": true,
-   "days": {
-    "mon": [
-     {
-      "text": "Beef Kadhai (Laktosfri) – Biffgryta tillagad med kryddor,paprika,lök ,grön chili och koriander.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Korma – Mild kycklinggryta med nötter i en krämig sås.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk).",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "Lamm Hyderabadi – Hydrabdi lammgryta med kryddor ,kokosmjölk och curryblad.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Curry – Kycklingfile´ tillagad med kryddor och currysås.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Beef Butter Masala – Biffgryta tillagad med rostad paprika i en krämig sås.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Madras – Kycklingfile tillagad med Madras speciell Masala och kokosmjölk.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk).",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Lamm Kohlapuri – Lammgryta tillagad med Kolhapuri masala samt kokosmjölk ,citronsaft och röd chili.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Vindallo – Kycklingfile tillagad med vindaloo sås. Bräserad med färsk koriander.",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Beef Korma – Biff tillagad med nötter och indisk kryddor i en krämig sås.",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Chicken Palak – Kycklingfilé tillagad med indisk kryddor ochspenat.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Tandoori Chicken – Grillad kyckling med ben,marinerad i yogurt, kryddor och bockhornsklöver.",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Sabzi Thali – En smakfull blandning av vegetariska rätter. Nya rätter varje dag. (Går att få vegansk)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://www.lahorimasala.se/lunch-meny after 3 attempts: HTTPSConnectionPool(host='www.lahorimasala.se', port=443): Max retries exceeded with url: /lunch-meny (Caused by NewConnectionError(\"HTTPSConnection(host='www.lahorimasala.se', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
    "stale_week": null
   },
   {
