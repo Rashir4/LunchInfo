@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 39,
- "generated_at": "2026-09-24T09:39:29+00:00",
+ "generated_at": "2026-09-25T09:56:53+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4085,7 +4085,7 @@
       ]
      },
      {
-      "text": "Nordic: Vitvins pocherad fisk, dillkräm, potatis, citron",
+      "text": "Nordic: Vitvins pocherad fisk, vitvinsås potatis, citron",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4357,13 +4357,13 @@
     ],
     "fri": [
      {
-      "text": "Helstekt fläsk karre – Haricots vert/ Kantarellsås/ Gele/Persilja/Pommes chateau",
+      "text": "Helstekt Fläsk Karre – Haricots Vert/ Kantarellsås/ Gele/Persilja/ Pommes Chateau",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Fisk taco – Mangosalsa/ Rödkålssallad/ Creme fraiche/ Jalapeno/ Tortilla bröd/ Pommes",
+      "text": "Fisk Taco – Mangosalsa/ Rödkålssallad/ Creme Fraiche/ Tortilla Bröd/ Dirty Pommes",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -4371,14 +4371,14 @@
       ]
      },
      {
-      "text": "Fish taco – Mango salsa / Red cabbage slaw / Crème fraîche / Jalapeno/Tortilla / Fries",
+      "text": "Fish Taco",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Veg taco – Panerad halloumi/ Mangosalsa/ Rödkålssallad/ Creme fraiche/ Jalapeno/Tortilla bröd/ Dirty Pommes",
+      "text": "Veg taco – Panerad Halloumi/ Mangosalsa/ Rödkålssallad/ Creme Fraiche/ Tortilla Bröd/ Dirty Pommes",
       "tag": "veg",
       "types": [
        "veg",
@@ -4386,7 +4386,7 @@
       ]
      },
      {
-      "text": "Veggie taco"
+      "text": "Veggie Taco"
      },
      {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
@@ -5041,86 +5041,120 @@
    "days": {
     "mon": [
      {
-      "text": "Pocherad flundra med skirat smör & pepparrot",
+      "text": "Vitlöksbakad kummel med tomatsås",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Kycklingfilé med het jordnötsås & basmatiris",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Med ostmuffins, skinkröra samt pepparrot & senap"
-     }
-    ],
-    "tue": [
-     {
-      "text": "Champinjongratinerad kummel med färskpotatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Stekt fläsk med löksås & lingon",
+      "text": "Isterband med persiljestuvad potatis & rödbetor",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Zucciniplättar med västerbottenost & chili samt bönsalsa",
+      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
       "tag": "veg",
       "types": [
        "veg"
       ]
      },
      {
-      "text": "Med ostmuffins, skinkröra samt pepparrot & senap"
+      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
-    "wed": [
+    "tue": [
      {
-      "text": "Gremolatabakad spättafilé med vitvinssås",
+      "text": "Panerad spätta med skarpsås & färskpotatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Mustig höstgryta med skogschampinjoner",
-      "types": [
-       "gryta"
-      ]
+      "text": "Chili con carne med ris & nachos"
      },
      {
-      "text": "Zucciniplättar med västerbottenost & chili samt bönsalsa",
+      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
       "tag": "veg",
       "types": [
        "veg"
       ]
      },
      {
-      "text": "Med ostmuffins, skinkröra samt pepparrot & senap"
+      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+     }
+    ],
+    "wed": [
+     {
+      "text": "Husets mandelfisk med limesås & persiljepotatis"
+     },
+     {
+      "text": "Kycklingfilé med het mangochilisås & ris",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "thu": [
      {
-      "text": "Fisk & skaldjursgryta med saffransris",
+      "text": "Rödbets-& mozzarellabakad sej med pumpakärnor & vitvinssås",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "gryta"
+       "fisk"
       ]
      },
      {
@@ -5131,14 +5165,28 @@
       ]
      },
      {
-      "text": "Zucciniplättar med västerbottenost & chili samt bönsalsa",
+      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
       "tag": "veg",
       "types": [
        "veg"
       ]
      },
      {
-      "text": "Med ostmuffins, skinkröra samt pepparrot & senap"
+      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "fri": [
@@ -5156,14 +5204,28 @@
       ]
      },
      {
-      "text": "Zucciniplättar med västerbottenost & chili samt bönsalsa",
+      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
       "tag": "veg",
       "types": [
        "veg"
       ]
      },
      {
-      "text": "Med ostmuffins, skinkröra samt pepparrot & senap"
+      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
      }
     ]
    },
@@ -5581,7 +5643,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fd4d21cb890>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f5864490dd0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
@@ -5704,26 +5766,6 @@
       "tag": "veg",
       "types": [
        "veg"
-      ]
-     },
-     {
-      "text": "Barnmeny: Pasta med köttfärssås – gluten, sulfit",
-      "types": [
-       "kott",
-       "pasta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Flankstek med grönpepparsås – haricots verts | potatisgratäng (mjölkprotein, sulfit)"
-     },
-     {
-      "text": "Dagens fångst-frikassé med krämig dillsås – gröna ärter | kokt potatis med salladslöksolja (mjölkprotein, baljväxter)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
       ]
      },
      {
