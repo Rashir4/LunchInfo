@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 40,
- "generated_at": "2026-09-30T10:50:48+00:00",
+ "generated_at": "2026-10-01T11:16:16+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1209,131 +1209,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "mon": [
-     {
-      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "tue": [
-     {
-      "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Medmamuang med fläsk. (nr. 11 b på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Tom Yam med räkor. (nr. 16 på meny)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "wed": [
-     {
-      "text": "Massamancurry med kyckling. (nr. 7 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Baigrapao med biff. (nr. 10 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad See Ew med grönsaker vegetarisk. (nr. 3 a på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     },
-     {
-      "text": "Pat See Ew med grönsaker vegetarisk. (nr. 3a på meny)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
     "thu": [
      {
       "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
@@ -3975,6 +3850,30 @@
    "cuisine": "Varierat",
    "static_menu": false,
    "days": {
+    "thu": [
+     {
+      "text": "Street food: Panerad fisk,tzaziki, tomat & fetaostsallad",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Nordic: Fläskfilegryta, svamp, broccoli ris & ädelost",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Greens: Vegansk Moussaka, soltorkad tomat majonnäs",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
     "fri": [
      {
       "text": "Street food: \"Karaage\" friterad kyckling gochujangsås, sesam, ris",
@@ -4041,30 +3940,6 @@
       "types": [
        "veg",
        "nudlar"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Street food: Fläskfilegryta, svamp, broccoli ris & ädelost",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Nordic: Panerad fisk,tzaziki, tomat & fetaostsallad",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Greens: Sticky blomkål, sesamfrön, srirachamajo, ris",
-      "tag": "veg",
-      "types": [
-       "veg"
       ]
      }
     ],
@@ -4256,7 +4131,7 @@
     ],
     "thu": [
      {
-      "text": "Högrevsburgare – Bacon chutney/ Ost/ Dressing/ Sallad/ Brioche/ Tacokryddat Klyftpotatis",
+      "text": "Högrevsburgare – Bacon Lök chutney/ Ost/ Dressing/ Sallad/ Brioche/ Tacokryddat Klyftpotatis",
       "types": [
        "kott",
        "sallad",
@@ -4272,7 +4147,7 @@
       ]
      },
      {
-      "text": "Hemmagjorda gulärtsburgare – Pumpa chutney/ Dressing/ Sallad/ Brioche/ Tacokryddat Klyftpotatis",
+      "text": "Hemmagjorda gulärtsburgare – Pumpa Lök chutney/ Dressing/ Sallad/ Brioche/ Tacokryddat Klyftpotatis",
       "types": [
        "sallad",
        "burgare"
@@ -4308,23 +4183,23 @@
     ],
     "fri": [
      {
-      "text": "Tandori kyckling – Makhnisås/ Raita/ Pakora/ Stekt ris",
+      "text": "Tandori Kyckling – Makhnisås/ Raita/ Pakora/ Stekt Ris",
       "types": [
        "kyckling"
       ]
      },
      {
-      "text": "Stekt fisk – Skagenröra/ Rotgrönsaker/ Citron/ Dill/ Kokt potatis",
+      "text": "Stekt Laxfile – Skagenröra/ Rotgrönsaker/ Citron/ Dill/ Kokt Potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Palak paneer – Ost/ Spenat/ Lök/ Blomkål/ Raita/ Pakora/ Stekt ris"
+      "text": "Palak Paneer – Ost/ Spenat/ Lök/ Blomkål/ Raita/ Pakora/ Stekt Ris"
      },
      {
-      "text": "Palak paneer"
+      "text": "Palak Paneer"
      },
      {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
@@ -4991,14 +4866,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "text": "Sojagryta med kikärtor & pumpa",
       "tag": "veg",
       "types": [
        "veg",
@@ -5006,13 +4874,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+      "text": "Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "tue": [
@@ -5027,14 +4889,7 @@
       "text": "Chili con carne med ris & nachos"
      },
      {
-      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "text": "Sojagryta med kikärtor & pumpa",
       "tag": "veg",
       "types": [
        "veg",
@@ -5042,13 +4897,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+      "text": "Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "wed": [
@@ -5062,14 +4911,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "text": "Sojagryta med kikärtor & pumpa",
       "tag": "veg",
       "types": [
        "veg",
@@ -5077,13 +4919,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+      "text": "Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "thu": [
@@ -5102,14 +4938,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "text": "Sojagryta med kikärtor & pumpa",
       "tag": "veg",
       "types": [
        "veg",
@@ -5117,38 +4946,23 @@
       ]
      },
      {
-      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+      "text": "Tacoräkor med friterat tunnbröd & guacamole"
      }
     ],
     "fri": [
      {
-      "text": "Tapenadbakad sejfilé med rostad paprikasås",
+      "text": "Pylonens fisksoppa med aioli & vitlöksbröd",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "soppa"
       ]
      },
      {
-      "text": "Marinerad karréskiva med choronsås",
-      "types": [
-       "kott"
-      ]
+      "text": "Tacobuffé med goa grejer"
      },
      {
-      "text": "Vecka 39 – Zucciniplättar med västerbottenost & chili samt bönsalsa",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Sojagryta med kikärtor & pumpa",
+      "text": "Sojagryta med kikärtor & pumpa",
       "tag": "veg",
       "types": [
        "veg",
@@ -5156,13 +4970,7 @@
       ]
      },
      {
-      "text": "Vecka 39 – Sallad med ostmuffins, skinkröra samt pepparrot & senap",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Vecka 40 – Tacoräkor med friterat tunnbröd & guacamole"
+      "text": "Tacoräkor med friterat tunnbröd & guacamole"
      }
     ]
    },
@@ -5570,8 +5378,122 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f4ed0776660>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Köttfärsjärpar med gurkraita, kryddiga grönsaker & ris L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Panerad stekt kummel med rostad potatis, äppelchutney & bräserad kål G",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetariska biffar med gurkraita, kryddiga grönsaker & ris L",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Stekt strömming med potatismos, lingon, skirat smör, dill & citron L G",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis L",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Dragonmarinerad kycklinglårfilé, gräddsås, rostad potatis & smörslungade morötter L",
+      "types": [
+       "kott",
+       "kyckling"
+      ]
+     },
+     {
+      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd G L",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd G L",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås G L",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Citronbakad fångst, kokt potatis, örter, selleri, mustig tomatsås & kokta rotsaker",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis G",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Ugnsbakad fläsksida, bearnaisesås, ingefärssky, rostade rotsaker & stekt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Chiligratinerad lax med hollandaisesås, rostade rotsaker & stekt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Grillad Halloumi med bearnaisesås, ingefärssky, rostade rotsaker & stekt potatis L",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
