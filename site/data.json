@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 40,
- "generated_at": "2026-10-01T11:16:16+00:00",
+ "generated_at": "2026-10-02T10:49:45+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -395,7 +395,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med chilirostad brysselkål, smörslungad potatis & vitvinssås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med chilirostad brysselkål, smörslungad potatis & kall citronsås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -1209,47 +1209,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "thu": [
-     {
-      "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Kratiem Prikthai med biff (nr. 12 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Panerade & friterade kycklingbitar. (nr. 23 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker, vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar (nr. 20 på meny)"
-     }
-    ],
     "fri": [
      {
       "text": "Rödcurrygryta med kyckling. (nr. 4 på meny)",
@@ -3889,7 +3848,7 @@
       ]
      },
      {
-      "text": "Greens: Falafel. pickled rödlök, hummus, kebabsås, ris & fefferoni",
+      "text": "Greens: Tofu taco, majssalsa & ris",
       "tag": "veg",
       "types": [
        "veg"
@@ -5378,122 +5337,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Köttfärsjärpar med gurkraita, kryddiga grönsaker & ris L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Panerad stekt kummel med rostad potatis, äppelchutney & bräserad kål G",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetariska biffar med gurkraita, kryddiga grönsaker & ris L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Stekt strömming med potatismos, lingon, skirat smör, dill & citron L G",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Dragonmarinerad kycklinglårfilé, gräddsås, rostad potatis & smörslungade morötter L",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd G L",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd G L",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Citronbakad fångst, kokt potatis, örter, selleri, mustig tomatsås & kokta rotsaker",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis G",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Ugnsbakad fläsksida, bearnaisesås, ingefärssky, rostade rotsaker & stekt potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Chiligratinerad lax med hollandaisesås, rostade rotsaker & stekt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Grillad Halloumi med bearnaisesås, ingefärssky, rostade rotsaker & stekt potatis L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f61b04234d0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
