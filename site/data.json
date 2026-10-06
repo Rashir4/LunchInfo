@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 41,
- "generated_at": "2026-10-05T11:58:05+00:00",
+ "generated_at": "2026-10-06T11:36:50+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -351,7 +351,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med dillslungad potatis, handskalade räkor, pepparrot & brynt smör.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med dillslungad potatis, confiterad purjolök, syrad spetskål samt en smörig vitvinssås med citron & timjan.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -367,7 +367,7 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Mandelbakand fånst serveras med potatismos, smörslungade morötter & blåmusselsås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med ugnsrostade betor, potatisstomp, skaldjurssås, örtor & picklad rödlök.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -383,11 +383,10 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta serveras med kokt potatis & örter.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad blomkålspuré, smörbakad morot, vitvinssås på blåmusselfond & dillpicklad fänkål.",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "gryta"
+       "fisk"
       ]
      },
      {
@@ -400,7 +399,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med chilirostad brysselkål, smörslungad potatis & kall citronsås.",
+      "text": "Dagens fångst 165 kr – Fiskgratäng med kolja, handskalade räkor, hummerssås, duchessetoppar & färska örter.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -1178,47 +1177,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "mon": [
-     {
-      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
     "tue": [
      {
       "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
@@ -1888,7 +1846,7 @@
       ]
      },
      {
-      "text": "KRÄMIG VILTGRYTA – Viltskav, cognacskokt vilgräddsås, äpple, champinjoner, morötter, färsk timjan samt örtgrönt potatispuré",
+      "text": "KRÄMIG VILTGRYTA – Med cognacskokt viltgräddsås, äpple, champinjoner, morötter, färsk timjan samt örtgrönt potatispuré",
       "types": [
        "gryta"
       ]
@@ -4073,24 +4031,23 @@
     ],
     "tue": [
      {
-      "text": "Street food: Skaldjurspaella, stekt lax, & aioli",
+      "text": "Street food: Skaldjurspaella, oliv bakad lax, & aioli",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Nordic: \"Biff a'la Lindström\", råstekt potatis, skysås, saltgurka",
+      "text": "Nordic: \"Biff a'la Lindström\", (fläsk) råstekt potatis, skysås, saltgurka",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Greens: Stekt temphe, salsa verde, pasta & tomat",
+      "text": "Greens: Potatis &- auberginegratäng, vegansk biff & srirachamajonnäs",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      }
     ],
@@ -4227,7 +4184,7 @@
     ],
     "tue": [
      {
-      "text": "Ost och Skinkfylld Fläskschnitzel – Gröna Ärtor/ Skysås/ Citron/ Persilja Stekt Potatis",
+      "text": "Ost och Skinkfylld Fläskschnitzel – Gröna Ärtor/ Skysås/ Citron/ Persilja / Stekt Potatis",
       "types": [
        "kott"
       ]
@@ -5627,8 +5584,124 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f94c51c0290>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Kålpudding med kokt potatis, rårörda lingon & gräddsås (L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Panerad stekt kummel, potatispuré, skagenröra, citron & dill (G)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Kålpudding med kokt potatis, rårörda lingon & gräddsås (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (G, L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Fiskrullader med skaldjurssås, vinägerrostad potatis & bakade grönsaker (L)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Kycklinglårfilé smaksatt med röd curry, thaisås, basmatiris & wokade grönsaker (L)",
+      "types": [
+       "kott",
+       "kyckling",
+       "gryta",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (G, L)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd (G, L)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås (G, L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Kokt kummel med äggsås, potatis & persilja",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis (G)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Helstekt fläskfilé med chilibernaisesås, vitlöksrostade rotsaker & stekt potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Örtgratinerad lax med hollandaisesås, vitlöksrostade rotsaker & stekt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Grillad Halloumi med chilibearnaisesås, vitlöksrostade rotsaker & stekt potatis (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
