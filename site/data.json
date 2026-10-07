@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 41,
- "generated_at": "2026-10-06T11:36:50+00:00",
+ "generated_at": "2026-10-07T11:26:27+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4009,7 +4009,7 @@
    "days": {
     "wed": [
      {
-      "text": "Street food: Ångkokt fisk, citronpotatis gulbetor & dillkräm",
+      "text": "Street food: Ångkokt fisk, potatispuré, gulbetor & dillkräm",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4158,9 +4158,6 @@
       "text": "Krispiga majsbiffar – Kantarellsås/ Lingon/ Persilja Potatis"
      },
      {
-      "text": "115/125"
-     },
-     {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
       "types": [
        "kott",
@@ -4205,7 +4202,7 @@
       ]
      },
      {
-      "text": "115/125 – Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
       "types": [
        "kott",
        "kyckling",
@@ -4249,7 +4246,7 @@
       ]
      },
      {
-      "text": "Chana Masala – Kikärtscurry/ Potatis Pakora/ Mynta Raita/ Dosa Bröd/ Ris",
+      "text": "Röd Chana Masala – Kikärtscurry/ Potatis Pakora/ Mynta Raita/ Dosa Bröd/ Ris",
       "tag": "veg",
       "types": [
        "veg",
@@ -4257,13 +4254,13 @@
       ]
      },
      {
-      "text": "Chana Masala",
+      "text": "Red Chana Masala",
       "types": [
        "gryta"
       ]
      },
      {
-      "text": "115/125 – Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
       "types": [
        "kott",
        "kyckling",
@@ -4315,7 +4312,7 @@
       ]
      },
      {
-      "text": "115/125 – Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
       "types": [
        "kott",
        "kyckling",
@@ -4363,7 +4360,7 @@
       "text": "Grilled Vegetables"
      },
      {
-      "text": "115/125 – Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
       "types": [
        "kott",
        "kyckling",
