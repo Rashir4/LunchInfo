@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 41,
- "generated_at": "2026-10-07T11:26:27+00:00",
+ "generated_at": "2026-10-08T11:43:10+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4053,17 +4053,17 @@
     ],
     "thu": [
      {
-      "text": "Street food: Bovetepanerad stekt fisk, grönsaksbulgur, curry- & limeyoghurt",
-      "tag": "fisk",
+      "text": "Street food: Kyckling (fläsk) mongolisk BBQ, basmatiris, böngroddar, koriander & sesamdressing",
       "types": [
-       "fisk",
-       "gryta"
+       "kott",
+       "kyckling"
       ]
      },
      {
-      "text": "Nordic: BBQ glacerade revben, rostad potatis & coleslaw",
+      "text": "Nordic: Bovetepanerad stekt fisk, grönsaksbulgur, & limeyoghurt",
+      "tag": "fisk",
       "types": [
-       "kott"
+       "fisk"
       ]
      },
      {
@@ -5581,124 +5581,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Kålpudding med kokt potatis, rårörda lingon & gräddsås (L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Panerad stekt kummel, potatispuré, skagenröra, citron & dill (G)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Kålpudding med kokt potatis, rårörda lingon & gräddsås (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (G, L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Fiskrullader med skaldjurssås, vinägerrostad potatis & bakade grönsaker (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Kycklinglårfilé smaksatt med röd curry, thaisås, basmatiris & wokade grönsaker (L)",
-      "types": [
-       "kott",
-       "kyckling",
-       "gryta",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (G, L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtsskockssoppa, toppad med rotsaker, örter, aioli & vitlöksbröd (G, L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, citron, kryddsmör & rödvinssås (G, L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Kokt kummel med äggsås, potatis & persilja",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk schnitzel, örtkräm, gröna ärtor, kryddsmör, citron & stekt potatis (G)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Helstekt fläskfilé med chilibernaisesås, vitlöksrostade rotsaker & stekt potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Örtgratinerad lax med hollandaisesås, vitlöksrostade rotsaker & stekt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Grillad Halloumi med chilibearnaisesås, vitlöksrostade rotsaker & stekt potatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fcd93f8d970>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
