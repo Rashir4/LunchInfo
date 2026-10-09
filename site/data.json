@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 41,
- "generated_at": "2026-10-08T11:43:10+00:00",
+ "generated_at": "2026-10-09T11:36:24+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1068,101 +1068,8 @@
    "lunch_hours": "11.00–14.30",
    "cuisine": "Asiatiskt",
    "static_menu": true,
-   "days": {
-    "mon": [
-     {
-      "text": "Sushi kockens val 11 bitar",
-      "types": [
-       "sushi"
-      ]
-     },
-     {
-      "text": "Pokébowl",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens varmrätt (Bibimbap)"
-     }
-    ],
-    "tue": [
-     {
-      "text": "Sushi kockens val 11 bitar",
-      "types": [
-       "sushi"
-      ]
-     },
-     {
-      "text": "Pokébowl",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens varmrätt (Curry Kyckling donburi)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Sushi kockens val 11 bitar",
-      "types": [
-       "sushi"
-      ]
-     },
-     {
-      "text": "Pokébowl",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens varmrätt (Bibimbap)"
-     }
-    ],
-    "thu": [
-     {
-      "text": "Sushi kockens val 11 bitar",
-      "types": [
-       "sushi"
-      ]
-     },
-     {
-      "text": "Pokébowl",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens varmrätt (Teriyaki kyckling donburi)",
-      "types": [
-       "kyckling"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Sushi kockens val 11 bitar",
-      "types": [
-       "sushi"
-      ]
-     },
-     {
-      "text": "Pokébowl",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens varmrätt (Yakiniku donburi)"
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://kizunaeatery.se/meny/ after 3 attempts: HTTPSConnectionPool(host='kizunaeatery.se', port=443): Read timed out. (read timeout=20)",
    "stale_week": null
   },
   {
@@ -4100,7 +4007,7 @@
     ],
     "fri": [
      {
-      "text": "Street food: Jerk chicken, mangosalsa, bönris & tortillabröd",
+      "text": "Street food: Jerk chicken, mangosalsa, ris & tortillabröd",
       "types": [
        "kyckling"
       ]
@@ -4114,7 +4021,7 @@
       ]
      },
      {
-      "text": "Greens: Rödbets- & kikärtsbiffar, rostade rotfrukter & örtkräm",
+      "text": "Greens: Rödbets- biffar, rostade rotfrukter & örtkräm",
       "tag": "veg",
       "types": [
        "veg"
@@ -5254,182 +5161,204 @@
    "days": {
     "mon": [
      {
-      "text": "Klassisk wallenbergare på kalvfärs serveras med gräddsås, lingonsylt & kokt potatis",
+      "text": "Baconlindad köttfärslimpa serveras med gräddsås, lingonsylt kokt potatis och pressgurka",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Pocherad rödspättafilé serveras med dillhollandaisesås och kokt potatis",
+      "text": "Fisk Blidberg- Bearnaise & sparrisbakad fiskfilé serveras med champinjonsås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Husets räksallad med handskalade räkor, nykokt ägg och Rhode Islanddressing",
-      "tag": "fisk",
+      "text": "Kycklingsallad med fetaost, nykokt ägg och sweetchilidressing",
       "types": [
-       "fisk",
+       "kyckling",
        "sallad"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacreme och salladsmix",
+      "text": "Vegetarisk hamburgare med grillost, crispsallad, sweetchilicreme och pommes frites",
+      "tag": "veg",
       "types": [
-       "sallad"
+       "veg",
+       "sallad",
+       "burgare"
       ]
      },
      {
-      "text": "Husets kebabtallrik serveras med het sås, sallad och pommes frites",
+      "text": "Grillad högrevsburgare Cheese & Bacon serveras med pommes frites och briochebröd",
       "types": [
-       "sallad"
+       "kott",
+       "burgare"
       ]
      }
     ],
     "tue": [
      {
-      "text": "Stekt fläsk med löksås och kokt potatis eller raggmunk & lingonsylt",
+      "text": "Stekt fläsk med löksås & kokt potatis eller raggmunk och lingonsylt",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Tomat & mozarellagratinerad kyckling lårfilé toppas md riven grana padano serveras med ris",
+      "text": "Provencalsk kyckling & grönsaksgryta serveras med ris och toppas med örtaioli",
       "types": [
-       "kyckling"
+       "kyckling",
+       "gryta"
       ]
      },
      {
-      "text": "Örtbrässerad sejfilé serveras med vitvinssås & kokt potatis",
+      "text": "Pocherad torskfilé serveras med ägg & persiljesås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Husets räksallad med handskalade räkor, nykokt ägg och Rhode Islanddressing",
-      "tag": "fisk",
+      "text": "Kycklingsallad med fetaost, nykokt ägg och sweetchilidressing",
       "types": [
-       "fisk",
+       "kyckling",
        "sallad"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacreme och salladsmix",
+      "text": "Vegetarisk hamburgare med grillost, crispsallad, sweetchilicreme och pommes frites",
+      "tag": "veg",
       "types": [
-       "sallad"
+       "veg",
+       "sallad",
+       "burgare"
       ]
      },
      {
-      "text": "Husets kebabtallrik serveras med het sås, sallad och pommes frites",
+      "text": "Grillad högrevsburgare Cheese & Bacon serveras med pommes frites och briochebröd",
       "types": [
-       "sallad"
+       "kott",
+       "burgare"
       ]
      }
     ],
     "wed": [
      {
-      "text": "Husets schnitzel serveras med grönpepparsås och stekt kulpotatis",
+      "text": "Husets schnitzel på fläskytterfilè serveras med bearnaisesås och pommes frites",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Sprödbakad kummelfilè serveras med skirat smör & gröna ärtor",
+      "text": "Sprödbakad torskfilé serveras med gräslökscremè och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Husets räksallad med handskalade räkor, nykokt ägg och Rhode Islanddressing",
-      "tag": "fisk",
+      "text": "Kycklingsallad med fetaost, nykokt ägg och sweetchilidressing",
       "types": [
-       "fisk",
+       "kyckling",
        "sallad"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacreme och salladsmix",
+      "text": "Vegetarisk hamburgare med grillost, crispsallad, sweetchilicreme och pommes frites",
+      "tag": "veg",
       "types": [
-       "sallad"
+       "veg",
+       "sallad",
+       "burgare"
       ]
      },
      {
-      "text": "Husets kebabtallrik serveras med het sås, sallad och pommes frites",
+      "text": "Grillad högrevsburgare Cheese & Bacon serveras med pommes frites och briochebröd",
       "types": [
-       "sallad"
+       "kott",
+       "burgare"
       ]
      }
     ],
     "thu": [
      {
-      "text": "Klassisk Flygande Jacob med allt som hör till och jordnötter bredvid"
+      "text": "Grillad kycklingfilé serveras med rödvinssås, örtaioli och stekt potatis",
+      "types": [
+       "kyckling"
+      ]
      },
      {
-      "text": "Stekt enkelpanerad kummelfilè serveras med citruscremè & kokt potatis",
+      "text": "Grillad choritzo serveras med ljummen potatissallad och hemmagjord salsa",
+      "types": [
+       "sallad"
+      ]
+     },
+     {
+      "text": "Örtsprödbakad sejfilé serveras med skaldjursröra och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Husets räksallad med handskalade räkor, nykokt ägg och Rhode Islanddressing",
-      "tag": "fisk",
+      "text": "Kycklingsallad med fetaost, nykokt ägg och sweetchilidressing",
       "types": [
-       "fisk",
+       "kyckling",
        "sallad"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacreme och salladsmix",
+      "text": "Vegetarisk hamburgare med grillost, crispsallad, sweetchilicreme och pommes frites",
+      "tag": "veg",
       "types": [
-       "sallad"
+       "veg",
+       "sallad",
+       "burgare"
       ]
      },
      {
-      "text": "Husets kebabtallrik serveras med het sås, sallad och pommes frites",
+      "text": "Grillad högrevsburgare Cheese & Bacon serveras med pommes frites och briochebröd",
       "types": [
-       "sallad"
+       "kott",
+       "burgare"
       ]
      }
     ],
     "fri": [
      {
-      "text": "Husets grilltallrik med karré, chorizo och kycklingvinge serveras med barbecuesås och klyftpotatis",
+      "text": "Helstekt tunnskivad fläskfilé serveras med potatisgratäng, vitlöksrosade hari cotverts och rosèpepparsky",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Stekt dubbelpanerad sejfilé serveras med dill & rödlöksdressing och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kycklingsallad med fetaost, nykokt ägg och sweetchilidressing",
+      "types": [
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Vegetarisk hamburgare med grillost, crispsallad, sweetchilicreme och pommes frites",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Grillad högrevsburgare Cheese & Bacon serveras med pommes frites och briochebröd",
       "types": [
        "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Saffran & vitlöksdoftande fiskgryta serveras med buljongkokt ris",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta",
-       "soppa"
-      ]
-     },
-     {
-      "text": "Husets räksallad med handskalade räkor, nykokt ägg och Rhode Islanddressing",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacreme och salladsmix",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Husets kebabtallrik serveras med het sås, sallad och pommes frites",
-      "types": [
-       "sallad"
+       "burgare"
       ]
      }
     ]
@@ -5582,7 +5511,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fcd93f8d970>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f9380938260>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
