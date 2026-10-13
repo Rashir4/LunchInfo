@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 42,
- "generated_at": "2026-10-12T12:37:19+00:00",
+ "generated_at": "2026-10-13T12:22:54+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -361,7 +361,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med dillslungad potatis, confiterad purjolök, syrad spetskål samt en smörig vitvinssås med citron & timjan.",
+      "text": "Dagens Fångst 165 kr – Pankobakad kolja serveras med kall örtsås, smörslungad potatis & broccoli.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -377,10 +377,11 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med ugnsrostade betor, potatisstomp, skaldjurssås, örtor & picklad rödlök.",
+      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta på gröna ärtor serveras med smörslungad potatis & handskalade räkor.",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
@@ -393,7 +394,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad blomkålspuré, smörbakad morot, vitvinssås på blåmusselfond & dillpicklad fänkål.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad potatis, brynt smör, citronrostad grönkål & granatäpple.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -409,7 +410,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Fiskgratäng med kolja, handskalade räkor, hummerssås, duchessetoppar & färska örter.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med Beurre blanc, potatisstomp med örter & rostad zucchini.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4544,7 +4545,7 @@
     ],
     "thu": [
      {
-      "text": "Japansk Karage Kycklingburgare – Miso dressing/ Sallad/ Srirachasås/ Schalottenlök/ Brioche/ Pommes",
+      "text": "Japansk Karage Kycklingburgare – Miso dressing/ Wakame Sallad/ Srirachasås/ Schalottenlök/ Sallad/ Brioche/ Pommes",
       "types": [
        "kyckling",
        "sallad",
@@ -4568,7 +4569,7 @@
       ]
      },
      {
-      "text": "Pumpa och Sötpotatisburgare – Miso dressing/ Sallad/ Srirachasås/ Schalottenlök/ Brioche/ Pommes",
+      "text": "Pumpa och Sötpotatisburgare – Miso dressing/ Wakame Sallad/ Srirachasås/ Schalottenlök/ Sallad/ Brioche/ Pommes",
       "types": [
        "sallad",
        "burgare"
@@ -5848,7 +5849,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f15705e7290>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f9b78fe1280>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
