@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 42,
- "generated_at": "2026-10-13T12:22:54+00:00",
+ "generated_at": "2026-10-14T09:52:10+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -610,7 +610,7 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst, couscous med citronkräm, mâche & bakad fänkål samt brynt soyasmör.",
+      "text": "Stekt röding med koktpotatis, gurka, dill samt brynt smör.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -632,16 +632,17 @@
     ],
     "thu": [
      {
-      "text": "Stekt rödtunga med tryffelsmaksatt blomkålspuré, champinjoner samt hummersås.",
+      "text": "Mjölkstekt rödspätta med brynt smör, handskalade räkor, dillkokt kulpotatis, citron, kapirs & örtsallad.",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "sallad"
       ]
      },
      {
-      "text": "Fetaostfyllda biffar på nötkött, serveras med rostad potatis, tzatziki samt örtmarinerade tomater ifrån Gällnes.",
+      "text": "Coq au vin på svensk gårdskyckling, champinjoner, syltlök, rödvinssås samt potatispuré",
       "types": [
-       "kott"
+       "kyckling"
       ]
      },
      {
@@ -4516,10 +4517,10 @@
       ]
      },
      {
-      "text": "Dingri Mutter Paneer – Gröna Ärtor/ Svamp/ Ost/Friterade Potatis Bullar/ Chutney/Papadam/ Ris"
+      "text": "Dingri Mutter Paneer – Gröna Ärtor/ Svamp/ Ost/Friterade Potatis Bullar/ Chutney/ Ris"
      },
      {
-      "text": "Dingri Mutter Paneer – Potatis Wada/ Chutney/ Papadum"
+      "text": "Dingri Mutter Paneer – Potatis Wada/ Chutney"
      },
      {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
@@ -5849,7 +5850,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f9b78fe1280>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f5c78da8ef0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
