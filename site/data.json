@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 43,
- "generated_at": "2026-10-19T10:24:50+00:00",
+ "generated_at": "2026-10-20T09:44:09+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -353,7 +353,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Pankobakad kolja serveras med kall örtsås, smörslungad potatis & broccoli.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med örtslungad potatis, picklad rödkål & en smörig skaldjurssås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -369,11 +369,10 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta på gröna ärtor serveras med smörslungad potatis & handskalade räkor.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad blomkål, tryffelkräm, picklad rödbeta & vitvinssås.",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "gryta"
+       "fisk"
       ]
      },
      {
@@ -386,7 +385,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad potatis, brynt smör, citronrostad grönkål & granatäpple.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potstisstomp & en kall ört-& pepparrotsås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -402,7 +401,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med Beurre blanc, potatisstomp med örter & rostad zucchini.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med dillslungad potatis, färskriven pepparrot, brynt smör & handskalde räkor.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -690,8 +689,139 @@
    "lunch_hours": "Tis–fre 11.30–14.00 (ingen lunch måndagar)",
    "cuisine": "Modern svenskt",
    "static_menu": false,
-   "days": {},
-   "error": "ValidationError: parser returned no dishes for any weekday",
+   "days": {
+    "tue": [
+     {
+      "text": "FRANSK KALVGRYTA 149 KR – morötter, grädde, vitt vin, ostgratinerad potatis",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HALSTRAD LAXFILÉ 165 KR – gräslökssmörsås, sockerärtor, kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FRITERAD HALLOUMI 149 KR – ljummen potatissallad, parmesan och citroncrème",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Det lilla extra: MOROTSKAKA"
+     }
+    ],
+    "wed": [
+     {
+      "text": "FRANSK KALVGRYTA 149 KR – morötter, grädde, vitt vin, ostgratinerad potatis",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HALSTRAD LAXFILÉ 165 KR – gräslökssmörsås, sockerärtor, kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FRITERAD HALLOUMI 149 KR – ljummen potatissallad, parmesan och citroncrème",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Det lilla extra: BLÅBÄRSMOUSSE – vispgrädde"
+     }
+    ],
+    "thu": [
+     {
+      "text": "KYCKLINGLÅRFILÉ 149 KR – sås på soltorkade tomater, broccoli, bräserad lökpotatis",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HALSTRAD LAXFILÉ 165 KR – gräslökssmörsås, sockerärtor, kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FRITERAD HALLOUMI 149 KR – ljummen potatissallad, parmesan och citroncrème",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Det lilla extra: VÅFFLOR – grädde och hallonsylt"
+     }
+    ],
+    "fri": [
+     {
+      "text": "KYCKLINGLÅRFILÉ 149 KR – sås på soltorkade tomater, broccoli, bräserad lökpotatis",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "HALSTRAD LAXFILÉ 165 KR – gräslökssmörsås, sockerärtor, kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "FRITERAD HALLOUMI 149 KR – ljummen potatissallad, parmesan och citroncrème",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Det lilla extra: HAVRETOSCA"
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
@@ -3389,48 +3519,14 @@
    "days": {
     "mon": [
      {
-      "text": "Kött: Kyckling Piccata Milanese m. pasta, mustig tomatsås & parmesan",
+      "text": "Kött: Grillad kyckling m. rostad potatis, dragonsås & vitlöksbakad tomat",
       "types": [
        "kott",
-       "kyckling",
-       "pasta"
+       "kyckling"
       ]
      },
      {
-      "text": "Fisk: Pocherad kolja m. kokt potatis, romsås, citron & ärtor",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "stekt"
-     },
-     {
-      "text": "Kött: Köttfärslimpa m. kokt potatis, gräddsås, lingon & haricot verts",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fisk: Panerad fisk m. pommes, dansk remouladsås, citron & smörslungade ärtor",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Kött: Pulled Pork Taco m. majs, avocado, mango, basmatiris, gurka & picklad rödlök",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fisk: Vinångad fisk m. potatisstomp, skaldjurssås & majsallad",
+      "text": "Fisk: Pocherad fisk m. potatismos, tartarsås & fransk ärtsallad",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -3438,31 +3534,63 @@
       ]
      }
     ],
-    "thu": [
+    "tue": [
      {
-      "text": "Kött: Wallenbergare m. potatismos, brynt smör, svampsås & lingon",
+      "text": "Kött: Dijonkryddad färsbiff m. kokt potatis, skysås & rosmarinstekt lök",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Fisk: TomYam m. fisk, räkor, nudlar, koriander & lime",
+      "text": "Fisk: Panerad fisk m. kokt potatis, citron-och gräslökskräm & fänkålssallad",
       "tag": "fisk",
       "types": [
        "fisk",
-       "nudlar"
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kött: Raggmunk m. stekt fläsk, rårörda lingon & löksås",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fisk: Smörbakad kummelfilé m. kokt potatis, vitvinssås & grillad sparris",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Kött: Chicken Thai m. basmatiris",
+      "types": [
+       "kott",
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Fisk: Fisksoppa, serveras m. pannkaka, hallonsylt & grädde",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
       ]
      }
     ],
     "fri": [
      {
-      "text": "Kött: Black & White m. pommes, rödvinssky, lingon, bearnaisesås & smörslungade haricot verts",
+      "text": "Kött: Schnitzel på rapsgris m. stekt potatis, kapris, ärtor & örtsmör",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Fisk: Misobakad lax m. grönsaksris & bräserad Pak Choi",
+      "text": "Fisk: Laxfilé m. rostad potatis, sparris & citronsmörsås",
       "tag": "fisk",
       "types": [
        "fisk"
