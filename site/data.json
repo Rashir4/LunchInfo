@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 43,
- "generated_at": "2026-10-20T09:44:09+00:00",
+ "generated_at": "2026-10-21T09:45:35+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -385,7 +385,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potstisstomp & en kall ört-& pepparrotsås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potatisstomp & en kall ört-& pepparrotsås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -401,7 +401,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med dillslungad potatis, färskriven pepparrot, brynt smör & handskalde räkor.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med dillslungad potatis, färskriven pepparrot, brynt smör & handskalade räkor.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4044,9 +4044,31 @@
    "cuisine": "Varierat",
    "static_menu": false,
    "days": {
+    "fri": [
+     {
+      "text": "Street food: Kyckling kebab, fefferoni, kebabdressing & ris",
+      "types": [
+       "kyckling"
+      ]
+     },
+     {
+      "text": "Nordic: Vitvins pocherad fisk, vitvinsås potatis, citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Greens: Pulled oumph kebab, vitlöksås, ris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
     "wed": [
      {
-      "text": "Street food: Chili lime sej – bakad sej med ris, korianderslaw och chilimajonnäs",
+      "text": "Street food: Chili lime bakad lax med ris, korianderslaw och sesamfrö",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4102,7 +4124,7 @@
       ]
      },
      {
-      "text": "Nordic: Panerad fisk, dansk remouladsås, citron & potatis",
+      "text": "Nordic: Panerad fisk, dansk örtaioli, citron & potatis",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4114,29 +4136,6 @@
       "types": [
        "veg",
        "pasta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Street food: Crunchy Chicken Burger, rostad potatis +",
-      "types": [
-       "kyckling",
-       "burgare"
-      ]
-     },
-     {
-      "text": "Nordic: Vitvins pocherad fisk, vitvinsås potatis, citron",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Greens: Pulled oumph kebab, vitlöksås, ris",
-      "tag": "veg",
-      "types": [
-       "veg"
       ]
      }
     ],
@@ -4281,11 +4280,14 @@
       ]
      },
      {
-      "text": "Halstrad Dagens Fångst – Dill mayo/ Gröna ärtor/ Dill/ Potatis",
+      "text": "Halstrad Koljafile – Dill mayo/ Gröna ärtor/ Dill/ Gratinerad Smash Potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
+     },
+     {
+      "text": "Grilled Haddock Fillet"
      },
      {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
@@ -5547,7 +5549,7 @@
       ]
      },
      {
-      "text": "Torskfärsbiff med dillslungad potatis, picklad morot och sandefjordsås",
+      "text": "Laxfräsbiff med dillslungad potatis, picklad morot och sandefjordsås",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -5570,7 +5572,7 @@
       ]
      },
      {
-      "text": "Panerad kummel med potatisstomp, gröna ärtor och remoulade",
+      "text": "Panerad kummel med sörad potatis, gröna ärtor och remoulade",
       "tag": "fisk",
       "types": [
        "fisk"
