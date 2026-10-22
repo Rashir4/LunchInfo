@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 43,
- "generated_at": "2026-10-21T09:45:35+00:00",
+ "generated_at": "2026-10-22T09:46:08+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4046,9 +4046,11 @@
    "days": {
     "fri": [
      {
-      "text": "Street food: Kyckling kebab, fefferoni, kebabdressing & ris",
+      "text": "Street food: Gochujang pork bowl – Kryddig koreansk fläskgryta med ris och kimchi",
       "types": [
-       "kyckling"
+       "kott",
+       "gryta",
+       "sallad"
       ]
      },
      {
@@ -4091,11 +4093,9 @@
     ],
     "thu": [
      {
-      "text": "Street food: Gochujang pork bowl – Kryddig koreansk fläskgryta med ris och kimchi",
+      "text": "Street food: Kyckling kebab, fefferoni, kebabsås & ris",
       "types": [
-       "kott",
-       "gryta",
-       "sallad"
+       "kyckling"
       ]
      },
      {
@@ -4321,7 +4321,7 @@
       ]
      },
      {
-      "text": "Brasiliansk Fisksoppa – Räkor/ Tomat/ Kokos/ Grönsaker/ Dill",
+      "text": "Brasiliansk Fisksoppa – Räkor/ Tomat/ Kokos/ Grönsaker/ Koriander/ Potatis",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -5624,124 +5624,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Fläskkött à la Rydberg med senapskräm, confiterad lök, råstekt potatis & äggula",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Havets Wallenbergare, dillmajonäs, rostad broccoli & kokt potatis (G, L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "kott"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk Rydberg med senapskräm, confiterad lök, råstekt potatis & äggula",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (G, L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Stekt panerad fisk, kokt potatis, remouladsås, gröna ärtor & citron (G)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Timjanstekt kycklinglårfilé med stekta champinjoner, steklök, rödvinssås & potatispuré (L)",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (G, L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtskockssoppa, med rotsaker, örter, toppad med aioli & vitlöksbröd G, L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron & bearnaisesås (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Ugnsbakad kummel med hummersås, haricot verts & pommes duchesse (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetariska grillspett med stekt potatis, haricot verts & bearnaisesås",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Grekiska fetaostbiffar med klyftpotatis, tzatziki & grillade grönsaker (L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Sotad tonfisk, nudelsallad, grillade grönsaker, sesam, picklad rödlök & wasabikräm (G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "VEG: Grillad Halloumi med klyftpotatis, grillade grönsaker & tzatziki (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fd2d0280bf0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
@@ -5978,7 +5862,7 @@
       ]
      },
      {
-      "text": "Zucchini- och quinoabiff, rostade rotfrukter, béarnaise, ruccola, bakade tomater",
+      "text": "Zucchini- och quinoabiff, rostade rotfrukter, bearnaise, ruccola, bakade tomater",
       "types": [
        "kott"
       ]
