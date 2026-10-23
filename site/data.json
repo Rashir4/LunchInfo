@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 43,
- "generated_at": "2026-10-22T09:46:08+00:00",
+ "generated_at": "2026-10-23T09:41:04+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1194,123 +1194,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "mon": [
-     {
-      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "tue": [
-     {
-      "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Medmamuang med fläsk. (nr. 11 b på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Tom Yam med räkor. (nr. 16 på meny)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "wed": [
-     {
-      "text": "Massamancurry med kyckling. (nr. 7 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Baigrapao med biff. (nr. 10 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     },
-     {
-      "text": "Pat See Ew med grönsaker vegetarisk. (nr. 3a på meny)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
     "thu": [
      {
       "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
@@ -4054,7 +3937,7 @@
       ]
      },
      {
-      "text": "Nordic: Vitvins pocherad fisk, vitvinsås potatis, citron",
+      "text": "Nordic: Vitvins pocherad fisk, dillkräm potatis, citron",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -5624,8 +5507,124 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fd2d0280bf0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Fläskkött à la Rydberg med senapskräm, confiterad lök, råstekt potatis & äggula",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Havets Wallenbergare, dillmajonäs, rostad broccoli & kokt potatis (G, L)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "kott"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk Rydberg med senapskräm, confiterad lök, råstekt potatis & äggula",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (G, L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Stekt panerad fisk, kokt potatis, remouladsås, gröna ärtor & citron (G)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon G, alt. löksås & kokt potatis (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Timjanstekt kycklinglårfilé med stekta champinjoner, steklök, rödvinssås & potatispuré (L)",
+      "types": [
+       "kott",
+       "kyckling"
+      ]
+     },
+     {
+      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (G, L)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Gräddig Jordärtskockssoppa, med rotsaker, örter, toppad med aioli & vitlöksbröd G, L)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron & bearnaisesås (G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Ugnsbakad kummel med hummersås, haricot verts & pommes duchesse (L)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetariska grillspett med stekt potatis, haricot verts & bearnaisesås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Grekiska fetaostbiffar med klyftpotatis, tzatziki & grillade grönsaker (L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Sotad tonfisk, nudelsallad, grillade grönsaker, sesam, picklad rödlök & wasabikräm (G)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "VEG: Grillad Halloumi med klyftpotatis, grillade grönsaker & tzatziki (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
