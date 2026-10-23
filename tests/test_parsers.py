@@ -6,6 +6,8 @@ Each restaurant module gets:
     fixtures are saved with `python -m scraper.main --save-fixtures`)
 """
 
+import json
+import sys
 from pathlib import Path
 
 import pytest
@@ -14,6 +16,8 @@ from scraper import restaurants
 from scraper.models import WEEKDAYS, Dish, Restaurant
 
 FIXTURES = Path(__file__).parent / "fixtures"
+# Written by --save-fixtures alongside each page: {id: [iso_year, iso_week]}.
+FIXTURE_WEEKS = json.loads((FIXTURES / "weeks.json").read_text(encoding="utf-8"))
 
 MODULES = restaurants.all_modules()
 
@@ -43,8 +47,20 @@ def fixture_modules():
 @pytest.mark.parametrize("module", fixture_modules(), ids=module_id)
 class TestParseFixture:
     @pytest.fixture()
-    def days(self, module):
-        raw = (FIXTURES / f"{module.RESTAURANT.id}.html").read_text(encoding="utf-8")
+    def days(self, module, monkeypatch):
+        rid = module.RESTAURANT.id
+        if rid not in FIXTURE_WEEKS:
+            pytest.fail(f"no week recorded for {rid} in fixtures/weeks.json — "
+                        "re-save it with --save-fixtures")
+        # Replay the page in the week it was saved: parsers that keep only the
+        # current week's dishes would otherwise find nothing once it is old.
+        # They bind current_week by name, so patch every scraper module's copy
+        # (shared helpers like _plateimpact included), not just scraper.utils.
+        week = tuple(FIXTURE_WEEKS[rid])
+        for name, mod in list(sys.modules.items()):
+            if name.startswith("scraper") and hasattr(mod, "current_week"):
+                monkeypatch.setattr(mod, "current_week", lambda: week)
+        raw = (FIXTURES / f"{rid}.html").read_text(encoding="utf-8")
         return module.parse(raw)
 
     def test_returns_weekday_menus(self, module, days):

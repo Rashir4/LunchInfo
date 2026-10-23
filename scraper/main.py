@@ -13,6 +13,7 @@ import copy
 import datetime as dt
 import json
 import sys
+import threading
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from types import ModuleType
@@ -25,6 +26,11 @@ from .utils import current_week
 ROOT = Path(__file__).resolve().parent.parent
 SITE_DATA = ROOT / "site" / "data.json"
 FIXTURES = ROOT / "tests" / "fixtures"
+# ISO (year, week) each fixture was saved in, keyed by restaurant id. Parsers
+# that keep only the current week's dishes find nothing in an old page, so the
+# tests replay each fixture with its own week pinned as "now".
+FIXTURE_WEEKS = FIXTURES / "weeks.json"
+_fixture_weeks_lock = threading.Lock()  # scrape_all saves from worker threads
 
 # The build fails outright unless this many restaurants scrape cleanly — a
 # mostly-empty site is worse than a stale one. Mirrors the output contract in
@@ -62,6 +68,19 @@ def _dedupe_days(days: dict[str, list]) -> dict[str, list]:
     return out
 
 
+def save_fixture(rest_id: str, raw: str) -> None:
+    """Save a raw page to tests/fixtures/ and record the week it was fetched in."""
+    FIXTURES.mkdir(parents=True, exist_ok=True)
+    (FIXTURES / f"{rest_id}.html").write_text(raw, encoding="utf-8")
+    with _fixture_weeks_lock:
+        weeks = {}
+        if FIXTURE_WEEKS.exists():
+            weeks = json.loads(FIXTURE_WEEKS.read_text(encoding="utf-8"))
+        weeks[rest_id] = list(current_week())
+        FIXTURE_WEEKS.write_text(json.dumps(weeks, indent=2, sort_keys=True) + "\n",
+                                 encoding="utf-8")
+
+
 def scrape_one(module: ModuleType, save_fixtures: bool = False) -> Restaurant:
     """Fetch + parse one restaurant; failures are recorded, never raised."""
     # Never mutate the module-level Restaurant: repeated runs (or tests
@@ -73,8 +92,7 @@ def scrape_one(module: ModuleType, save_fixtures: bool = False) -> Restaurant:
         else:
             raw = fetch_html(rest.menu_url)
         if save_fixtures:
-            FIXTURES.mkdir(parents=True, exist_ok=True)
-            (FIXTURES / f"{rest.id}.html").write_text(raw, encoding="utf-8")
+            save_fixture(rest.id, raw)
         rest.days = _dedupe_days(module.parse(raw))
         if not any(rest.days.values()):
             raise ValidationError("parser returned no dishes for any weekday")
