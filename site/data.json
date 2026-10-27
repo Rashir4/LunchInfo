@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 44,
- "generated_at": "2026-10-26T10:39:34+00:00",
+ "generated_at": "2026-10-27T10:09:20+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -346,7 +346,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med örtslungad potatis, picklad rödkål & en smörig skaldjurssås.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med kokt potatis, varm örtsås & smörslungad potatis.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -362,10 +362,11 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rostad blomkål, tryffelkräm, picklad rödbeta & vitvinssås.",
+      "text": "Dagens fångst 165 kr – Fisk-& skaldjursgryta serveras med dillslungad potatis & handskalade räkor.",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
@@ -378,7 +379,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potatisstomp & en kall ört-& pepparrotsås.",
+      "text": "Dagens fångst 165 kr – Färskostbakad fångst serveras med brynt smör, ångad gulbeta & rostad potatis.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -394,7 +395,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med dillslungad potatis, färskriven pepparrot, brynt smör & handskalade räkor.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potatisstomp, gröna ärtor & citronsås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -1201,47 +1202,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "mon": [
-     {
-      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
     "tue": [
      {
       "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
@@ -1974,18 +1934,17 @@
    "days": {
     "tue": [
      {
-      "text": "Fiskgratäng på dagens fångst, skaldjurssås och potatistoppar",
+      "text": "Ugnsbakad kummelfilé med morotsslantar, brynt smör, citron och persiljeslungad potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Mustig svampragu med champinjoner, syltlök, rödvin, rotfrukter och potatispuré",
+      "text": "Quiche med Sivans ost, tomater, lök och broccoli",
       "tag": "veg",
       "types": [
-       "veg",
-       "gryta"
+       "veg"
       ]
      },
      {
@@ -2005,17 +1964,16 @@
     ],
     "wed": [
      {
-      "text": "Pannbiff med skysås, stekt lök, saltgurka och persiljestekt potatis",
+      "text": "Rimmad urbenad fläsklägg med pepparrotssås och rotmos",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Mustig svampragu med champinjoner, syltlök, rödvin, rotfrukter och potatispuré",
+      "text": "Quiche med Sivans ost, tomater, lök och broccoli",
       "tag": "veg",
       "types": [
-       "veg",
-       "gryta"
+       "veg"
       ]
      },
      {
@@ -2035,7 +1993,7 @@
     ],
     "thu": [
      {
-      "text": "Krämig fisk- och skaldjurssoppa med dagens fångst och grönsaksmosaik samt dessertpaj med vaniljsås",
+      "text": "Fransk fisksoppa med grönsakstärningar, dagens fångst, musslor och räkor med en citronaoili samt jordgubbs- och rabarberpaj med vitchoklad och vaniljsås",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -2043,41 +2001,10 @@
       ]
      },
      {
-      "text": "Mustig svampragu med champinjoner, syltlök, rödvin, rotfrukter och potatispuré",
+      "text": "Quiche med Sivans ost, tomater, lök och broccoli",
       "tag": "veg",
       "types": [
-       "veg",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Havets Wallenbergare med Skagenröra och potatismos",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "kott"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Biff a la Bordelaise på långbakad högrev med rödvin, lök och potatisgratäng",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Mustig svampragu med champinjoner, syltlök, rödvin, rotfrukter och potatispuré",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "gryta"
+       "veg"
       ]
      },
      {
@@ -2097,7 +2024,7 @@
     ]
    },
    "error": null,
-   "stale_week": 43
+   "stale_week": null
   },
   {
    "id": "restaurang-c",
@@ -2123,7 +2050,7 @@
       ]
      },
      {
-      "text": "Veckans vegetariska: Pestobakad höstsvamp — Pennepasta — Tomatsås — Riven lagrad ost — Rostade frön",
+      "text": "Veckans vegetariska: Pennepasta — — Pestobakad höstsvamp — Tomatsås — Riven lagrad ost — Rostade frön",
       "tag": "veg",
       "types": [
        "veg",
@@ -2149,7 +2076,7 @@
       ]
      },
      {
-      "text": "Veckans vegetariska: Pestobakad höstsvamp — Pennepasta — Tomatsås — Riven lagrad ost — Rostade frön",
+      "text": "Veckans vegetariska: Pennepasta — — Pestobakad höstsvamp — Tomatsås — Riven lagrad ost — Rostade frön",
       "tag": "veg",
       "types": [
        "veg",
@@ -2181,7 +2108,7 @@
       ]
      },
      {
-      "text": "Veckans vegetariska: Pestobakad höstsvamp — Pennepasta — Tomatsås — Riven lagrad ost — Rostade frön",
+      "text": "Veckans vegetariska: Pennepasta — — Pestobakad höstsvamp — Tomatsås — Riven lagrad ost — Rostade frön",
       "tag": "veg",
       "types": [
        "veg",
@@ -2211,7 +2138,7 @@
       ]
      },
      {
-      "text": "Veckans vegetariska: Pestobakad höstsvamp — Pennepasta — Tomatsås — Riven lagrad ost — Rostade frön",
+      "text": "Veckans vegetariska: Pennepasta — — Pestobakad höstsvamp — Tomatsås — Riven lagrad ost — Rostade frön",
       "tag": "veg",
       "types": [
        "veg",
@@ -2240,7 +2167,7 @@
       ]
      },
      {
-      "text": "Veckans vegetariska: Pestobakad höstsvamp — Pennepasta — Tomatsås — Riven lagrad ost — Rostade frön",
+      "text": "Veckans vegetariska: Pennepasta — — Pestobakad höstsvamp — Tomatsås — Riven lagrad ost — Rostade frön",
       "tag": "veg",
       "types": [
        "veg",
@@ -2272,93 +2199,89 @@
    "days": {
     "tue": [
      {
-      "text": "Stekt fläsk | raggmunk | rårörda lingon",
+      "text": "Stekt fläsk | löksås | kokt potatis | rårörda lingon",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Rödtunga | haricots verts | vitvinssås | kokt potatis",
+      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Vegetarisk bolognese | linguine | parmesan",
+      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      }
     ],
     "wed": [
      {
-      "text": "Lasagne | tomat & basilikasås",
-      "types": [
-       "pasta"
-      ]
-     },
-     {
-      "text": "Rödtunga | haricots verts | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Vegetarisk bolognese | linguine | parmesan",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Kycklingsouvlaki | tzatziki | pommes frites",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Rödtunga | haricots verts | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Vegetarisk bolognese | linguine | parmesan",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Schnitzel | gröna ärtor | rödvinssås | rostad potatis",
+      "text": "Ugnsbakad fläskkarré | morot | pepparsås | rostad potatis",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Rödtunga | haricots verts | vitvinssås | kokt potatis",
+      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Vegetarisk bolognese | linguine | parmesan",
+      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Lamm & nötkorv | picklad lök | kål | rödvinssås | rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Schnitzel | champinjonsås | broccoli | pommes frites",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "tag": "veg",
+      "types": [
+       "veg"
       ]
      }
     ]
@@ -2559,10 +2482,7 @@
       ]
      },
      {
-      "text": "Plat du jour – Hache de veau al forestiere Kalvfärsbiff med vitlökssås, majskornpuré, gröna ärtor och svarta oliver",
-      "types": [
-       "kott"
-      ]
+      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2601,10 +2521,7 @@
       ]
      },
      {
-      "text": "Plat du jour – Hache de veau al forestiere Kalvfärsbiff med vitlökssås, majskornpuré, gröna ärtor och svarta oliver",
-      "types": [
-       "kott"
-      ]
+      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2643,10 +2560,7 @@
       ]
      },
      {
-      "text": "Plat du jour – Hache de veau al forestiere Kalvfärsbiff med vitlökssås, majskornpuré, gröna ärtor och svarta oliver",
-      "types": [
-       "kott"
-      ]
+      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2685,10 +2599,7 @@
       ]
      },
      {
-      "text": "Plat du jour – Hache de veau al forestiere Kalvfärsbiff med vitlökssås, majskornpuré, gröna ärtor och svarta oliver",
-      "types": [
-       "kott"
-      ]
+      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2708,7 +2619,7 @@
     ]
    },
    "error": null,
-   "stale_week": 43
+   "stale_week": null
   },
   {
    "id": "focus-restaurang",
@@ -2721,121 +2632,9 @@
    "lunch_hours": "Mån–fre 11.00–14.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "Rimmad oxbringa serveras med rotmos, pepparrotssås och persilja",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Provencalsk fiskgryta serveras med fänkål, aioli, kräftstjärtar och dill",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska: Morots- och halloumiplättar serveras med kesoröra med färska örter och citron samt rucolasallad med rostade pumpafrön och soltorkad tomat",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "Kålpudding serveras med gräddsås, rårörda lingon, pressgurka och persiljeslungad potatis"
-     },
-     {
-      "text": "Panerad sej serveras med dillslungad potatis, färskoströra med gravlax och kräftstjärtar samt gröna ärtor och citron",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska: Morots- och halloumiplättar serveras med kesoröra med färska örter och citron samt rucolasallad med rostade pumpafrön och soltorkad tomat",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Chicken à la king serveras med paprika, champinjoner, ris samt fräsch sallad på grönt äpple, rotselleri och persilja",
-      "types": [
-       "kyckling",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Dagens fångst serveras med Sandefjordsås samt fänkålscrudité med schalottenlök och citron",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska: Morots- och halloumiplättar serveras med kesoröra med färska örter och citron samt rucolasallad med rostade pumpafrön och soltorkad tomat",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Slottsstek serveras med skysås, brysselkål, svart vinbärsgelé samt potatis stekt i ankfett"
-     },
-     {
-      "text": "Dagens fångst bakad med örtsmör serveras med trattkantarellsås, potatis och morötter",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska: Morots- och halloumiplättar serveras med kesoröra med färska örter och citron samt rucolasallad med rostade pumpafrön och soltorkad tomat",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Lasagne al forno serveras med basilika, parmesan och soltorkad tomat",
-      "types": [
-       "pasta"
-      ]
-     },
-     {
-      "text": "Dagens fångst serveras gratinerad med vitvinssås, ugnsbakade kvisttomater, handskalade räkor och dill",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska: Morots- och halloumiplättar serveras med kesoröra med färska örter och citron samt rucolasallad med rostade pumpafrön och soltorkad tomat",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ]
-   },
-   "error": null,
-   "stale_week": 43
+   "days": {},
+   "error": "ValidationError: parser returned no dishes for any weekday",
+   "stale_week": null
   },
   {
    "id": "kometen",
@@ -4087,6 +3886,52 @@
    "cuisine": "Varierat",
    "static_menu": false,
    "days": {
+    "thu": [
+     {
+      "text": "Street food: Panerad fisk,tzaziki, tomat & fetaostsallad",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Nordic: Pytt i panna, stekt ägg & inlagda rödbetor",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Greens: Vegansk Moussaka, soltorkad tomat majonnäs",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Street food: Pulled pork burger, majonnäs, lök & rostad potatis",
+      "types": [
+       "kott",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Nordic: Vitvins pocherad fisk, dillkräm, potatis, citron",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Greens: Tofu taco, majssalsa & ris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
     "tue": [
      {
       "text": "Street food: Schnitzel (fläsk, EU) rödvinsås, ärtor, citron & rostad potatis",
@@ -4095,7 +3940,7 @@
       ]
      },
      {
-      "text": "Nordic: Dillbakad fisk, blåmusselsås, citron- & potatispuré",
+      "text": "Nordic: Dillbakad fisk, blåmusselsås, broccoli & potatispuré",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -4134,28 +3979,6 @@
       ]
      }
     ],
-    "fri": [
-     {
-      "text": "Street food: \"Karaage\" friterad kyckling gochujangsås, sesam, ris",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Nordic: Vitvins pocherad fisk, dillkräm, potatis, citron",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Greens: Tofu taco, majssalsa & ris",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
     "wed": [
      {
       "text": "Street food: Tandoorikryddad fisk, avokado & limesalsa , jasminris",
@@ -4177,30 +4000,6 @@
       "types": [
        "veg",
        "nudlar"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Street food: Panerad fisk,tzaziki, tomat & fetaostsallad",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Nordic: Fläskfilegryta, svamp, broccoli ris & ädelost",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Greens: Vegansk Moussaka, soltorkad tomat majonnäs",
-      "tag": "veg",
-      "types": [
-       "veg"
       ]
      }
     ]
@@ -5639,124 +5438,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Kålpudding med kokt potatis, rårörda lingon & skysås",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Fiskqueneller med äggsås, örter & kokt potatis (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk kålpudding med kokt potatis, rårörda lingon & skysås",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (L, G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Stekt strömming med skirat smör, potatispuré, citron & rårörda lingon (L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon (G), alt. löksås & kokt potatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Viltfärslimpa med svampsås, svartvinbärsgelé, rotsaker & rostad potatis (L)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtskockssoppa, med rotsaker, örter, toppad med aioli & vitlöksbröd (L, G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron & bearnaisesås (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Ugnsbakad vit fisk med rostade betor, riven pepparrot, potatis, rostade frön & viérge på balsamico & brynt smör (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk lasagne med ostbechamel, ruccola, marinerade tomater & picklad rödlök (L, G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Fläskfilé med duxelle, äpple, babyspenat, rödlök, klyftpotatis & rödvinssås (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Halstrad havsöring med pepprig sandefjordssås, spenat, rödlök & pommes duchesse (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk burgare på friterad fetaost, sallad, tomat, chilimajo, picklad lök & klyftpotatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad",
-       "burgare"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fd41418c2f0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
