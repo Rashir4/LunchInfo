@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 44,
- "generated_at": "2026-10-27T10:09:20+00:00",
+ "generated_at": "2026-10-28T10:55:56+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -4182,7 +4182,7 @@
       ]
      },
      {
-      "text": "Spenat Falafelburgare – BBQsås/ Lökringar/ Brioche/ Dressing/ Sallad/ Pommes",
+      "text": "Hemmagjorda Spenat Falafelburgare – BBQsås/ Lökringar/ Brioche/ Dressing/ Sallad/ Pommes",
       "tag": "veg",
       "types": [
        "veg",
@@ -4191,7 +4191,7 @@
       ]
      },
      {
-      "text": "Spinach Falafel Burger",
+      "text": "Home Made Spinach Falafel Burger",
       "tag": "veg",
       "types": [
        "veg",
@@ -4222,17 +4222,29 @@
     ],
     "fri": [
      {
-      "text": "Grillad kyckling – Rotgrönsaker/ Rosmarinsky/ Ärtskott/ Potatisgratäng",
+      "text": "Grillad Kyckling – Rotgrönsaker/ Rosmarinsky/ Ärtskott/ Potatisgratäng",
       "types": [
        "kyckling"
       ]
      },
      {
-      "text": "Halstrad lax – Skagen sås/ Gröna ärtor/ Örtsallad/ Citron/ Rostad potatis",
+      "text": "Halstrad Lax – Skagenröra/ Gröna Ärtor/ Citron/ Dill/ Rostad potatis",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pumpa Misal (Pumpa Curry) – Pumpa Biffar/ Gula Ärtor/ Spenat/Lök/ Tomat/ Koriander/ Lime/ Raita/Ris",
+      "types": [
+       "kott",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Pumpkin Misal (Pumpkin Curry)",
+      "types": [
+       "gryta"
       ]
      },
      {
@@ -5439,7 +5451,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fd41418c2f0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f57ecd164b0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
