@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 44,
- "generated_at": "2026-10-28T10:55:56+00:00",
+ "generated_at": "2026-10-29T11:12:20+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1202,48 +1202,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "tue": [
-     {
-      "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Medmamuang med fläsk. (nr. 11 b på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Tom Yam med räkor. (nr. 16 på meny)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
     "wed": [
      {
       "text": "Massamancurry med kyckling. (nr. 7 på meny)",
@@ -3896,7 +3854,7 @@
       ]
      },
      {
-      "text": "Nordic: Pytt i panna, stekt ägg & inlagda rödbetor",
+      "text": "Nordic: Pytt i panna, (pork) stekt ägg & inlagda rödbetor",
       "types": [
        "kott"
       ]
@@ -5417,7 +5375,10 @@
     ],
     "fri": [
      {
-      "text": "Helstekt kotlettrad med friterad potatis, rödvinssky bakad tomat och bearnaise"
+      "text": "Helstekt fläskfilé med friterad potatis, rödvinssky bakad tomat och bearnaise",
+      "types": [
+       "kott"
+      ]
      },
      {
       "text": "Örtfärserad flundra med rostade rotsaker och sandefjordsås",
@@ -5450,8 +5411,124 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7f57ecd164b0>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Kålpudding med kokt potatis, rårörda lingon & skysås",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Fiskqueneller med äggsås, örter & kokt potatis (L)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk kålpudding med kokt potatis, rårörda lingon & skysås",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (L, G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Stekt strömming med skirat smör, potatispuré, citron & rårörda lingon (L, G)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon (G), alt. löksås & kokt potatis (L)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Viltfärslimpa med svampsås, svartvinbärsgelé, rotsaker & rostad potatis (L)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd L, G)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Gräddig Jordärtskockssoppa, med rotsaker, örter, toppad med aioli & vitlöksbröd (L, G)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron & bearnaisesås (G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Ugnsbakad vit fisk med rostade betor, riven pepparrot, potatis, rostade frön & viérge på balsamico & brynt smör (L)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk lasagne med ostbechamel, ruccola, marinerade tomater & picklad rödlök (L, G)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Fläskfilé med duxelle, äpple, babyspenat, rödlök, klyftpotatis & rödvinssås (G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Halstrad havsöring med pepprig sandefjordssås, spenat, rödlök & pommes duchesse (L)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Vegetarisk burgare på friterad fetaost, sallad, tomat, chilimajo, picklad lök & klyftpotatis (L)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
@@ -5946,10 +6023,18 @@
     ],
     "fri": [
      {
-      "text": "Gnocchi rosso med krämig tomat, soltorkade tomater, getost och karamelliserade solroskärnor Fläskschnitzel med rödvinssky, kaprissmör, tomatsallad och rostad potatis",
+      "text": "OBS! I dag stänger vi 13:00"
+     },
+     {
+      "text": "Gnocchi rosso med krämig tomat, soltorkade tomater, getost och karamelliserade solroskärnor",
+      "types": [
+       "pasta"
+      ]
+     },
+     {
+      "text": "Fläskschnitzel med rödvinssky, kaprissmör, tomatsallad och rostad potatis",
       "types": [
        "kott",
-       "pasta",
        "sallad"
       ]
      },
