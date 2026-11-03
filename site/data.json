@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 45,
- "generated_at": "2026-11-02T12:58:37+00:00",
+ "generated_at": "2026-11-03T12:30:49+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -351,7 +351,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med kokt potatis, varm örtsås & smörslungad potatis.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med örtslungad potatis, pumpapuré, Sandefjordsås på brynt smör.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -367,11 +367,10 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Fisk-& skaldjursgryta serveras med dillslungad potatis & handskalade räkor.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med smörstekta kantareller, ugnsrostad potatis, picklad rödkål & vitvinssås.",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "gryta"
+       "fisk"
       ]
      },
      {
@@ -384,7 +383,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Färskostbakad fångst serveras med brynt smör, ångad gulbeta & rostad potatis.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potstisstomp med färska örter, smörig hummersås, rostade betor & picklad polkabeta.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -400,7 +399,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potatisstomp, gröna ärtor & citronsås.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rotselleri- & blomkålspuré, potatis, Buerre Blanc & äppelsyrad rödlök.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -1996,14 +1995,15 @@
       ]
      },
      {
-      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
-      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
       "tag": "veg",
       "types": [
        "veg"
@@ -2012,20 +2012,22 @@
     ],
     "wed": [
      {
-      "text": "Ugnsbakad fläskkarré | morot | pepparsås | rostad potatis",
+      "text": "Kyckling | curry | ris",
       "types": [
-       "kott"
+       "kyckling",
+       "gryta"
       ]
      },
      {
-      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
-      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
       "tag": "veg",
       "types": [
        "veg"
@@ -2034,20 +2036,21 @@
     ],
     "thu": [
      {
-      "text": "Lamm & nötkorv | picklad lök | kål | rödvinssås | rostad potatis",
+      "text": "Fläsksida | picklade senapsfrön | skysås | potatismos",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
-      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
       "tag": "veg",
       "types": [
        "veg"
@@ -2056,20 +2059,21 @@
     ],
     "fri": [
      {
-      "text": "Schnitzel | champinjonsås | broccoli | pommes frites",
+      "text": "Schnitzel | örtsmör | kapris | rödvinssås | rostad potatis",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Bakad lax | haricots verts | pesto | kokt potatis",
+      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
-      "text": "Bakad rödbeta | chèvresås | grönsakspuré | hasselnötter",
+      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
       "tag": "veg",
       "types": [
        "veg"
@@ -2441,7 +2445,7 @@
    "cuisine": "Husmanskost",
    "static_menu": false,
    "days": {},
-   "error": "ValidationError: parser returned no dishes for any weekday",
+   "error": "FetchError: HTTP 403 for https://www.ica.se/butiker/kvantum/goteborg/ica-focus-1004247/tjanster/lunch/",
    "stale_week": null
   },
   {
@@ -2592,10 +2596,11 @@
    "days": {
     "mon": [
      {
-      "text": "Dagens fångst med pumpakräm, rostad potatis och Averna-sky",
+      "text": "Psst… på måndagar serverar vi pizza för 99kr! Dagens fångst med pumpakräm, rostad potatis och Averna-sky",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "pasta"
       ]
      },
      {
@@ -3673,7 +3678,7 @@
     ],
     "tue": [
      {
-      "text": "Street food: Skaldjurspaella, oliv bakad lax, & aioli",
+      "text": "Street food: Skaldjurspaella, oliv bakad kolja, & aioli",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -3686,10 +3691,11 @@
       ]
      },
      {
-      "text": "Greens: Potatis &- auberginegratäng, vegansk biff & srirachamajonnäs",
+      "text": "Greens: Stekt temphe, salsa verde, pasta & marinerad tomat",
       "tag": "veg",
       "types": [
-       "veg"
+       "veg",
+       "pasta"
       ]
      }
     ],
@@ -3782,7 +3788,7 @@
     ],
     "tue": [
      {
-      "text": "Jagare Fläskschnitzel – Svampsås/ Gröna Ärtor/ Citron/ Persilja/ Rostad Potatis",
+      "text": "Jägare Fläskschnitzel – Svampsås/ Gröna Ärtor/ Citron/ Persilja/ Rostad Potatis",
       "types": [
        "kott"
       ]
@@ -3805,6 +3811,167 @@
       "types": [
        "pasta"
       ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kadai Kyckling Gryta – Currysås/ Grönsaker/ Potatis Pakora/ Raita/ Ris",
+      "types": [
+       "kyckling",
+       "gryta"
+      ]
+     },
+     {
+      "text": "Stekt Fångst – Remouladsås/ Picklad Morötter/Citron/ Dill/ Purjolök Stekt Potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Pan-Fried Fisk",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Kadai Veg Gryta – Bönor/ Currysås/ Grönsaker/ Potatis Pakora/Koriander/ Raita/ Ris",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Kadai Vegetable Curry",
+      "types": [
+       "gryta"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "Högrevsurgare – Bacon Chutney/ Syltat Lök/ Brioche/ Dressing/ Sallad/ Pommes",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Bohuslänsk Fisksoppa – Räkor/ Musslor/Stenbitsrom/ Grädde/ Grönsaker/ Aioli/ Vitlöks Krutonger",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Bohuslän Fish Soup",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "Krispiga Pannoumi Burgare – Svamp Chutney/ Syltet Lök/ Brioche/ Dressing/ Sallad/ Pommes",
+      "types": [
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "Crispy Pannoumi Burgers",
+      "types": [
+       "burgare"
+      ]
+     },
+     {
+      "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
+      "types": [
+       "kott",
+       "kyckling",
+       "sallad"
+      ]
+     },
+     {
+      "text": "Wokade nudlar med Kyckling eller Tofu",
+      "types": [
+       "kyckling",
+       "nudlar"
+      ]
+     },
+     {
+      "text": "En Tallrik med Sallad",
+      "types": [
+       "sallad"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "Högrevschili – Avacodo Kräm/ Tomat Salsa/ Creme Fraiche/ Koriander/ Nacho Chips/ Ris",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Halstrad Lax – Pepparrot Hollandaise/ Gröna Ärtor/ Citron/ Dill/ Rostad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "Vego Chili – Sojafärs/Avacodo Kräm/ Tomat Salsa/ Creme Fraiche/ Koriander/ Nacho Chips/ Ris",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veggie Chili"
      },
      {
       "text": "Caesarsallad med Kyckling och Bacon eller med Räkor",
@@ -4906,11 +5073,10 @@
       ]
      },
      {
-      "text": "Pankopanerad torskfärsbiff med dillslungad potatis, vitvinssås och picklad morot",
+      "text": "Citronstekt lax med dillslungad potatis, sandefjordsås och picklad morot",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "kott"
+       "fisk"
       ]
      },
      {
