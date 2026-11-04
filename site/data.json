@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 45,
- "generated_at": "2026-11-03T12:30:49+00:00",
+ "generated_at": "2026-11-04T12:41:58+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1986,102 +1986,8 @@
    "lunch_hours": "Tis–fre 11.30–15.00",
    "cuisine": "Modern svenskt",
    "static_menu": false,
-   "days": {
-    "tue": [
-     {
-      "text": "Stekt fläsk | löksås | kokt potatis | rårörda lingon",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Kyckling | curry | ris",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Fläsksida | picklade senapsfrön | skysås | potatismos",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Schnitzel | örtsmör | kapris | rödvinssås | rostad potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fiskgryta | grönsaker | vitvinssås | kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Vegetariska ”köttbullar” | rårörda lingon | potatispuré",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: no lunch PDF link found on tvakanten.se/menyer/",
    "stale_week": null
   },
   {
@@ -2294,7 +2200,12 @@
       ]
      },
      {
-      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
+      "text": "Plat du jour – Coq au vin Blanche, Kycklinggryta med vitvin, bacon och svamp, Serveras med potatismos",
+      "types": [
+       "kott",
+       "kyckling",
+       "gryta"
+      ]
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2333,7 +2244,12 @@
       ]
      },
      {
-      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
+      "text": "Plat du jour – Coq au vin Blanche, Kycklinggryta med vitvin, bacon och svamp, Serveras med potatismos",
+      "types": [
+       "kott",
+       "kyckling",
+       "gryta"
+      ]
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2372,7 +2288,12 @@
       ]
      },
      {
-      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
+      "text": "Plat du jour – Coq au vin Blanche, Kycklinggryta med vitvin, bacon och svamp, Serveras med potatismos",
+      "types": [
+       "kott",
+       "kyckling",
+       "gryta"
+      ]
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2411,7 +2332,12 @@
       ]
      },
      {
-      "text": "Plat du jour – Croûte forestière, Gratinerad Baguette med vitvin serverad med shiitake svamp, Bayonne chips och marinerade grönkål"
+      "text": "Plat du jour – Coq au vin Blanche, Kycklinggryta med vitvin, bacon och svamp, Serveras med potatismos",
+      "types": [
+       "kott",
+       "kyckling",
+       "gryta"
+      ]
      },
      {
       "text": "Croque monsieur – med skinka eller confiterat anklår",
@@ -2431,7 +2357,7 @@
     ]
    },
    "error": null,
-   "stale_week": 44
+   "stale_week": null
   },
   {
    "id": "focus-restaurang",
@@ -3632,7 +3558,7 @@
     ],
     "wed": [
      {
-      "text": "Street food: Ångkokt fisk, potatispuré, gulbetor & dillkräm",
+      "text": "Street food: Ångkokt fisk, potatis, gulbetor & vitvinsås smaksatt med dill",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -5150,129 +5076,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Ungersk Gulaschgryta med råstekt potatis, paprika, picklad lök & gräddfil (L)",
-      "types": [
-       "kott",
-       "gryta"
-      ]
-     },
-     {
-      "text": "FISK: Pasta med rökt lax, vinkokta musslor, gräddig musselsås, riven hårdost & bladgrönt (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "pasta"
-      ]
-     },
-     {
-      "text": "VEG: Pasta med skogssvamp, gräddig svampsås, rotsaker, riven hårdost & bladgrönt (L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Örtbakad Kummel med rotmos smaksatt med brynt smör, hummersås & dill (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt, marinerad stekt tofu, raggmunk & rårörda lingon (G), alt. löksås & kokt potatis (L)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Koreansk friterad kyckling med go chu jang-majonäs, ris, kimchi, sesamgurksallad & koriander (G)",
-      "types": [
-       "kott",
-       "kyckling",
-       "sallad"
-      ]
-     },
-     {
-      "text": "FISK: MATSMAKs gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (G, L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Gräddig Jordärtskockssoppa, med rotsaker, örter, toppad med aioli & vitlöksbröd (G, L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron & bearnaisesås (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Sotad tonfisk med stekt ris, ingefärsmajonäs, lime, stekta grönsaker & ägg",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Panerad tofu med stekt potatis, sotad citron, vitlöksfrästa haricots verts & bearnaisesås (G)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Baconlindad mozzarellafylld kycklingfilé m. pestoslungad potatis & vitlöksyoghurt (L)",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Fish taco med bakad sötpotatis, limemajonäs, sallad & pico de galllo (G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "VEG: Vegetarisk taco på halloumi med bakad sötpotatis, limemajonäs, sallad & pico de galllo (G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7143786c1a30>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
