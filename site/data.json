@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 45,
- "generated_at": "2026-11-05T12:51:42+00:00",
+ "generated_at": "2026-11-06T12:36:42+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1208,123 +1208,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "mon": [
-     {
-      "text": "Rödcurry gryta med kyckling. (nr. 4 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Kycklingspett med jordnötssås. (nr. 19 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pad Nammanhoj med biff. (nr. 11 a på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "tue": [
-     {
-      "text": "Panengcurrygryta med kyckling. (nr. 6 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Medmamuang med fläsk. (nr. 11 b på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Tom Yam med räkor. (nr. 16 på meny)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Mej med grönsaker, vegetarisk ( nr. 2 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     }
-    ],
-    "wed": [
-     {
-      "text": "Massamancurry med kyckling. (nr. 7 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Baigrapao med biff. (nr. 10 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     },
-     {
-      "text": "Pat See Ew med grönsaker vegetarisk. (nr. 3a på meny)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
     "thu": [
      {
       "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
