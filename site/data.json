@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 46,
- "generated_at": "2026-11-09T13:29:38+00:00",
+ "generated_at": "2026-11-10T13:10:13+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -361,7 +361,7 @@
    "days": {
     "tue": [
      {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med örtslungad potatis, pumpapuré, Sandefjordsås på brynt smör.",
+      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med kokt potatis, brynt smör, råhyvlad fänkål & smörslungad morot.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -377,10 +377,11 @@
     ],
     "wed": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med smörstekta kantareller, ugnsrostad potatis, picklad rödkål & vitvinssås.",
+      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta serveras med smörslungad potatis, palsternacka & handskalade räkor.",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "gryta"
       ]
      },
      {
@@ -393,7 +394,7 @@
     ],
     "thu": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potstisstomp med färska örter, smörig hummersås, rostade betor & picklad polkabeta.",
+      "text": "Dagens fångst 165 kr – Dagens fångst serveras med potatismos, konfiterade körsbärstomater & smörsås.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -409,7 +410,7 @@
     ],
     "fri": [
      {
-      "text": "Dagens fångst 165 kr – Dagens fångst serveras med rotselleri- & blomkålspuré, potatis, Buerre Blanc & äppelsyrad rödlök.",
+      "text": "Dagens fångst 165 kr – Pistage- & pestobakad fångst serveras med rostad potatis, citronsås & svartkålschips.",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -713,7 +714,10 @@
    "days": {
     "tue": [
      {
-      "text": "GULASCH 149 KR – saltgurka, gräddfil"
+      "text": "RIMMAD OXBRINGA 149 KR – pepparrotscrème, rotmos, skånsk senap",
+      "types": [
+       "kott"
+      ]
      },
      {
       "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
@@ -722,26 +726,30 @@
       ]
      },
      {
-      "text": "ÅNGAD SEJFILÉ 165 KR – limesmörsås, bakad fänkål, kokt potatis",
+      "text": "KUMMELFILÉ 165 KR – smörad musselsky, dillbakad blomkål, kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "MOROTSBIFFAR 149 KR – parmesan- och vitlökscrème, grillad zucchini, rostad potatis",
+      "text": "SVAMPARANCINI 149 KR – aioli, rucolasallad",
       "tag": "veg",
       "types": [
-       "veg"
+       "veg",
+       "sallad"
       ]
      },
      {
-      "text": "Det lilla extra: SOCKERKAKA"
+      "text": "Det lilla extra: ÄPPELKAKA – vaniljcrème"
      }
     ],
     "wed": [
      {
-      "text": "GULASCH 149 KR – saltgurka, gräddfil"
+      "text": "RIMMAD OXBRINGA 149 KR – pepparrotscrème, rotmos, skånsk senap",
+      "types": [
+       "kott"
+      ]
      },
      {
       "text": "BARRIQUES KLASSISKA KALVKÖTTBULLAR 179 KR – gräddsås, potatispuré, lingon, pressgurka",
@@ -750,29 +758,29 @@
       ]
      },
      {
-      "text": "ÅNGAD SEJFILÉ 165 KR – limesmörsås, bakad fänkål, kokt potatis",
+      "text": "KUMMELFILÉ 165 KR – smörad musselsky, dillbakad blomkål, kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "MOROTSBIFFAR 149 KR – parmesan- och vitlökscrème, grillad zucchini, rostad potatis",
+      "text": "SVAMPARANCINI 149 KR – aioli, rucolasallad",
       "tag": "veg",
       "types": [
-       "veg"
+       "veg",
+       "sallad"
       ]
      },
      {
-      "text": "Det lilla extra: APELSINMOUSSE – vispad grädde"
+      "text": "Det lilla extra: RÅRÖRDA SKOGSBÄR – vaniljcrème, rostad vit choklad"
      }
     ],
     "thu": [
      {
-      "text": "HELSTEKT FLÄSKYTTERFILÉ 149 KR – fransk grönsaksragu, tryffelsky, rostad potatis",
+      "text": "RÖDVINSBRÄSERAD KYCKLINGLÅRFILÉ 149 KR – champinjoner, potatisstomp, timjansky",
       "types": [
-       "kott",
-       "gryta"
+       "kyckling"
       ]
      },
      {
@@ -782,17 +790,18 @@
       ]
      },
      {
-      "text": "ÅNGAD SEJFILÉ 165 KR – limesmörsås, bakad fänkål, kokt potatis",
+      "text": "KUMMELFILÉ 165 KR – smörad musselsky, dillbakad blomkål, kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "MOROTSBIFFAR 149 KR – parmesan- och vitlökscrème, grillad zucchini, rostad potatis",
+      "text": "SVAMPARANCINI 149 KR – aioli, rucolasallad",
       "tag": "veg",
       "types": [
-       "veg"
+       "veg",
+       "sallad"
       ]
      },
      {
@@ -801,10 +810,9 @@
     ],
     "fri": [
      {
-      "text": "HELSTEKT FLÄSKYTTERFILÉ 149 KR – fransk grönsaksragu, tryffelsky, rostad potatis",
+      "text": "RÖDVINSBRÄSERAD KYCKLINGLÅRFILÉ 149 KR – champinjoner, potatisstomp, timjansky",
       "types": [
-       "kott",
-       "gryta"
+       "kyckling"
       ]
      },
      {
@@ -814,21 +822,22 @@
       ]
      },
      {
-      "text": "ÅNGAD SEJFILÉ 165 KR – limesmörsås, bakad fänkål, kokt potatis",
+      "text": "KUMMELFILÉ 165 KR – smörad musselsky, dillbakad blomkål, kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "MOROTSBIFFAR 149 KR – parmesan- och vitlökscrème, grillad zucchini, rostad potatis",
+      "text": "SVAMPARANCINI 149 KR – aioli, rucolasallad",
       "tag": "veg",
       "types": [
-       "veg"
+       "veg",
+       "sallad"
       ]
      },
      {
-      "text": "Det lilla extra: CHOKLADKAKA"
+      "text": "Det lilla extra: HALLONKAKA"
      }
     ]
    },
@@ -2110,29 +2119,24 @@
    "days": {
     "mon": [
      {
-      "text": "Kåldolmar med gräddsås, lingon samt kokt potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Pasta penne med krabbstix & räkor, spenat i ostsås",
+      "text": "Ugnsbakad fiskfilé med tomat- och räksås, serveras med kokt potatis",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "pasta"
+       "fisk"
       ]
      },
      {
-      "text": "Veckans vegetariska: Pasta penne med pesto, spenat och valnötter",
+      "text": "Chili con carne med ris och nachochips"
+     },
+     {
+      "text": "Veckans vegetariska: Vegetarisk moussaka med oliver och fetaost",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
-      "text": "Veckans soppa: Krämig tomatsoppa",
+      "text": "Veckans soppa: Linssoppa",
       "types": [
        "soppa"
       ]
@@ -2140,31 +2144,28 @@
     ],
     "tue": [
      {
-      "text": "Nötlevergryta serveras med ris",
-      "types": [
-       "gryta"
-      ]
-     },
-     {
-      "text": "Västerbottenost gratinerad lax serveras",
+      "text": "Ugnsbakad fiskfilé med tomat- och räksås, serveras med kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "med vitvinssås samt potatismos"
-     },
-     {
-      "text": "Veckans vegetariska: Pasta penne med pesto, spenat och valnötter",
-      "tag": "veg",
+      "text": "Italiensk kycklinggryta med couscous",
       "types": [
-       "veg",
-       "pasta"
+       "kyckling",
+       "gryta"
       ]
      },
      {
-      "text": "Veckans soppa: Krämig tomatsoppa",
+      "text": "Veckans vegetariska: Vegetarisk moussaka med oliver och fetaost",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Linssoppa",
       "types": [
        "soppa"
       ]
@@ -2172,34 +2173,28 @@
     ],
     "wed": [
      {
-      "text": "BBQ glaserade tjocka revben serveras med",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "äppelkompott, skysås samt rostad potatis"
-     },
-     {
-      "text": "Västerbottenost gratinerad lax serveras",
+      "text": "Panerad fiskfilé med dill- och citroncrème samt dillrostad potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "med vitvinssås samt potatismos"
-     },
-     {
-      "text": "Veckans vegetariska: Pasta penne med pesto, spenat och valnötter",
-      "tag": "veg",
+      "text": "Helstekt fläskfilé med pennepasta i rosépepparsås",
       "types": [
-       "veg",
+       "kott",
        "pasta"
       ]
      },
      {
-      "text": "Veckans soppa: Krämig tomatsoppa",
+      "text": "Veckans vegetariska: Vegetarisk moussaka med oliver och fetaost",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Linssoppa",
       "types": [
        "soppa"
       ]
@@ -2207,31 +2202,27 @@
     ],
     "thu": [
      {
-      "text": "Nötfärsbiffar serveras med rostade rotsaker samt lingongräddsås",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Pocherad fiskfilé med ägg-och persiljesås",
+      "text": "Pocherad lax med grön ärtcrème och duchessepotatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "serveras med dillslungad potatis"
-     },
-     {
-      "text": "Veckans vegetariska: Pasta penne med pesto, spenat och valnötter",
-      "tag": "veg",
+      "text": "Kalops på högrev med rödbetor och kokt potatis",
       "types": [
-       "veg",
-       "pasta"
+       "kott"
       ]
      },
      {
-      "text": "Veckans soppa: Krämig tomatsoppa",
+      "text": "Veckans vegetariska: Vegetarisk moussaka med oliver och fetaost",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Linssoppa",
       "types": [
        "soppa"
       ]
@@ -2239,31 +2230,27 @@
     ],
     "fri": [
      {
-      "text": "Viltkyckling a´la Eva serveras med gelé, pressgurka samt potatisstomp",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Pocherad fiskfilé serveras med ägg-och persiljesås",
+      "text": "Pocherad lax med grön ärtcrème och potatismos",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "samt dillslungad potatis"
-     },
-     {
-      "text": "Veckans vegetariska: Pasta penne med pesto, spenat och valnötter",
-      "tag": "veg",
+      "text": "Stekt fläsk med raggmunk och lingon eller bruna bönor och kokt potatis",
       "types": [
-       "veg",
-       "pasta"
+       "kott"
       ]
      },
      {
-      "text": "Veckans soppa: Krämig tomatsoppa",
+      "text": "Veckans vegetariska: Vegetarisk moussaka med oliver och fetaost",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     },
+     {
+      "text": "Veckans soppa: Linssoppa",
       "types": [
        "soppa"
       ]
@@ -5274,130 +5261,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Färsbiffar, serveras med saltgurka, skysås, stekt lök och rostad potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Friterade fiskkroketter med hollandaisesås smaksatt med brynt smör, picklad gurka, dill och potatispuré (L G)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Linskroketter med hummus, picklad gurka och tabouleh (G)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (L, G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Halstrad havsöring med dillmajonnäs, kokt ägg, gröna ärtor och kokt potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt och marinerad stekt tofu med raggmunk och rårörda lingon, alternativt kokt potatis och löksås L, G)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Pulled pork med stekt tortilla, grillad ananassalsa, bönsallad och ris (G)",
-      "types": [
-       "kott",
-       "sallad"
-      ]
-     },
-     {
-      "text": "FISK: MATSMAKs gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Asiatisk nudelsoppa på kokosgrädde med wokade grönsaker, friterat rispapper och picklad rödkål",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa",
-       "nudlar"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron, kryddsmör & bearnaisesås (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Ugnsbakad kummel med räkröra, brynt smör och krossad potatis",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Pasta med tryffelsås, stekt svamp, tofu och riven hårdost (G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Hamburgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
-      "types": [
-       "kott",
-       "sallad",
-       "burgare"
-      ]
-     },
-     {
-      "text": "FISK: Fiskburgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad",
-       "burgare"
-      ]
-     },
-     {
-      "text": "VEG: Friterad fetaost-burgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad",
-       "burgare"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7576bceb6090>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
