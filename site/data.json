@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 46,
- "generated_at": "2026-11-11T12:19:55+00:00",
+ "generated_at": "2026-11-12T13:28:07+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -3771,7 +3771,7 @@
       ]
      },
      {
-      "text": "Greens: Linsgryta med rökt paprika, kokosmjölk & kål",
+      "text": "Greens: Linsgryta med rökt paprika, kokosmjölk & morot",
       "tag": "veg",
       "types": [
        "veg",
@@ -5260,8 +5260,130 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {},
-   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7e0d917b7f50>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
+   "days": {
+    "mon": [
+     {
+      "text": "KÖTT: Färsbiffar, serveras med saltgurka, skysås, stekt lök och rostad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Friterade fiskkroketter med hollandaisesås smaksatt med brynt smör, picklad gurka, dill och potatispuré (L G)",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Linskroketter med hummus, picklad gurka och tabouleh (G)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "tue": [
+     {
+      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis (L, G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Halstrad havsöring med dillmajonnäs, kokt ägg, gröna ärtor och kokt potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Rökt och marinerad stekt tofu med raggmunk och rårörda lingon, alternativt kokt potatis och löksås L, G)",
+      "tag": "veg",
+      "types": [
+       "veg"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "KÖTT: Pulled pork med stekt tortilla, grillad ananassalsa, bönsallad och ris (G)",
+      "types": [
+       "kott",
+       "sallad"
+      ]
+     },
+     {
+      "text": "FISK: MATSMAKs gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (L, G)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "soppa"
+      ]
+     },
+     {
+      "text": "VEG: Asiatisk nudelsoppa på kokosgrädde med wokade grönsaker, friterat rispapper och picklad rödkål",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "soppa",
+       "nudlar"
+      ]
+     }
+    ],
+    "thu": [
+     {
+      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron, kryddsmör & bearnaisesås (G)",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "FISK: Ugnsbakad kummel med räkröra, brynt smör och krossad potatis",
+      "tag": "fisk",
+      "types": [
+       "fisk"
+      ]
+     },
+     {
+      "text": "VEG: Pasta med tryffelsås, stekt svamp, tofu och riven hårdost (G)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "pasta"
+      ]
+     }
+    ],
+    "fri": [
+     {
+      "text": "KÖTT: Hamburgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
+      "types": [
+       "kott",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "FISK: Fiskburgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
+      "tag": "fisk",
+      "types": [
+       "fisk",
+       "sallad",
+       "burgare"
+      ]
+     },
+     {
+      "text": "VEG: Friterad fetaost-burgare med chimmichurridressing, aioli, cheddar, sallad och tomat (L, G)",
+      "tag": "veg",
+      "types": [
+       "veg",
+       "sallad",
+       "burgare"
+      ]
+     }
+    ]
+   },
+   "error": null,
    "stale_week": null
   },
   {
