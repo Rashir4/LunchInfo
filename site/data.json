@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 46,
- "generated_at": "2026-11-12T13:28:07+00:00",
+ "generated_at": "2026-11-13T12:43:40+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -3735,21 +3735,21 @@
     ],
     "fri": [
      {
-      "text": "Street food: Shawarma bowl – Kryddat kött med bulgur, grönsaker och vitlökssås",
+      "text": "Street food: Shawarma bowl – Kryddat kyckling med bulgur, grönsaker och vitlökssås",
       "types": [
-       "kott",
+       "kyckling",
        "sallad"
       ]
      },
      {
-      "text": "Nordic: Vitvinspocherad fisk, potatis & skaldjurssås",
+      "text": "Nordic: Vitvinspocherad fisk, potatis & sandefjordsås",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Greens: Veganbiffar med pepparrotskräm, potatis och picklad rödlök",
+      "text": "Greens: Veganbiffar med örtkräm, potatis och picklad rödlök",
       "tag": "veg",
       "types": [
        "veg"
@@ -4951,30 +4951,33 @@
    "days": {
     "mon": [
      {
-      "text": "Klassisk wallenbergare på kalvfärs serveras med potatismos, skirat smör och lingonsylt",
+      "text": "Baconlindad köttfärslimpa serveras med gräddsås, lingonsylt, saltgurka & kokt potatis",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Ugnsbakad laxfilé serveras med sparrissås och kokt potatis",
+      "text": "Skagenbakad laxfilé serveras med vitvinssås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med strimlad fläskfilé, bacon och grönsaker i krämig pepparsås",
+      "text": "Pasta med strimlad kycklingfilé & grönsaker i krämig örtsås",
       "types": [
-       "kott",
+       "kyckling",
        "pasta"
       ]
      },
      {
-      "text": "Cheedarostfylld quesadillas serveras med salsa, nachos och guacamolèkräm"
+      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
+      "types": [
+       "sallad"
+      ]
      },
      {
-      "text": "Grillad högrevsburgare Cheese & bacon serveras med briochebröd och pommes frites",
+      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
       "types": [
        "kott",
        "burgare"
@@ -4983,37 +4986,40 @@
     ],
     "tue": [
      {
-      "text": "Stekt fläsk med löksås & kokt potatis eller raggmunk & lingonsylt",
+      "text": "Stekt fläsk med löksås & kokt potatis eller raggmunk och lingonsylt",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Kalvgryta med nyplockade kantareller, vitlök, grädde, enbär serveras med ris",
+      "text": "Thailändsk kycklinggryta med smak av röd curry serveras med grönsakskokt ris",
       "types": [
-       "kott",
+       "kyckling",
        "gryta"
       ]
      },
      {
-      "text": "Pocherad torskfilè serveras med örtkryddad vitvinssås och kokt potatis",
+      "text": "Pocherad rödspättafilé serveras med kräfthollandaisesås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med grillad pluma och grönsaker i krämig champinjonsås",
+      "text": "Pasta med strimlad fläskfilé & grönsaker i krämig pepparsås",
       "types": [
        "kott",
        "pasta"
       ]
      },
      {
-      "text": "Cheedarostfylld quesadillas serveras med salsa, nachos och guacamolèkräm"
+      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
+      "types": [
+       "sallad"
+      ]
      },
      {
-      "text": "Grillad högrevsburgare Cheese & bacon serveras med briochebröd och pommes frites",
+      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
       "types": [
        "kott",
        "burgare"
@@ -5022,29 +5028,32 @@
     ],
     "wed": [
      {
-      "text": "Husets schnitzel på fläskytterfilè serveras med grönpepparsås och pommes frites",
+      "text": "Husets schnitzel på fläskytterfilè serveras med råstekt potatis och örtskysås",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Stekt dubbelpanerad sejfilé serveras med remouladsås och kokt potatis",
+      "text": "Sprödbakad sejfilé serveras med skirat smör och gröna ärtor",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Spaghetti bolognese serveras med riven grana padano och rucola",
+      "text": "Pasta Bolognese Funghi med champinjoner toppas med riven grana padano och rucola",
       "types": [
        "pasta"
       ]
      },
      {
-      "text": "Cheedarostfylld quesadillas serveras med salsa, nachos och guacamolèkräm"
+      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
+      "types": [
+       "sallad"
+      ]
      },
      {
-      "text": "Grillad högrevsburgare Cheese & bacon serveras med briochebröd och pommes frites",
+      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
       "types": [
        "kott",
        "burgare"
@@ -5053,30 +5062,40 @@
     ],
     "thu": [
      {
-      "text": "Hemlagade köttbullar serveras med gräddsås, lingonsylt och potatismos",
+      "text": "Husets skånska kalops serveras med skivade rödbetor och kokt potatis",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Örtsprödbakad koljafilè serveras med gräslökscremè och kokt potatis",
+      "text": "Isterband serveras med kapris, bacon och kaprisströ samt persiljestuvad potatis",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Pocherad koljafilé serveras med ört & vitvinssås samt kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med strimlad kycklingfilè och grönsaker i krämig basilikasås",
+      "text": "Pasta med strimlad rökt kalkonskinka i krämig ostsås toppas med riven grana padano och rucola",
       "types": [
+       "kott",
        "kyckling",
        "pasta"
       ]
      },
      {
-      "text": "Cheedarostfylld quesadillas serveras med salsa, nachos och guacamolèkräm"
+      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
+      "types": [
+       "sallad"
+      ]
      },
      {
-      "text": "Grillad högrevsburgare Cheese & bacon serveras med briochebröd och pommes frites",
+      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
       "types": [
        "kott",
        "burgare"
@@ -5085,30 +5104,34 @@
     ],
     "fri": [
      {
-      "text": "Grillade fläskfilémedaljonger serveras med whiskeysky, vitlöksfrästa hari cotverts & potatisgratäng",
+      "text": "Pepparrullad helstekt fläskfilé serveras med potatisgratäng örtbakad tomathalva & rödvinssky",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Husets fisk & skaldjusgratäng med doft av saffran & vitlök serveras med ris",
+      "text": "Husets fisk & skaldjursgratäng serveras med ris eller kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med bacon, gul lök, vitlök och grädde toppas med riven grana padano och rucola",
+      "text": "Pasta Del Mare med räkor och kräftstjärtar i krämig tomatsås",
+      "tag": "fisk",
       "types": [
-       "kott",
+       "fisk",
        "pasta"
       ]
      },
      {
-      "text": "Cheedarostfylld quesadillas serveras med salsa, nachos och guacamolèkräm"
+      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
+      "types": [
+       "sallad"
+      ]
      },
      {
-      "text": "Grillad högrevsburgare Cheese & bacon serveras med briochebröd och pommes frites",
+      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
       "types": [
        "kott",
        "burgare"
