@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 47,
- "generated_at": "2026-11-17T13:59:56+00:00",
+ "generated_at": "2026-11-18T13:34:58+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -3308,32 +3308,14 @@
    "days": {
     "mon": [
      {
-      "text": "Kött: Kycklingfilé m. basmatiris, paprikasås & picklad rödlök KALVSCHNITZEL",
+      "text": "Kött: Africanakyckling m. basmatiris, jordnötter, banan & mangochutney KALVSCHNITZEL",
       "types": [
        "kott",
        "kyckling"
       ]
      },
      {
-      "text": "Fisk: Pocherad kummelfilé m. kokt potatis Serveras & ägg-och persiljesås. potatis,",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "kaprissmör,"
-     },
-     {
-      "text": "Kött: Fetaostfyllda färsbiffar m. råstekt rödvinsås potatis, tzatziki & haricot verts",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Fisk: Panerad fiskfilé m. nudelsallad & rökt sojasås VECKANS",
+      "text": "Fisk: Tomatpestobakad fiskfilé m. ljummen Serveras potatissallad, tomatpestokräm & citron potatis,",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -3341,40 +3323,50 @@
       ]
      }
     ],
-    "wed": [
+    "tue": [
      {
-      "text": "Pasta",
-      "types": [
-       "pasta"
-      ]
-     },
-     {
-      "text": "Kött: Helgrillad fläskkarré m. klyftpotatis, tryffelbearnaise & gelé",
+      "text": "Kött: Baconlindad köttfärslimpa m. rostad rödvinsås potatis, gräddsås & lingon",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Fisk: Parmesanbakad kolja m. rostad potatis, VECKANS basilikagremolata & bakad tomat Pasta",
+      "text": "Fisk: Panerad fisk m. kokt potatis, rödbetor, fänkål, pepparrot & brynt smör VECKANS",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "pasta"
+       "fisk"
+      ]
+     }
+    ],
+    "wed": [
+     {
+      "text": "Kött: BBQ-marinerad karré m. cowboypotatis, äppelcoleslaw & chipotlemajo",
+      "types": [
+       "kott"
+      ]
+     },
+     {
+      "text": "Fisk: Ångad kummelfilé m. kokt potatis, skaldjurssås & blomkål",
+      "tag": "fisk",
+      "types": [
+       "fisk"
       ]
      }
     ],
     "thu": [
      {
-      "text": "Kött: Jägarschnitzel m. rostad potatis, svamp, bacon, brynt smör & ärtor KÖTTBULLAR",
+      "text": "Kött: Kycklingschnitzel m. rostad potatis, örtgårdssmör & rödvinssky",
       "types": [
-       "kott"
+       "kott",
+       "kyckling"
       ]
      },
      {
-      "text": "Fisk: Fiskgratäng m. potatismos, vitvinssås Serveras & sparris potatismos,",
+      "text": "Fisk: Fisksoppa m. saffran- och citrusaioli & krutonger potatismos,",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "soppa"
       ]
      }
     ],
@@ -3383,16 +3375,17 @@
       "text": "lingon,"
      },
      {
-      "text": "Kött: Grillad flankstek m. potatisgratäng & timjansky",
+      "text": "Kött: Långbakad högrev m. rostad potatis, romescosås & gratinerad broccoli",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Fisk: Kokt lax m. kokt potatis, rostad blomkål & kall romsås",
+      "text": "Fisk: Asiatiska fiskfärsbiffar m. basmatiris, wokade grönsaker, koriander, lime & srirachamayo",
       "tag": "fisk",
       "types": [
-       "fisk"
+       "fisk",
+       "nudlar"
       ]
      }
     ]
@@ -3857,7 +3850,7 @@
     ],
     "wed": [
      {
-      "text": "Street food: Chili lime bakad lax med ris, korianderslaw och sesamfrö",
+      "text": "Street food: Chili lime bakad lax med ris, & korianderslaw",
       "tag": "fisk",
       "types": [
        "fisk"
@@ -5682,11 +5675,10 @@
       ]
      },
      {
-      "text": "Green Kitchen: Caesarsallad West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
+      "text": "Green Kitchen: Ceasar West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
       ]
      },
      {
@@ -5738,11 +5730,10 @@
       ]
      },
      {
-      "text": "Green Kitchen: Caesarsallad West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
+      "text": "Green Kitchen: Ceasar West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
       ]
      },
      {
@@ -5793,11 +5784,10 @@
       ]
      },
      {
-      "text": "Green Kitchen: Caesarsallad West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
+      "text": "Green Kitchen: Ceasar West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
       ]
      },
      {
@@ -5825,7 +5815,7 @@
       ]
      },
      {
-      "text": "Äggnnudelwok, tempeh, broccoli, kål, salladslök, koriander",
+      "text": "Äggnu delwok, tempeh, broccoli, kål, salladslök, koriander",
       "tag": "veg",
       "types": [
        "veg",
@@ -5850,11 +5840,10 @@
       ]
      },
      {
-      "text": "Green Kitchen: Caesarsallad West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
+      "text": "Green Kitchen: Ceasar West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
       ]
      },
      {
@@ -5907,11 +5896,10 @@
       ]
      },
      {
-      "text": "Green Kitchen: Caesarsallad West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
+      "text": "Green Kitchen: Ceasar West Coast, räkor, gurka, picklad lök, parmesan, krutonger",
       "tag": "fisk",
       "types": [
-       "fisk",
-       "sallad"
+       "fisk"
       ]
      },
      {
