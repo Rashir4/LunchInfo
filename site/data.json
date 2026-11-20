@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 47,
- "generated_at": "2026-11-19T14:01:42+00:00",
+ "generated_at": "2026-11-20T13:45:41+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -1186,7 +1186,7 @@
       ]
      },
      {
-      "text": "Grillad pluma – Dragonsky - Broccoli – Potatispuré",
+      "text": "Grillad Pluma – Dragonsky - Broccoli – Potatispuré",
       "types": [
        "kott"
       ]
@@ -1207,7 +1207,7 @@
       ]
      },
      {
-      "text": "Grillad pluma – Dragonsky - Broccoli – Potatispuré",
+      "text": "Grillad Pluma – Dragonsky - Broccoli – Potatispuré",
       "types": [
        "kott"
       ]
@@ -1228,7 +1228,7 @@
       ]
      },
      {
-      "text": "Grillad pluma – Dragonsky - Broccoli – Potatispuré",
+      "text": "Grillad Pluma – Dragonsky - Broccoli – Potatispuré",
       "types": [
        "kott"
       ]
@@ -1249,7 +1249,7 @@
       ]
      },
      {
-      "text": "Grillad pluma – Dragonsky - Broccoli – Potatispuré",
+      "text": "Grillad Pluma – Dragonsky - Broccoli – Potatispuré",
       "types": [
        "kott"
       ]
@@ -1270,7 +1270,7 @@
       ]
      },
      {
-      "text": "Grillad pluma – Dragonsky - Broccoli – Potatispuré",
+      "text": "Grillad Pluma – Dragonsky - Broccoli – Potatispuré",
       "types": [
        "kott"
       ]
@@ -1278,7 +1278,7 @@
     ]
    },
    "error": null,
-   "stale_week": null
+   "stale_week": 49
   },
   {
    "id": "kizuna",
@@ -1400,81 +1400,6 @@
    "cuisine": "Thailändskt",
    "static_menu": false,
    "days": {
-    "wed": [
-     {
-      "text": "Massamancurry med kyckling. (nr. 7 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Baigrapao med biff. (nr. 10 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar. (nr. 20 på meny)"
-     },
-     {
-      "text": "Pat See Ew med grönsaker vegetarisk. (nr. 3a på meny)",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Gröncurrygryta med kyckling. (nr. 5 på meny)",
-      "types": [
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Pad Kratiem Prikthai med biff (nr. 12 på meny)",
-      "types": [
-       "kott",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Panerade & friterade kycklingbitar. (nr. 23 på meny)",
-      "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Wokade blandade grönsaker, vegan.",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Pad Thai med grönsaker, vegetarisk. (nr. 1 på meny)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "nudlar"
-      ]
-     },
-     {
-      "text": "Veggi vårrullar (nr. 20 på meny)"
-     }
-    ],
     "fri": [
      {
       "text": "Rödcurrygryta med kyckling. (nr. 4 på meny)",
@@ -2657,110 +2582,36 @@
    "days": {
     "mon": [
      {
-      "text": "Rostad kycklingsteak med potatisgratäng, råstekt brysselkål och rödvinssås",
+      "text": "Pappardelle med lammragù, pecorino och friterad salvia",
       "types": [
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska (155 kr): Spenat- och Bianchina-paj med kål-, mynta- och apelsinsallad samt gorgonzolavelouté",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Veckans pizza (195 kr): Pizza zucca e noci med pumpacruditè, crème fraîche, gorgonzola, Taleggio, valnötter och chilihonung",
-      "types": [
-       "pasta"
+       "kott"
       ]
      }
     ],
     "tue": [
      {
-      "text": "Polpette alla Bellora med parmesanpotatismos, broccoletti och tomatsås"
-     },
-     {
-      "text": "Veckans vegetariska (155 kr): Spenat- och Bianchina-paj med kål-, mynta- och apelsinsallad samt gorgonzolavelouté",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Veckans pizza (195 kr): Pizza zucca e noci med pumpacruditè, crème fraîche, gorgonzola, Taleggio, valnötter och chilihonung",
-      "types": [
-       "pasta"
-      ]
+      "text": "Polpette alla Bellora med potatismos, krämig Marsalasås, gröna ärtor och pecorino"
      }
     ],
     "wed": [
      {
-      "text": "Grillad fläskkarré med polenta taragna, svartkål och kryddig kycklingsky",
+      "text": "Dagens fångst med palsternackspuré, smörade morötter, vitvinssås och friterad svartkål",
+      "tag": "fisk",
       "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska (155 kr): Spenat- och Bianchina-paj med kål-, mynta- och apelsinsallad samt gorgonzolavelouté",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Veckans pizza (195 kr): Pizza zucca e noci med pumpacruditè, crème fraîche, gorgonzola, Taleggio, valnötter och chilihonung",
-      "types": [
-       "pasta"
+       "fisk"
       ]
      }
     ],
     "thu": [
      {
-      "text": "Fisksoppa med saffran och Grand Marnier, potatis, fänkål och saffransaioli",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska (155 kr): Spenat- och Bianchina-paj med kål-, mynta- och apelsinsallad samt gorgonzolavelouté",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Veckans pizza (195 kr): Pizza zucca e noci med pumpacruditè, crème fraîche, gorgonzola, Taleggio, valnötter och chilihonung",
-      "types": [
-       "pasta"
-      ]
+      "text": "Vildsvinssalsiccia med grillad cime di rapa, rostad rotselleri och rosmarinsky"
      }
     ],
     "fri": [
      {
-      "text": "Arrosto di vitello – långbakad kalvtri-tip med rostad potatis, spetskål och apelsinsky",
+      "text": "Osso buco – långkokt kalvlägg med saffransrisotto och rödvinssås",
       "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Veckans vegetariska (155 kr): Spenat- och Bianchina-paj med kål-, mynta- och apelsinsallad samt gorgonzolavelouté",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     },
-     {
-      "text": "Veckans pizza (195 kr): Pizza zucca e noci med pumpacruditè, crème fraîche, gorgonzola, Taleggio, valnötter och chilihonung",
-      "types": [
+       "kott",
        "pasta"
       ]
      }
@@ -3747,7 +3598,10 @@
    "days": {
     "fri": [
      {
-      "text": "Street food: Tacofredag med tillbehör"
+      "text": "Street food: Tacofredag (fläsk) med tillbehör",
+      "types": [
+       "kott"
+      ]
      },
      {
       "text": "Nordic: Bakad fångst med frasigt örttäcke, dillpotatis, rotsellerikräm, spenat- & äpplesallad",
@@ -4131,31 +3985,29 @@
    "days": {
     "mon": [
      {
-      "text": "Wallenbergare med potatismos, gräddsås, lingon och ärtor",
+      "text": "Köttbullar med gräddsås, potatismos, pressgurka och lingonsylt",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Sprödbakad dagens fångst med västkustcréme, potatis och citron",
+      "text": "Sprödbakad koljafilé med rom & dillsås, potatis och citron",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Köttgryta med curry, fläskkött, lök, paprika, grädde serveras med ris",
+      "text": "Fusilli arrabiata, fläskkött, bacon, paprika, tomat och grädde",
       "types": [
-       "kott",
-       "gryta"
+       "kott"
       ]
      },
      {
-      "text": "Vegetarisk lasagne",
+      "text": "Vegetarisk chili sin carne serveras med ris",
       "tag": "veg",
       "types": [
-       "veg",
-       "pasta"
+       "veg"
       ]
      },
      {
@@ -4173,23 +4025,23 @@
       ]
      },
      {
-      "text": "Pocherad dagens fångst i räksås serveras med duchesse potatis",
+      "text": "Pocherad kolja i persiljesås serveras med duchesse potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Stekt fläsk med löksås & kokt potatis",
+      "text": "Flygande Jakob med kyckling, bacon, banan serveras med ris",
       "types": [
-       "kott"
+       "kott",
+       "kyckling"
       ]
      },
      {
-      "text": "Gaeng koa sapparot, kyckling, rödcurry, kokosmjölk, paprika, ananas, limeblad serveras med ris",
+      "text": "Stekt fläsk med löksås & kokt potatis",
       "types": [
-       "kyckling",
-       "gryta"
+       "kott"
       ]
      },
      {
@@ -4214,38 +4066,41 @@
     ],
     "wed": [
      {
-      "text": "Viltfärsbiff med råstekt potatis, kantarellsås, vinbärsgelé",
+      "text": "Pannbiff med löksås serveras med klyftpotatis",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Smörstekt dagens fångst med kall rom & dillsås, potatis, rostade rödbetor och citron",
+      "text": "Stekt Dagens fångst med skagencremé, potatis, och citron",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Kebabbuffé med kött, kyckling, pommes frites, sallad och dressing",
+      "text": "Hamburgerbuffé, nötfärsburgare, bröd, pommes frites, sallad och dressing",
       "types": [
        "kott",
-       "kyckling",
-       "sallad"
+       "sallad",
+       "burgare"
       ]
      },
      {
-      "text": "Spaghetti carbonara",
+      "text": "Spaghetti del nonno, räkor, kräftor, purjolök, vitlök, grädde",
+      "tag": "fisk",
       "types": [
+       "fisk",
        "pasta"
       ]
      },
      {
-      "text": "Vegetarisk, falafel, pommes frites, sallad och dressing",
+      "text": "vegetarisk halloumiburgare pommes frites, sallad och dressing",
       "tag": "veg",
       "types": [
        "veg",
-       "sallad"
+       "sallad",
+       "burgare"
       ]
      },
      {
@@ -4255,25 +4110,22 @@
       ]
      },
      {
-      "text": "Idag bjuder vi på chokladpudding med vispad grädde"
+      "text": "idag bjuder vi på chokladpudding med vispad grädde"
      }
     ],
     "thu": [
      {
-      "text": "Biffstroganoff serveras med ris och pressgurka",
-      "types": [
-       "kott"
-      ]
+      "text": "Boeuf bourgogen serveras med potatismos"
      },
      {
-      "text": "Stekt dagens fångst med Dansk remouladsås, potatis och citron",
+      "text": "Panerad dagens fångst med Dansk remouladsås, potatis och citron",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Soppbuffé, ärtsoppa, fisk & skaldjurs soppa och hemlagade pannkakor med sylt & grädde",
+      "text": "soppbuffé, ärtsoppa, fisk & skaldjurssoppa och hemlagade pannkakor med sylt & grädde",
       "tag": "fisk",
       "types": [
        "fisk",
@@ -4281,13 +4133,13 @@
       ]
      },
      {
-      "text": "Lasagne al forno",
+      "text": "lasagne al forno",
       "types": [
        "pasta"
       ]
      },
      {
-      "text": "Vegetarisk, broccolisoppa, pannkakor med sylt & grädde",
+      "text": "vegetarisk, broccolisoppa, pannkakor med sylt & grädde",
       "tag": "veg",
       "types": [
        "veg",
@@ -4303,26 +4155,27 @@
     ],
     "fri": [
      {
-      "text": "Schnitzel serveras med pommes frites, bearnaise och ärtor",
+      "text": "Fläskytterfilé serveras med råstekt potatis, Chili bearnaise",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Ugnstekt laxfilé med skagensås, potatis och citron",
+      "text": "Parmesan panerad koljafilé med skagensås, potatis och citron",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Chicken à la King serveras med ris",
+      "text": "Gräddig chilipasta med fläskkött, vitlök sambal",
       "types": [
-       "kyckling"
+       "kott",
+       "pasta"
       ]
      },
      {
-      "text": "vegetarisk, Tryffelpasta med vin, svamp toppas med pinjenötter",
+      "text": "Vegetarisk tortellini ricotta spenat serveras med tomatsås toppas med grana padano",
       "tag": "veg",
       "types": [
        "veg",
@@ -4335,7 +4188,7 @@
     ]
    },
    "error": null,
-   "stale_week": null
+   "stale_week": 48
   },
   {
    "id": "gowri",
@@ -4977,191 +4830,144 @@
    "days": {
     "mon": [
      {
-      "text": "Baconlindad köttfärslimpa serveras med gräddsås, lingonsylt, saltgurka & kokt potatis",
+      "text": "Husets hemmagjorda pytt i panna serveras med stekt ägg och rödbetor",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Skagenbakad laxfilé serveras med vitvinssås och kokt potatis",
+      "text": "Pocherad laxfilè serveras med sparrissås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med strimlad kycklingfilé & grönsaker i krämig örtsås",
+      "text": "Pasta med strimlad biff och grönsaker i krämig svampsås",
       "types": [
-       "kyckling",
+       "kott",
        "pasta"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
-      "types": [
-       "sallad"
-      ]
+      "text": "Stekt ost & jalapenofylld quesadillas serveras med salsa, nachos & crème fraiche"
      },
      {
-      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
-      "types": [
-       "kott",
-       "burgare"
-      ]
+      "text": "Husets kebabrulle serveras med het kebabsås och fefferoni"
      }
     ],
     "tue": [
      {
-      "text": "Stekt fläsk med löksås & kokt potatis eller raggmunk och lingonsylt",
+      "text": "Stekt fläsk med löksås och kokt potatis eller raggmunk & lingonsylt",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Thailändsk kycklinggryta med smak av röd curry serveras med grönsakskokt ris",
+      "text": "Klassisk biff stroganoff serveras med paprikastekt ris",
       "types": [
-       "kyckling",
-       "gryta"
+       "kott"
       ]
      },
      {
-      "text": "Pocherad rödspättafilé serveras med kräfthollandaisesås och kokt potatis",
+      "text": "Bearnaisegratinerad sejfilè serveras med vitvinssås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med strimlad fläskfilé & grönsaker i krämig pepparsås",
+      "text": "Pasta med strimlad flankstek och grönsaker i krämig pepparsås",
       "types": [
-       "kott",
        "pasta"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
-      "types": [
-       "sallad"
-      ]
+      "text": "Stekt ost & jalapenofylld quesadillas serveras med salsa, nachos & crème fraiche"
      },
      {
-      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
-      "types": [
-       "kott",
-       "burgare"
-      ]
+      "text": "Husets kebabrulle serveras med het kebabsås och fefferoni"
      }
     ],
     "wed": [
      {
-      "text": "Husets schnitzel på fläskytterfilè serveras med råstekt potatis och örtskysås",
+      "text": "Stekt fläsknoisette serveras med jalapenokryddad bearnaisesås & pommes frites",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Sprödbakad sejfilé serveras med skirat smör och gröna ärtor",
+      "text": "Pocherad kummelfilè serveras med saffransås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta Bolognese Funghi med champinjoner toppas med riven grana padano och rucola",
+      "text": "Pasta med strimlad fläskfilè & grönsaker i krämig gorgonzolasås",
       "types": [
+       "kott",
        "pasta"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
-      "types": [
-       "sallad"
-      ]
+      "text": "Stekt ost & jalapenofylld quesadillas serveras med salsa, nachos & crème fraiche"
      },
      {
-      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
-      "types": [
-       "kott",
-       "burgare"
-      ]
+      "text": "Husets kebabrulle serveras med het kebabsås och fefferoni"
      }
     ],
     "thu": [
      {
-      "text": "Husets skånska kalops serveras med skivade rödbetor och kokt potatis",
+      "text": "Kalvlevergryta Anglaise serveras med knaperstekt bacon och kokt potatis",
       "types": [
-       "kott"
+       "kott",
+       "gryta"
       ]
      },
      {
-      "text": "Isterband serveras med kapris, bacon och kaprisströ samt persiljestuvad potatis",
-      "types": [
-       "kott"
-      ]
+      "text": "Husets chili con carne serveras med ris och chiliaioli"
      },
      {
-      "text": "Pocherad koljafilé serveras med ört & vitvinssås samt kokt potatis",
+      "text": "Pocherad torskfilé serveras med ägg & persiljesås och kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta med strimlad rökt kalkonskinka i krämig ostsås toppas med riven grana padano och rucola",
-      "types": [
-       "kott",
-       "kyckling",
-       "pasta"
-      ]
+      "text": "Stekt ost & jalapenofylld quesadillas serveras med salsa, nachos & crème fraiche"
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
-      "types": [
-       "sallad"
-      ]
-     },
-     {
-      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
-      "types": [
-       "kott",
-       "burgare"
-      ]
+      "text": "Husets kebabrulle serveras med het kebabsås och fefferoni"
      }
     ],
     "fri": [
      {
-      "text": "Pepparrullad helstekt fläskfilé serveras med potatisgratäng örtbakad tomathalva & rödvinssky",
+      "text": "Nattbakad tunnskivad rostbiff serveras med vitlökssky och potatisgratäng",
       "types": [
        "kott"
       ]
      },
      {
-      "text": "Husets fisk & skaldjursgratäng serveras med ris eller kokt potatis",
+      "text": "Stekt dubbelpanerad fiskfilé serveras med dansk remouladsås & kokt potatis",
       "tag": "fisk",
       "types": [
        "fisk"
       ]
      },
      {
-      "text": "Pasta Del Mare med räkor och kräftstjärtar i krämig tomatsås",
-      "tag": "fisk",
+      "text": "Pasta med bacon, lök, paprika i krämig ädelostsås",
       "types": [
-       "fisk",
+       "kott",
        "pasta"
       ]
      },
      {
-      "text": "Soltorkad tomat & fetaostpaj serveras med basilikacremè & mixsallad",
-      "types": [
-       "sallad"
-      ]
+      "text": "Stekt ost & jalapenofylld quesadillas serveras med salsa, nachos & crème fraiche"
      },
      {
-      "text": "Grillad högrevsburgare Mexicana serveras med briochebröd & pommes frites",
-      "types": [
-       "kott",
-       "burgare"
-      ]
+      "text": "Husets kebabrulle serveras med het kebabsås och fefferoni"
      }
     ]
    },
@@ -5308,124 +5114,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Baconlindad köttfärslimpa med svampsås, potatispuré & svartvinbärsgelé L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Friterad kolja med klyftpotatis, mushy peas, tartarsås & vinäger G",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Friterad tofu med klyftpotatis, mushy peas, tartarsås & vinäger G L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Stekt rimmat fläsk med frasiga raggmunkar & rårörda lingon, alternativt löksås & persiljepotatis G L",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Gratinerad flundra med vitvinssås, pommes duchesse, sparris & citron L",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Rökt och marinerad stekt tofu med raggmunk och rårörda lingon, alternativt kokt potatis och löksås G L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Friterad kyckling med sötsur sås, sechuanmajonnäs. Stekt ris med grönsaker G",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Matsmaks gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd G L",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Tryffeldoftande svampsoppa med bakade rotfrukter & rotsakschips L",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, sotad citron, kryddsmör & bearnaisesås G",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Fiskpiccata med kokt potatis, tomat, citron, persilja & vitlök",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Halloumipicccata med kokt potatis, tomat, citron, persilja & vitlök L",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Kyckling tikka masala med ris, papadum & gräddig sås",
-      "types": [
-       "kott",
-       "kyckling",
-       "gryta"
-      ]
-     },
-     {
-      "text": "FISK: Halstrad regnbåge med dillslungad potatis, brynt smör, knäckebröd & gubbröra G L",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Friterade vårrullar med soja- och sesamdip, sötsur sås & ris",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x7fa32b29a540>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
