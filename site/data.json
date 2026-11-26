@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "week": 48,
- "generated_at": "2026-11-25T15:11:10+00:00",
+ "generated_at": "2026-11-26T14:38:15+00:00",
  "anchor": "Lennart Torstenssonsgatan, Göteborg",
  "restaurants": [
   {
@@ -343,74 +343,8 @@
    "lunch_hours": "tis–fre 11.30–14.00",
    "cuisine": "Fisk & skaldjur",
    "static_menu": true,
-   "days": {
-    "tue": [
-     {
-      "text": "Dagens Fångst 165 kr – Dagens fångst serveras med chilirostad savoykål, syrlig hollandaisesås & smörslungad potatis.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "Dagens fångst 165 kr – Fisk- & skaldjursgryta med saffran, rostad rotselleri, fänkålscrudité & dillslungad potatis.",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "gryta"
-      ]
-     },
-     {
-      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Dagens fångst 165 kr – Pankobakad fångst serveras med smörslungad haricoverts, kall örtsås & rostad potatis.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Dagens fångst 165 kr – Citronbakad fångst serveras med brynt smör, pepparrot & potatis- & palsternackstomp.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Räksmörgås 255 kr – Klassisk räksmörgås med 150g handskalade räkor.",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "ValidationError: parser returned no dishes for any weekday",
    "stale_week": null
   },
   {
@@ -1864,99 +1798,8 @@
    "lunch_hours": "Tis–fre 11.00–15.00",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "tue": [
-     {
-      "text": "Stekt panko-panerad koljafilé med en sötad citron- och chilikräm samt färsk bladspenat",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "Rödbetsbiff med fetaost-yoghurt med mild smak av vitlök och franska örter",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Havets Wallenbergare med Skagenröra och potatismos",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "kott"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "Fisksoppa på ”bohuslänskt vis” med dagens fångst, räkor och grönsaker samt dessertpaj med vaniljsås",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "Rödbetsbiff med fetaost-yoghurt med mild smak av vitlök och franska örter",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Havets Wallenbergare med Skagenröra och potatismos",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "kott"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "Boeuf Bourguignon med knaperstekt fläsk samt persilje- och smörstompad potatis",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Rödbetsbiff med fetaost-yoghurt med mild smak av vitlök och franska örter",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     },
-     {
-      "text": "Traktörs köttbullar med gräddsås & rårörda lingon",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "Havets Wallenbergare med Skagenröra och potatismos",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "kott"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "ValidationError: parser returned no dishes for any weekday",
    "stale_week": null
   },
   {
@@ -5375,130 +5218,8 @@
    "lunch_hours": "11.00–13.30",
    "cuisine": "Husmanskost",
    "static_menu": false,
-   "days": {
-    "mon": [
-     {
-      "text": "KÖTT: Lasagne al Forno med krämig bechamelsås, ruccola, riven hårdost, tomat- och rödlökssallad (L, G)",
-      "types": [
-       "kott",
-       "pasta",
-       "sallad"
-      ]
-     },
-     {
-      "text": "FISK: Misobakad flundrafilé, rostad potatis, blomkålspuré, brynt sojasmör och sesamfrö (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Lasagne med krämig bechamelsås ruccola, riven hårdost, tomat- och rödlökssallad (L, G)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "pasta",
-       "sallad"
-      ]
-     }
-    ],
-    "tue": [
-     {
-      "text": "KÖTT: Confiterat anklår, potatiskaka, rödvinssås, rökt sidfläsk, vitlöksrostade haricots verts",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Panerad fisk, med skaldjursröra, potatispuré, dillslungade sockerärtor och citron (L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk"
-      ]
-     },
-     {
-      "text": "VEG: Friterad getost, bakade betor, rostad potatis, picklad gulbeta & rosmarinhonung",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "wed": [
-     {
-      "text": "KÖTT: Fetaostfyllda färsbiffar, tzatziki, vattenmelon- & gurksallad, klyftpotatis (L)",
-      "types": [
-       "kott",
-       "sallad"
-      ]
-     },
-     {
-      "text": "FISK: MATSMAKs gräddiga fisksoppa, toppad med räkor, dill, aioli & vitlöksbröd (L, G)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "soppa"
-      ]
-     },
-     {
-      "text": "VEG: Tryffeldoftande svampsoppa med bakade rotfrukter & rotsakschips (L)",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "soppa"
-      ]
-     }
-    ],
-    "thu": [
-     {
-      "text": "KÖTT: Panerad fläskschnitzel med stekt potatis, gröna ärtor, citron, rödvinssås & persiljesmör (G)",
-      "types": [
-       "kott"
-      ]
-     },
-     {
-      "text": "FISK: Halstrad regnbåge med Sandefjordssås, örtduchesse, kruditésallad på fänkål, morot & spenat (L)",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "VEG: Gnocci stekt i salviasmör med svamp, spenat & riven halloumi",
-      "tag": "veg",
-      "types": [
-       "veg"
-      ]
-     }
-    ],
-    "fri": [
-     {
-      "text": "KÖTT: Kalkonwallenbergare panerad i ört-mie du pain, potatismos, skirat smör & gröna ärtor (L, G)",
-      "types": [
-       "kott",
-       "kyckling"
-      ]
-     },
-     {
-      "text": "FISK: Laxbowl med skandinaviska smaker, pepparrotscreme, ris, gröna bönor, picklad morot, bakad rödbeta & pumpakärnor",
-      "tag": "fisk",
-      "types": [
-       "fisk",
-       "sallad"
-      ]
-     },
-     {
-      "text": "VEG: Tofubowl med skandinaviska smaker, pepparrotscreme, ris, gröna bönor, picklad morot, bakad rödbeta & pumpakärnor",
-      "tag": "veg",
-      "types": [
-       "veg",
-       "sallad"
-      ]
-     }
-    ]
-   },
-   "error": null,
+   "days": {},
+   "error": "FetchError: failed to fetch https://matsmak.se/dagens-lunch/ after 3 attempts: HTTPSConnectionPool(host='matsmak.se', port=443): Max retries exceeded with url: /dagens-lunch/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='matsmak.se', port=443) at 0x745658105250>, 'Connection to matsmak.se timed out. (connect timeout=20)'))",
    "stale_week": null
   },
   {
